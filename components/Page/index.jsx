@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Header from '../Header'
+import Footer from '../Footer'
 import Article from '../Article'
 import theme from '../../models/theme'
 
@@ -10,16 +11,26 @@ class Page extends React.Component {
   }
 
   render() {
-    console.log(this.props)
-    const {articles} = this.props.model
+    const {showToast, articles} = this.props.model
     const title = 'Carleton Newsletter'
     return (
-      <div style={styles.root}>
-        <div style={styles.body}>
-          <Header/>
-          {articles.map((article, index) => <Article key={`article-${index}`} {...article}/> )}
+        <html lang='en'>
+        <head>
+          <meta charSet='utf-8' />
+          <meta name='viewport' content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1' />
+          <link rel='stylesheet' href='style.css' />
+          <title>{this.props.title}</title>
+        </head>
+        <body>
+        <div style={styles.root}>
+          <div style={styles.body}>
+            <Header showToast={showToast} />
+            {articles.map((article, index) => <Article key={`article-${index}`} {...article}/> )}
+            <Footer/>
+          </div>
         </div>
-      </div>
+        </body>
+      </html>
     )
   }
 }
@@ -29,7 +40,7 @@ const styles = {
     fontFamily: 'Helvetica',
     margin: 'auto',
     width: '100%',
-    maxWidth:'1024px',
+    maxWidth:'700px',
     paddingTop:'5vh 0 5vh 0',
     backgroundColor:theme.body,
     borderRadius: '10px'

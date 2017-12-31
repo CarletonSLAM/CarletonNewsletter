@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node index.js --presets es2015,stage-2,react",
+    "build": "babel-node index.js --presets es2015,stage-2,react",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "irusha@vidanamadura.net",
   "license": "ISC",
   "dependencies": {
     "react": "^16.2.0",
