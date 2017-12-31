@@ -21,8 +21,8 @@ const Article = (props) => {
         : ''
       }
       <div style={styles.textarea}>
-        {props.body.map((props, ind) => {
-          return <ArticleText key={`a-text-${ind}`} {...props}>{props.text}</ArticleText>
+        {props.body.map(({tag, attr, text}, ind) => {
+          return <ArticleText key={`a-text-${ind}`} tag={tag} attr={attr}>{text}</ArticleText>
         })}
       </div>
     </div>

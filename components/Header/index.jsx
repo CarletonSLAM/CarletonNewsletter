@@ -38,7 +38,9 @@ const styles = {
   buttons: {
     fontSize: '20px',
     fontWeight: 'bold',
-    margin: '1vh 2vw 1vh 2vw'
+    margin: '10px 20px 10px 20px',
+    padding: '0 15px',
+    width:'120px'
   }
 }
 

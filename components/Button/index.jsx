@@ -22,7 +22,7 @@ const styles = {
     backgroundColor: theme.primary,
     color: '#fff',
     textDecoration: 'none',
-    padding: '0 1vw'
+    padding: '0 15px'
   }
 }
 

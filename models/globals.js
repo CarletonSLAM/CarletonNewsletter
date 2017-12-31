@@ -3,7 +3,7 @@ module.exports = {
     fullName: 'IEEE Carleton University Student Branch',
     headerImg: 'https://raw.githubusercontent.com/CarletonSLAM/CarletonNewsletter/master/img/branch_logo_blue.png',
     website: 'https://ieeecarleton.ca',
-    toast: 'Keeping Up with IEEE, A weekly Newsletter',
+    toast: 'Keeping up with IEEE, a monthly newsletter',
     email: 'info@ieeecarleton.ca',
     links: {
         top: [
