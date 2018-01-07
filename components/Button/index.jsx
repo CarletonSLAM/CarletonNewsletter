@@ -5,7 +5,7 @@ import theme from '../../models/theme'
 const Link = (props) => {
 
   const attr = props.attr
-  attr.style = Object.assign(styles.root, attr.style)
+  attr.style = Object.assign({}, styles.root, attr.style)
   return (
     <a target='_blank' {...attr}><span>{props.children}</span></a>
   )
@@ -18,7 +18,8 @@ const styles = {
     height: '40px',
     lineHeight: '40px',
     borderRadius: '5px',
-    fontSize: '0.9em',
+    fontSize: '20px',
+    fontWeight: 'bold',
     backgroundColor: theme.primary,
     color: '#fff',
     textDecoration: 'none',

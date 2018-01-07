@@ -11,7 +11,7 @@ const Article = (props) => {
   return (
     <div style={styles.root}>
       <div style={styles.title} >{props.title}</div>
-      {(props.img !== undefined) ? <div><img width='100%' src={imageBase + props.img} /></div> : ''}
+      {(props.img !== undefined) ? <div><img width='100%' src={props.externalImg ? props.img : (imageBase + props.img)} /></div> : ''}
       {(props.date && props.time && props.location) ?
         <div style={styles.logistics}>
           {(props.date !== undefined) ? <div>Date: {props.date}</div> : ''}

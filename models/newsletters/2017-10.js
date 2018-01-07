@@ -1,5 +1,5 @@
 module.exports = {
-    // showToast: false,
+    toast: 'Keeping up with IEEE, a monthly newsletter',
     articles: [
         {
             title: '2017 IEEE Day',

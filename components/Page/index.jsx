@@ -11,7 +11,7 @@ class Page extends React.Component {
   }
 
   render() {
-    const {showToast, articles} = this.props.model
+    const {toast, articles} = this.props.model
     const title = 'Carleton Newsletter'
     return (
         <html lang='en'>
@@ -24,7 +24,7 @@ class Page extends React.Component {
         <body>
         <div style={styles.root}>
           <div style={styles.body}>
-            <Header showToast={showToast} />
+            <Header toast={toast} />
             {articles.map((article, index) => <Article key={`article-${index}`} {...article}/> )}
             <Footer/>
           </div>

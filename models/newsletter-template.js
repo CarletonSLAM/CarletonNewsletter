@@ -1,5 +1,5 @@
 module.exports = {
-    // showToast: false,  //Used to show the 'Keeping up with IEEE Carleton messge', useful when jsut sending one email
+    toast: '',  //i.e. 'Keeping up with IEEE Carleton messge',
     articles: [
         {
             title: '',

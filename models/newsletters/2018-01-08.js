@@ -1,5 +1,5 @@
 module.exports = {
-    // showToast: false,
+    toast: 'Keeping up with IEEE, a weekly newsletter',
     articles: [
         {
             title: 'Welcome Back!',
@@ -11,6 +11,44 @@ module.exports = {
                 {
                     tag: 'p',
                     text: `We will be sending an email regarding volunteering opportunites shortly!`
+                },
+            ]
+        },
+        {
+            title: 'Robowars Competition Information Session & Kickoff',
+            img: 'http://robowars.ca/img/2018/robowar-announcement.png',
+            externalImg: true,
+            date: ' Thursday, January 11, 2018',
+            time: '5:30 PM - 7:00 PM',
+            location: 'ME 4463, Carleton University',
+            body: [
+                {
+                    tag: 'p',
+                    text: `Concordia University's IEEE Branch will be hosting their 6th annual Robowars Competition on March 10th, 2018.
+                        This is a 3kg autonomous sumo robot competition held at Concordia where teams compete to push each others bots out of the arena.`
+                },
+                {
+                    tag: 'p',
+                    text: `Interested? We are looking for students new and experienced that we can send as a team from Carleton Univeristy!`
+                },
+                {
+                    tag: 'p',
+                    text: `This is great opportunity to put on your resume, to meet people from Concordia and around the country, and to learn and apply elements from mechanical, electrical and software engineering.`
+                },
+                {
+                    tag: 'p',
+                    text: `Learn more about the competition below:`
+                },
+                {
+                    tag: 'a',
+                    attr: {
+                        href: 'http://robowars.ca/dl/RoboWars2018-rules-rev1.pdf'
+                    },
+                    text: `Robowars Rules & Regulations Package`
+                },
+                {
+                    tag: 'p',
+                    text: `To learn more and be part of this team, come to our information session this Thursday in ME 4463 at Carleton Univerity`
                 },
             ]
         },
@@ -42,20 +80,20 @@ module.exports = {
                     text: `Before and after the dinner we will have professional guest speakers, each from a company you will able to network with during the event. For more information about the speakers and schedule, visit the website at ieeespac.ca`
                 },
                 {
-                    tag: 'p', 
+                    tag: 'p',
                     attr: {
                         style: {
                             fontWeight: 'bold'
-                        } 
+                        }
                     },
                     text: `Hope to see you at SPAC 2018!`
                 },
                 {
-                    tag: 'button', 
+                    tag: 'button',
                     attr: {
                         href: 'http://ieeespac.ca/'
                     },
-                    text: 'Learn More Here'
+                    text: 'Visit the SPAC Website'
                 },
             ]
         },
@@ -91,22 +129,29 @@ module.exports = {
                     text: `Reminder: The following day (Jan. 24) is Co-op and Career Services Summer Job Fair! Make sure you stop by the UC Galleria from 10 a.m. to 3 p.m.and check it out!`
                 },
                 {
-                    tag: 'p', 
-                    arrt: {
+                    tag: 'p',
+                    attr: {
                         style: {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `We hope you can make it`
+                    text: `We hope you can make it! Make sure you RSVP through Carleton's MySuccess.`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://carleton.ca/career/mysuccess/'
+                    },
+                    text: 'RSVP via MySuccess'
                 },
             ]
         },
         {
-            title: 'Stay Late and Make (Every Thursday)',
+            title: 'Stay Late and Make Workspace',
             img: 'slam.jpg',
-            date: 'TDB',
+            date: 'Thursdays starting Jan. 18th',
             time: '6:30 PM - 9:30 PM',
-            location: 'TBD',
+            location: 'ME 4463, Carleton University',
             body: [
                 {
                     tag: 'p',
@@ -123,17 +168,16 @@ module.exports = {
                 },
                  {
                     tag: 'p',
-                    text: `Come join us every Thursday from 5:30 PM - 9:30 PM in ME4463 at Carleton Univeristy?`
+                    text: `Come join us every Thursday starting January 18th from 5:30 PM - 9:30 PM in ME4463 at Carleton Univeristy?`
                 },
                 {
-                    tag: 'p', 
-                    arrt: {
+                    tag: 'a',
+                    attr: {
                         style: {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `NOTE You MUST be an IEEE Member to participate, and you must also sign up on the official IEEEXtreme
-                    website before Oct. 4.`
+                    text: `Visit.`
                 },
             ]
         },
@@ -153,8 +197,8 @@ module.exports = {
                     Record (CCR), and enhance your resume when the accomplishments you make at IEEE.`
                 },
                 {
-                    tag: 'p', 
-                    arrt: {
+                    tag: 'p',
+                    attr: {
                         style: {
                             fontWeight: 'bold'
                         }
@@ -162,8 +206,8 @@ module.exports = {
                     text: `Come by our office (ME 3359) or email us at info@ieeecarleton.ca`
                 },
                 {
-                    tag: 'p', 
-                    arrt: {
+                    tag: 'p',
+                    attr: {
                         style: {
                             fontWeight: 'bold'
                         }
@@ -171,44 +215,44 @@ module.exports = {
                     text: `Our next Executive meetings are held on the following days in Mackenzie 4359`
                 },
                 {
-                    tag: 'p', 
+                    tag: 'p',
                     text: `Monday, Jan 15th - 6:00 PM - 7:30 PM`
                 },
                 {
-                    tag: 'p', 
+                    tag: 'p',
                     text: `Wednesday, Jan 31st - 6:00 PM - 7:30 PM`
                 },
                 {
-                    tag: 'p', 
+                    tag: 'p',
                     text: `Monday, Feb 12th - 6:00 PM - 7:30 PM`
                 },
                 {
-                    tag: 'p', 
+                    tag: 'p',
                     text: `Wednesday, Feb 28th - 6:00 PM - 7:30 PM`
                 },
                 {
-                    tag: 'p', 
+                    tag: 'p',
                     text: `Monday, Mar 12th - 6:00 PM - 7:30 PM`
                 },
                  {
-                    tag: 'p', 
+                    tag: 'p',
                     text: `Wednesday, Mar 28th - 6:00 PM - 7:30 PM`
                 },
                 {
-                    tag: 'p', 
+                    tag: 'p',
                     text: `Monday, Apr 9th - 6:00 PM - 7:30 PM`
                 },
                 {
-                    tag: 'button', 
+                    tag: 'button',
                     attr: {
-                        href: 'https://docs.google.com/forms/d/e/1FAIpQLSe-JLKZBZn-krBqnAteq_C6ii852dHvZqEpFcXnE0ZYHcE52w/viewform/'
+                        href: 'https://docs.google.com/forms/d/e/1FAIpQLSe-JLKZBZn-krBqnAteq_C6ii852dHvZqEpFcXnE0ZYHcE52w/viewform/',
                     },
                     text: 'Mailing List Sign Up'
                 },
-            
-            
+
+
             ]
         },
-        
+
     ]
 }
