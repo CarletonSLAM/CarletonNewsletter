@@ -29,7 +29,7 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `Interested? We are looking for students new and experienced that we can send as a team from Carleton Univeristy!`
+                    text: `Interested? We are looking for students new and experienced that we can send as a team from Carleton University!`
                 },
                 {
                     tag: 'p',
@@ -48,7 +48,7 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `To learn more and be part of this team, come to our information session this Thursday in ME 4463 at Carleton Univerity`
+                    text: `To learn more and be part of this team, come to our information session this Thursday in ME 4463 at Carleton University`
                 },
                 {
                     tag: `a`,
@@ -175,7 +175,7 @@ module.exports = {
                 },
                  {
                     tag: 'p',
-                    text: `Come join us every Thursday starting January 18th from 5:30 PM - 9:30 PM in ME4463 at Carleton Univeristy?`
+                    text: `Come join us every Thursday starting January 18th from 5:30 PM - 9:30 PM in ME4463 at Carleton University!`
                 },
                 {
                     tag: 'a',
