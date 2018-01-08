@@ -175,16 +175,7 @@ module.exports = {
                 },
                  {
                     tag: 'p',
-                    text: `Come join us every Thursday starting January 18th from 5:30 PM - 9:30 PM in ME4463 at Carleton Univeristy?`
-                },
-                {
-                    tag: 'a',
-                    attr: {
-                        style: {
-                            fontWeight: 'bold'
-                        }
-                    },
-                    text: `Visit.`
+                    text: `Come join us every Thursday starting January 18th from 5:30 PM - 9:30 PM in ME4463 at Carleton Univeristy.`
                 },
             ]
         },
