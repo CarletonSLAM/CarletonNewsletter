@@ -50,6 +50,13 @@ module.exports = {
                     tag: 'p',
                     text: `To learn more and be part of this team, come to our information session this Thursday in ME 4463 at Carleton Univerity`
                 },
+                {
+                    tag: `a`,
+                    attr: {
+                        href: 'https://www.facebook.com/events/519681708411318/'
+                    },
+                    text: `Facebook Event Page`
+                },
             ]
         },
         {
