@@ -199,7 +199,7 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `nterested in being part of the team? This opportunity allows you to experiement and improve you
+                    text: `Interested in being part of the team? This opportunity allows you to experiement and improve you
                     technical, communication, management, and leadership skills, receive credits in Carleton's Co-Curricular
                     Record (CCR), and enhance your resume when the accomplishments you make at IEEE.`
                 },
