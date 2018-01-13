@@ -13,6 +13,11 @@ const EXPORT_PATH = './output/'
 
 fs.readdir(IMPORT_PATH, function (err, files) {
   if (err) { return new Error(err) }
+
+  // Remove dotfiles (i.e. .DS_Store)
+  // https://stackoverflow.com/questions/18973655/how-to-ingnore-hidden-files-in-fs-readdir-result
+  files = files.filter(item => !(/(^|\/)\.[^\/\.]/g).test(item));
+
   files.forEach(function (file) {
     const model = require(path.resolve(IMPORT_PATH, file));
     const html = renderToStaticMarkup(createElement(Page, {
