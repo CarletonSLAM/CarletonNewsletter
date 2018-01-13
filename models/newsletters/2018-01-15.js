@@ -27,7 +27,6 @@ module.exports = {
         {
             title: 'IEEE Carleton Winter Volunteer Orientation',
             img: 'Carleton_Office.jpg',
-            externalImg: true,
             date: 'Monday, January 17, 2018',
             time: '6:00 PM - 7:00 PM',
             location: 'ME 4359, Carleton University',
@@ -66,7 +65,6 @@ module.exports = {
         {
             title: 'IEEE SPAC 2018 Networking Workshop',
             img: 'NetworkingWorkshop-01.png',
-            externalImg: true,
             date: ' Monday, January 22, 2018',
             time: '5:30 PM - 7:00 PM',
             location: 'ME 4359, Carleton University',
