@@ -144,7 +144,7 @@ module.exports = {
             img: 'pcb.png',
             date: 'Sunday, January 28, 2018',
             time: '10:00 AM - 5:00 PM',
-            location: 'Richcraft Hall, Carleton University',
+            location: 'ME 4463',
             body: [
                 {
                     tag: 'p',
