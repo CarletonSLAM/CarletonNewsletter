@@ -141,7 +141,7 @@ module.exports = {
         },
         {
             title: 'PCB Design Workshop #1',
-            img: 'PCB-Design-Workshop-Banner-01.png',
+            img: 'pcb.png',
             date: 'Sunday, January 28, 2018',
             time: '10:00 AM - 5:00 PM',
             location: 'Richcraft Hall, Carleton University',
