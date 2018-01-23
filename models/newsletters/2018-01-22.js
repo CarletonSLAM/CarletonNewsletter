@@ -2,50 +2,6 @@ module.exports = {
     toast: 'Keeping up with IEEE, a weekly newsletter',
     articles: [
         {
-            title: 'IEEE SPAC 2018 Networking Workshop',
-            img: 'NetworkingWorkshop-01.png',
-            date: ' Monday, January 22, 2018',
-            time: '5:30 PM - 7:00 PM',
-            location: 'ME 4359, Carleton University',
-            body: [
-                {
-                    tag: 'p',
-                    text: `The SPAC 2018 Networking workshop aims to prepare you for efficient communication between you and a professional. This workshop will give you tips and tricks on how to network, what to do and what not to do.`
-                },
-                {
-                    tag: 'p',
-                    text: `With SPAC 2018, the Student Professional Awareness Conference, coming up, this is the perfect opportunity to brush up on your networking skills before the formal dinner networking event!`
-                },
-                {
-                    tag: 'p',
-                    text: `If you have not already gotten your tickets to SPAC, get them now at: http://ieeespac.ca/`
-                },
-                {
-                    tag: 'a',
-                    attr: {
-                        href: 'https://docs.google.com/forms/d/e/1FAIpQLSfy8_JikSPIJx9KKEoN8MrzkrUMu5Fl8Vz6i_b3hOy080woDQ/viewform'
-                    },
-                    text: `Register here!`
-                },
-                {
-                    tag: `a`,
-                    attr: {
-                        href: 'https://www.facebook.com/events/1712512845483051/'
-                    },
-                    text: `Facebook Event Page`
-                },
-                {
-                    tag: 'p',
-                    attr: {
-                        style: {
-                            fontWeight: 'bold'
-                        }
-                    },
-                    text: `We hope to see all of you at the networking workshop!`
-                },
-            ]
-        },
-        {
             title: 'IEEE SPAC 2018',
             img: 'SPAC2018PagePhoto-01.png',
             date: ' Thursday, January 25, 2018',
@@ -196,6 +152,111 @@ module.exports = {
                     tag: 'button',
                     attr: {
                         href: 'https://www.facebook.com/events/394109351032972/'
+                    },
+                    text: 'Facebook Event Page'
+                },
+            ]
+        },
+        {
+            title: 'Ross Video Industry Tour',
+            img: 'ross.png',
+            date: 'Monday, January 29, 2018',
+            time: '11:30 AM - 1:30 PM',
+            location: '62 Auriga Drive',
+            body: [
+                {
+                    tag: 'p',
+                    text: `IEEE Carleton is bringing you an opportunity to tour the Ross Video Campus this upcoming Monday!`
+                },
+                {
+                    tag: 'p',
+                    text: `Explore the campus, learn about the company's values, interact with their products, and learn about potential career opportunities.`
+                },
+                {
+                    tag: 'p',
+                    text: 'To Sign up for the event, Register at the IEEE Carleton Office.'
+                },
+                {
+                    tag: 'p',
+                    text: 'There will be a $5 deposit involved for transportation costs.'
+                },
+                {
+                    tag: 'p',
+                    text: 'Register for the tour at the IEEE Office in ME 3359!'
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `We hope to see you there!`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/1832609253438120/'
+                    },
+                    text: 'Facebook Event Page'
+                },
+            ]
+        },
+        {
+            title: 'Software Technical Interview Workshop',
+            img: 'tech_interview.png',
+            date: 'Wednesday, January 31, 2018',
+            time: '6:00 PM - 7:30 PM',
+            location: 'CB 2400',
+            body: [
+                {
+                    tag: 'p',
+                    text: `Hey everyone! We have a workshop coming up that will walk you through how to tackle technical interview questions. These are the same types of questions you will see in interviews with Google, Microsoft, Facebook, etc!`
+                },
+                {
+                    tag: 'p',
+                    text: `In the first half of the workshop, we will explain the general process you should follow in solving technical problems, some of the background knowledge you should have, and some of the common strategies for tackling these problems.`
+                },
+                {
+                    tag: 'p',
+                    text: 'In the second half of the workshop, a few easy, medium, and hard problems will be given to the attendees to work on.'
+                },
+                {
+                    tag: 'p',
+                    text: 'These problems are taken directly from interviews with big companies.'
+                },
+                {
+                    tag: 'p',
+                    text: 'Experienced people will also be around to help you out if you do not know how to solve a problem.'
+                },
+                {
+                    tag: 'p',
+                    text: `Basic prior programming knowledge is all you need.`
+                },
+                {
+                    tag: 'p',
+                    text: `This workshop is completely free and anyone who wants to get better at technical interview problems is welcome to attend.`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `We hope to see you there!`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://goo.gl/forms/yNShLS9YItnFP5962'
+                    },
+                    text: 'Please register here!'
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/213431922551851/'
                     },
                     text: 'Facebook Event Page'
                 },
