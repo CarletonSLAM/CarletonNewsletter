@@ -131,7 +131,7 @@ module.exports = {
                     text: `By the end of this workshop series, you will be able to:
                         - Use EAGLE PCB Design to add, connect, and verify parts together
                         - Get your own board designed and manufactured
-                        - Solder both surface-mount and through-hole components on to your baord
+                        - Solder both surface-mount and through-hole components on to your board
                         - Learn the process of loading programs on to your board. 
                         - Test and run programs on your board`
                 },
@@ -166,23 +166,32 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `IEEE Carleton is bringing you an opportunity to tour the Ross Video Campus this upcoming Monday!`
+                    text: `IEEE Carleton is pleased to give you the opportunity to get an inside look at one of the prominent software establishments in Ottawa, Ross Video.`
                 },
                 {
                     tag: 'p',
-                    text: `Explore the campus, learn about the company's values, interact with their products, and learn about potential career opportunities.`
+                    text: `Ross video specializes in broadcasting, augmented reality, virtual sets, advanced camera technology and much more. Ross video is a Canadian born company that has a strong, self sustained foot in the industry that has seen much growth in recent years.`
                 },
                 {
                     tag: 'p',
-                    text: 'To Sign up for the event, Register at the IEEE Carleton Office.'
+                    text: `Join the IEEE Carleton's tour at Ross video at 11:30 AM on Monday January 29. The tour is to feature a walk through of the facility, demonstrations of robotics used by Ross video, a look at Ross video's green room and even a light lunch provided by Ross video!`
                 },
                 {
                     tag: 'p',
-                    text: 'There will be a $5 deposit involved for transportation costs.'
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `Register for the tour at the IEEE Carleton office, ME 3359.`
                 },
                 {
                     tag: 'p',
-                    text: 'Register for the tour at the IEEE Office in ME 3359!'
+                    text: `A $7 fee will be required for transportation costs and only the first 10 participants will be allowed to go.`
+                },
+                {
+                    tag: 'p',
+                    text: `Don't miss this unique opportunity to visit a special company in Ottawa!`
                 },
                 {
                     tag: 'p',
@@ -299,7 +308,7 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `Interested in being part of the team? This opportunity allows you to experiement and improve you
+                    text: `Interested in being part of the team? This opportunity allows you to experiment and improve you
                     technical, communication, management, and leadership skills, receive credits in Carleton's Co-Curricular
                     Record (CCR), and enhance your resume when the accomplishments you make at IEEE.`
                 },
