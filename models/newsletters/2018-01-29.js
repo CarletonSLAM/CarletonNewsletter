@@ -85,6 +85,42 @@ module.exports = {
             ]
         },
         {
+            title: 'Seminar: Dr. John W. Chinneck',
+            img: 'talk_john.jpg',
+            date: 'Monday, February 5, 2018',
+            time: '6:00 PM - 7:30 PM',
+            location: 'ME 4359',
+            body: [
+                {
+                    tag: 'p',
+                    text: `Join us on February 5th in ME 4359 to hear Dr. Chinneck deliver a seminar about Optimization.`
+                },
+                {
+                    tag: 'p',
+                    text: `Title of the Seminar: What's the Best Way? Research on Optimization.`
+                },
+                {
+                    tag: 'p',
+                    text: 'Food and refreshments will be provided.'
+                },
+                {
+                    tag: 'p',
+                    text: 'Excerpt from his website: Professor Chinneck conducts research in the general area of applied optimization, including various applications in engineering. He has a special interest in the development of computer tools that assist in the formulation and analysis of very large and complex optimization models.'
+                },
+                {
+                    tag: 'p',
+                    text: 'His algorithms for the analysis of infeasible linear programs have been incorporated in many commercial linear programming solvers, including LINDO, CPLEX, XPRESS-MP, Frontline Systems Excel solvers, and IBMs OSL.'
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/332309483941025/'
+                    },
+                    text: 'Facebook Event Page'
+                },
+            ]
+        },
+        {
             title: 'Stay Late and Make Workspace',
             img: 'slam.jpg',
             date: 'Every Thursday',
