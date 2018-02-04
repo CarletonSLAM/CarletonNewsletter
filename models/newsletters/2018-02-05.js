@@ -40,7 +40,7 @@ module.exports = {
         {
             title: 'Machine Learning Workshop Part 1',
             img: 'Machine-Learning-Workshop-Banner.png',
-            date: 'Tuesday, February 5, 2018',
+            date: 'Tuesday, February 6, 2018',
             time: '6:00 PM - 8:00 PM',
             location: 'CB 5109',
             body: [
