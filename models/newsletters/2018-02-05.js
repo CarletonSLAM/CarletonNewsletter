@@ -97,7 +97,7 @@ module.exports = {
                 {
                     tag: 'button',
                     attr: {
-                        href: 'https://goo.gl/forms/fl1DYaAMxBeXxSGA3/'
+                        href: 'https://goo.gl/forms/fl1DYaAMxBeXxSGA3'
                     },
                     text: 'Survey Link'
                 },
