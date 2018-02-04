@@ -68,7 +68,7 @@ module.exports = {
         },
         {
             title: 'How to GIT Gud Workshop',
-            img: 'Git Gud-Workshop-01.png',
+            img: 'git_workshop_feb.jpg',
             date: 'Wednesday, February 7, 2018',
             time: '6:00 PM - 7:30 PM',
             location: 'AP 340',
