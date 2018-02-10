@@ -57,7 +57,7 @@ module.exports = {
             title: 'Latex Workshop',
             date: 'Wednesday, February 14, 2018',
             time: '6:00 PM - 7:30 PM',
-            location: 'TBD',
+            location: 'AP 340',
             body: [
                 {
                     tag: 'p',
