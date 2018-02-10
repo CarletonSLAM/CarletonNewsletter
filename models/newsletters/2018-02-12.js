@@ -24,15 +24,6 @@ module.exports = {
                 },
             ]
         },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://www.facebook.com/events/332309483941025/'
-                    },
-                    text: 'Facebook Event Page'
-                },
-            ]
-        },
         {
             title: 'Machine Learning Workshop Part 2',
             img: 'Machine-Learning-Workshop-Banner.png',
