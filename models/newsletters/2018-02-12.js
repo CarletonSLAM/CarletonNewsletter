@@ -61,7 +61,18 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `Come learn LaTeX and how powerful this program is.`
+                    text: `LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation. LaTeX is the de facto standard for the communication and publication of scientific documents.`
+                },
+                {
+                    tag: 'p',
+                    text: `Come learn LaTeX and how powerful this program is..`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/602071510143522/'
+                    },
+                    text: 'Facebook Event Page'
                 },
             ]
         },
