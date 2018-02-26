@@ -99,9 +99,11 @@ module.exports = {
                     },
                     text: 'Facebook Event Page'
                 },
-                {
+            ]
+        },
+        {
             title: 'Shopify Industry Tour 2018',
-            img: 'Shopify Tour Poster.png',
+            img: 'Shopify.jpg',
             date: 'Monday, March 5, 2018',
             time: '3:00 PM - 4:00 PM',
             location: '150 Elgin Street',
@@ -161,11 +163,11 @@ module.exports = {
                     tag: 'p',
                     text: `At the bottom is a link to the position handbook if you want to know the responsibilities of each position`
                 },
-                 {
+                {
                     tag: 'p',
                     text: `If you said yes to any of the above, this is the place for you! Stay Late and Make is an initiative by IEEE Carleton University to help you work on your personal projects. Our focus is on the tech to make your idea tick, and we're working on giving you the tools, funding, and the mentorship to make it happen.`
                 },
-                 {
+                {
                     tag: 'p',
                     text: `Please email covicechair@ieeecarleton.ca for any questions!`
                 },
@@ -175,60 +177,6 @@ module.exports = {
                         href: 'https://drive.google.com/open?id=1jQ8LjpPgVj9EbbHLL6Z7kYBX7GYJJhfM'
                     },
                     text: 'IEEE Executive Position Desciptions'
-                },
-            ]
-        },
-        {
-            title: 'PCB Design Workshop #2',
-            img: 'pcb.png',
-            date: 'Sunday, March 4, 2018',
-            time: '10:00 AM - 4:00 PM',
-            location: 'ME 4463',
-            body: [
-                {
-                    tag: 'p',
-                    text: `The heart of the board we will be interfacing is the ATMega32U4 chip: http://www.microchip.com/wwwproducts/en/ATmega32u4`
-                },
-                {
-                    tag: 'p',
-                    text: 'The workshop will be split into three sessions.'
-                },
-                {
-                    tag: 'p',
-                    text: 'Session 2 Soldering and Population'
-                },
-                {
-                    tag: 'p',
-                    text: `Session 3 Programming your ATmega.`
-                },
-                {
-                    tag: 'p',
-                    text: `By the end of this workshop series, you will be able to:
-                        - Use EAGLE PCB Design to add, connect, and verify parts together
-                        - Get your own board designed and manufactured
-                        - Solder both surface-mount and through-hole components on to your board
-                        - Learn the process of loading programs on to your board. 
-                        - Test and run programs on your board`
-                },
-                {
-                    tag: 'p',
-                    text: `Payment will be collected on the first session. This workshop will cost $25 per person and $20 If you are an IEEE member (Your membership number will be checked during payment).`
-                },
-                {
-                    tag: 'p',
-                    attr: {
-                        style: {
-                            fontWeight: 'bold'
-                        }
-                    },
-                    text: `We hope you can make this workshop series!`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://www.facebook.com/events/394109351032972/'
-                    },
-                    text: 'Facebook Event Page'
                 },
             ]
         },
@@ -315,9 +263,8 @@ module.exports = {
                     text: 'Mailing List Sign Up'
                 },
 
-
             ]
         },
-
+        
     ]
 }
