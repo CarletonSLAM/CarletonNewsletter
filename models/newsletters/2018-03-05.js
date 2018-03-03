@@ -22,7 +22,7 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `Register for the tour at the IEEE Carleton office, ME 3359. A $5 fee will be required and the first 15 participants will be allowed to go. Cutoff date for entry is Sunday March 4th.`
+                    text: `Register for the tour at the IEEE Carleton office, ME 3359. A $5 fee will be required and the first 15 participants will be allowed to go. Cutoff date for entry is Monday, March 5th at 12pm.`
                 },
                 {
                     tag: 'p',
