@@ -77,7 +77,7 @@ module.exports = {
             ]
         },
         {
-            title: 'IEEE Carleton at NEW Clubs and Societires Showcase',
+            title: 'IEEE Carleton at NEW Clubs and Societies Showcase',
             date: 'Tuesday, March 6th, 2018',
             time: '10:00 AM - 2:30 PM',
             location: 'Minto Foyer',
@@ -98,7 +98,11 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `The Annual IEEE WIE Wine and Cheese is hosted by the IEEE Women in Engineering uOttawa and CarletonU Student Branches. It is a networking event dedicated to connect engineering students from all fields with industry professionals and academia.`
+                    text: `Hey engineers! Are you looking to improve your networking skills and/or build your global network with industry professionals and professors? Well here's your chance!`
+                },
+                                {
+                    tag: 'p',
+                    text: `The 9th Annual IEEE Women in Engineering Wine and Cheese provides students an opportunity to build meaningful connections with professors and industry professionals from all across Ottawa. With an evening filled of interesting speakers, ice-breakers, and of course wine and cheese, there's no better time and place to start networking!`
                 },
                 {
                     tag: 'p',
@@ -106,14 +110,6 @@ module.exports = {
                     ($7 for IEEE Students, $10 for Regular Students) 
                     uOttawa – SITE 4026
                     CarletonU – ME 3349.`
-                },
-                {
-                    tag: 'p',
-                    text: `Hey engineers! Are you looking to improve your networking skills and/or build your global network with industry professionals and professors? Well here's your chance!`
-                },
-                {
-                    tag: 'p',
-                    text: `The 9th Annual IEEE Women in Engineering Wine and Cheese provides students an opportunity to build meaningful connections with professors and industry professionals from all across Ottawa. With an evening filled of interesting speakers, ice-breakers, and of course wine and cheese, there's no better time and place to start networking!`
                 },
                 {
                     tag: 'p',
@@ -165,10 +161,6 @@ module.exports = {
                 {
                     tag: 'p',
                     text: `At the bottom is a link to the position handbook if you want to know the responsibilities of each position`
-                },
-                {
-                    tag: 'p',
-                    text: `If you said yes to any of the above, this is the place for you! Stay Late and Make is an initiative by IEEE Carleton University to help you work on your personal projects. Our focus is on the tech to make your idea tick, and we're working on giving you the tools, funding, and the mentorship to make it happen.`
                 },
                 {
                     tag: 'p',
