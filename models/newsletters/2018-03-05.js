@@ -75,7 +75,20 @@ module.exports = {
                     text: 'Facebook Event Page'
                 },
             ]
-         },
+        },
+        {
+            title: 'IEEE Carleton at NEW Clubs and Societires Showcase',
+            date: 'Tuesday, March 6th, 2018',
+            time: '10:00 AM - 2:30 PM',
+            location: 'Minto Foyer',
+            body: [
+                {
+                    tag: 'p',
+                    text: `Come talk to some execs and volunteers at the Clubs and Societies this Tuesday in partnership with Carleton's National Engineering Week.`
+
+                },
+            ]
+        },
         {
             title: '9th Annual WIE Wine & Cheese',
             img: 'WIE.jpg',
@@ -121,6 +134,19 @@ module.exports = {
                         href: 'https://www.facebook.com/events/339249453239712/'
                     },
                     text: 'Facebook Event Page'
+                },
+            ]
+        },
+        {
+            title: 'Seminar: Dr. Ram Achar',
+            img: 'talk_achar.png',
+            date: 'Thursday, March 8, 2018',
+            time: '5:30 PM - 6:30 PM',
+            location: 'ME 4359',
+            body: [
+                {
+                    tag: 'p',
+                    text: `Join us on March 8 in ME 4359 to hear Dr. Achar deliver a seminar.`
                 },
             ]
         },
