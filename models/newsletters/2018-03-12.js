@@ -26,7 +26,7 @@ module.exports = {
         },
         {
             title: 'IEEE Games Night',
-            img: 'games.png',
+            img: 'games.jpg',
             date: 'Friday, March 16, 2018',
             time: '6:00 PM - 10:00 PM',
             location: 'ME 4346',
@@ -42,6 +42,113 @@ module.exports = {
                 {
                     tag: 'p',
                     text: `PS: We've got two GameCube setups, but feel free to bring controllers (We've only got 5 GCN controllers) or other consoles, and as always more board games are welcome!`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `We hope to see you there!`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/1625286690884374/'
+                    },
+                    text: 'Facebook Event Page'
+                },
+            ]
+        },
+         {
+            title: 'Boost Your Career with IEEE',
+            img: 'boost.jpg',
+            date: 'Tuesday, March 20, 2018',
+            time: '6:00 PM - 8:00 PM',
+            location: 'MC (Minto Centre) 2014',
+            body: [
+                {
+                    tag: 'p',
+                    text: `Boost Your Career with IEEE!`
+                },
+                {
+                    tag: 'p',
+                    text: `Please join IEEE Client Services Manager Jalyn Kelley on Tuesday, March 20 at 6:00 pm in MC 2014 at Carleton University to learn more about the role the IEEE plays in an engineer’s education and career!`
+                },
+                {
+                    tag: 'p',
+                    text: `Topics will include: 
+                        - Career resources, scholarships, and competitions
+                        - Networking the IEEE way
+                        - Resume building
+                        - Recommendations for attending career fairs
+                        - How to stand out in an interview
+                        - IEEE Xplore Digital Library`
+                },
+                {
+                    tag: 'p',
+                    text: `Pizza will be provided. Free IEEE t-shirts while supplies last!`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `We hope to see you there!`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/202433323677030/'
+                    },
+                    text: 'Facebook Event Page'
+                },
+            ]
+        },
+         {
+            title: 'IEEE Carleton Oral Paper Competition',
+            img: 'paper.jpg',
+            date: 'Thursday, March 22, 2018',
+            time: '6:00 PM - 8:00 PM',
+            location: 'ME 4359',
+            body: [
+                {
+                    tag: 'p',
+                    text: `IEEE Carleton is hosting the local IEEE Oral Paper Competition on March 22nd, 2018 at 6 PM in the Mackenzie Boardroom (MC 4359). This competition is open to all undergraduate students at Carleton. This will also be a great opportunity for third and fourth year student to present their projects. Topics of presentations must be of interest to the IEEE community such as projects that pertain to Electrical engineering, Software engineering, or Computer Science.`
+                },
+                {
+                    tag: 'p',
+                    text: `COMPETITION RULES
+                        - Presentations will be limited to 15 minutes, followed by a 5-minute question period.
+                        - Each project will be judged based on their presentation by a panel of 3-5 respected members of the IEEE Community. 
+                        - The presenters must design the presentation themselves. If professional help is used in the preparation of the presentation, the speaker must clearly state this to the judges.
+                        - Demonstrations and any conventional visual aids should be prepared by the presenters. Help from others must be acknowledged.
+                        - For fairness in comparing students who work on a tight budget, and those with larger budgets, it is necessary for each speaker to clearly state: 
+                            - the financial support for the project 
+                            - technology available to the team 
+                            - direct technical support received 
+                            - the role of the team in the accomplishments presented.`
+                },
+                {
+                    tag: 'p',
+                    text: `REGISTRATION: 
+                        To sign-up for this competition, fill-in the form found at https://goo.gl/forms/S16Z9t6aFncU4ftp2  
+                        Registration closes at 5:00 PM on Monday March 20th, 2018.`
+                },
+                {
+                    tag: 'p',
+                    text: `The winner will advance to compete in the IEEE Eastern Ontario Oral Paper Competition scheduled for April 3rd 2018 at Carleton University.`
+                },
+                {
+                    tag: 'p',
+                    text: `All Members of IEEE and their guests are welcome to attend this event. Pizza and refreshments will be provided.`
+                },
+                {
+                    tag: 'p',
+                    text: `If you have any more questions, please don’t hesitate to contact us through e-mail at gabriel.chamoun@ieeecarleton.ca.`
                 },
                 {
                     tag: 'p',
