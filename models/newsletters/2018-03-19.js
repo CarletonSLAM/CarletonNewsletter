@@ -1,66 +1,6 @@
 module.exports = {
     toast: 'Keeping up with IEEE, a weekly newsletter',
     articles: [
-        {
-            title: 'IEEE Carleton Executive Meeting',
-            date: 'Monday, March 12, 2018',
-            time: '6:00 PM - 7:30 PM',
-            location: 'ME 4359, Carleton University',
-            body: [
-                {
-                    tag: 'p',
-                    text: `Your IEEE Carleton Student branch has a general meeting today to provide updates on all events and activity within IEEE Carleton. Feel free to join us in ME 4359 for our meeting.`
-                },
-                {
-                    tag: 'p',
-                    text: `If you cannot make the meeting in person, but would like to contribute, feel free to join us via our Google Hangouts link.`
-                },
-                {
-                    tag: 'a',
-                    attr: {
-                        href: 'https://hangouts.google.com/hangouts/_/ieeecarleton.ca/ieee-general'
-                    },
-                    text: `IEEE Carleton Hangouts Meeting Link`
-                },
-            ]
-        },
-        {
-            title: 'IEEE Games Night',
-            img: 'games.jpg',
-            date: 'Friday, March 16, 2018',
-            time: '6:00 PM - 10:00 PM',
-            location: 'ME 4346',
-            body: [
-                {
-                    tag: 'p',
-                    text: `Come and join IEEE on Friday March 16th as we head on upstairs to ME 4346 and play a ton of Melee, Mario Party 7 and board games! It's gonna be a super spicy time, with snacks and pop!`
-                },
-                {
-                    tag: 'p',
-                    text: `The board games night will start at 6 and continue for as long as there's people hanging out, so if you're heading to the C-Eng musical we should still be there in time for you to come hang out after!`
-                },
-                {
-                    tag: 'p',
-                    text: `PS: We've got two GameCube setups, but feel free to bring controllers (We've only got 5 GCN controllers) or other consoles, and as always more board games are welcome!`
-                },
-                {
-                    tag: 'p',
-                    attr: {
-                        style: {
-                            fontWeight: 'bold'
-                        }
-                    },
-                    text: `We hope to see you there!`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://www.facebook.com/events/1625286690884374/'
-                    },
-                    text: 'Facebook Event Page'
-                },
-            ]
-        },
          {
             title: 'Boost Your Career with IEEE',
             img: 'boost.jpg',
@@ -184,6 +124,22 @@ module.exports = {
             ]
         },
         {
+            title: 'IEEE Carleton Sweater Orders',
+            date: 'Due on Friday March 23, 2018',
+            img: 'SweaterBanner-01.png',
+            location: 'ME 4359, Carleton University',
+            body: [
+                {
+                    tag: 'p',
+                    text: `We are now selling IEEE Carleton Sweaters in the IEEE Office (ME 3359).`
+                },
+                {
+                    tag: 'p',
+                    text: `To order one please come into the IEEE Carleton office to place your order.`
+                },
+            ]
+        },
+        {
             title: 'Stay Late and Make Workspace',
             img: 'slam.jpg',
             date: 'Every Thursday',
@@ -243,10 +199,6 @@ module.exports = {
                     text: `Our next Executive meetings are held on the following days in Mackenzie 4359`
                 },
                 {
-                    tag: 'p',
-                    text: `Monday, Mar 12th - 6:00 PM - 7:30 PM`
-                },
-                 {
                     tag: 'p',
                     text: `Wednesday, Mar 28th - 6:00 PM - 7:30 PM`
                 },
