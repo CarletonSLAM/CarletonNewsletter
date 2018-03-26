@@ -218,7 +218,7 @@ module.exports = {
         {
             title: 'Winter 2018 FPGA Competition',
             img: 'fpgawinter.jpg',
-            date: 'Wednesday, Aoril 4, 2018',
+            date: 'Wednesday, April 4, 2018',
             time: '5:30 PM - 7:30 PM',
             location: 'ME 4135',
             body: [
