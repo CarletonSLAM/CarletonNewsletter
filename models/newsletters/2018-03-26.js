@@ -217,7 +217,7 @@ module.exports = {
         },
         {
             title: 'Winter 2018 FPGA Competition',
-            img: 'FPGA - Winter - Banner-01.png',
+            img: 'fpgawinter.jpg',
             date: 'Wednesday, Aoril 4, 2018',
             time: '5:30 PM - 7:30 PM',
             location: 'ME 4135',
