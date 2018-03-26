@@ -1,7 +1,110 @@
 module.exports = {
     toast: 'Keeping up with IEEE, a weekly newsletter',
     articles: [
-         {
+        {
+            title: 'IEEE Carleton General Meeting - ELECTIONS',
+            date: 'Wednesday, March 28, 2018',
+            time: '6:00 PM - 7:30 PM',
+            location: 'ME 4359, Carleton University',
+            body: [
+                {
+                    tag: 'p',
+                    text: `Your IEEE Carleton Student branch has a general meeting today to provide updates on all events and activity within IEEE Carleton. Feel free to join us in ME 4359 for our meeting. This meeting will be about the elections pertaining for next year executive committee of the branch.`
+                },
+                {
+                    tag: 'p',
+                    text: `The candidates for next years's executive committee are as follows:`
+                },
+                {
+                    tag: 'p',
+                    text: `- Chair: Ryan Abraham.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Vice Chair: Joyce Ibrahim.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Treasurer: Maninder Sapran.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Secretary: Joshua Alexander.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Financial Director: Valerie Figuracion.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Academic Director: Christopher Grant.`
+                },
+                {
+                    tag: 'p',
+                    text: `- External Director: Tomas De Lima Ramos.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Competition Director: Long Le Luu.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Services Director: Nathan Fohkens.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Volunteer Director: Ariq Maclean, Tauheed Elahee.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Technical Director: Bolor Altangerel.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Publications Director: Federico Naranjo.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Social Director: Rafid Dewan, Gabriel Chamoun.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Women in Engineering Chair: Dharina Hanumunthadu.`
+                },
+                {
+                    tag: 'p',
+                    text: `- Stay Late and Make Lead: Kaan Gun.`
+                },
+                {
+                    tag: 'p',
+                    text: `These candidates will be giving out their platform on Wedneday, March 28th, during the General meeting.`
+                },
+                {
+                    tag: 'p',
+                    text: `Interested parties are welcome to join, listen, and ask questions.`
+                },
+                {
+                    tag: 'p',
+                    text: `Following the platforms, the election period will start for the uncontested positions from Wednesday evening until 12 PM on Monday, April 2nd as per article VIII in our constitution.`
+                },
+                {
+                    tag: 'p',
+                    text: `The election period will go on from Wednesday at 8:00 PM till Monday at 12 PM at the IEEE office.`
+                },
+                {
+                    tag: 'p',
+                    text: `If you cannot make the meeting in person, but would like to contribute, feel free to join us via our Google Hangouts link.`
+                },
+                {
+                    tag: 'a',
+                    attr: {
+                        href: 'https://hangouts.google.com/hangouts/_/ieeecarleton.ca/ieee-general'
+                    },
+                    text: `IEEE Carleton Hangouts Meeting Link`
+                },
+            ]
+        },
+        {
             title: 'Technical Interview Workshop 2',
             img: 'techinterview2.jpg',
             date: 'Monday, March 26, 2018',
@@ -113,25 +216,55 @@ module.exports = {
             ]
         },
         {
-            title: 'IEEE Carleton General Meeting - ELECTIONS',
-            date: 'Wednesday, March 28, 2018',
-            time: '6:00 PM - 7:30 PM',
-            location: 'ME 4359, Carleton University',
+            title: 'Winter 2018 FPGA Competition',
+            img: 'FPGA - Winter - Banner-01.png',
+            date: 'Wednesday, Aoril 4, 2018',
+            time: '5:30 PM - 7:30 PM',
+            location: 'ME 4135',
             body: [
                 {
                     tag: 'p',
-                    text: `Your IEEE Carleton Student branch has a general meeting today to provide updates on all events and activity within IEEE Carleton. Feel free to join us in ME 4359 for our meeting. This meeting will be about the elections pertaining for next year execs of the branch.`
+                    text: `IEEE Carleton is proud to announce the Winter 2018 FPGA Competition in collaboration with the ELEC3500 instructor, Ralph Mason`
                 },
                 {
                     tag: 'p',
-                    text: `If you cannot make the meeting in person, but would like to contribute, feel free to join us via our Google Hangouts link.`
+                    text: `The Digital Electronics (ELEC 3500) course covers the fundamentals of logic gates, circuit timing, and Design with HDL (Hardware Description Language) along with guiding students to create a basic Tug of War game.`
                 },
                 {
-                    tag: 'a',
+                    tag: 'p',
+                    text: `The FPGA competition will challenge students to modify their Tug of War implementation by creating new rules or functionalities. They are required to provide a block diagram describing their implementation.`
+                },
+                {
+                    tag: 'p',
+                    text: `Students are strongly encouraged to work on their code prior to the competition because they will only have 1 hour before judging begins.`
+                },
+                {
+                    tag: 'p',
+                    text: `Participation is free, and pizza will be provided to all participants. Winners will be awarded with an IEEE certificate.`
+                },
+                {
+                    tag: 'p',
+                    text: `Other prizes will be announced later.`
+                },
+                {
+                    tag: 'p',
+                    text: `More information including registration can be access at: http://ieeecarleton.ca/events/competitions/WinterFPGACompetition.php`
+                },
+                {
+                    tag: 'p',
                     attr: {
-                        href: 'https://hangouts.google.com/hangouts/_/ieeecarleton.ca/ieee-general'
+                        style: {
+                            fontWeight: 'bold'
+                        }
                     },
-                    text: `IEEE Carleton Hangouts Meeting Link`
+                    text: `We hope to see you there!`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/178229259646402/'
+                    },
+                    text: 'Facebook Event Page'
                 },
             ]
         },
