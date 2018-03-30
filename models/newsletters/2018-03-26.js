@@ -2,7 +2,7 @@ module.exports = {
     toast: 'Keeping up with IEEE, a weekly newsletter',
     articles: [
         {
-            title: 'IEEE Carleton General Meeting - ELECTIONS',
+            title: 'IEEE Carleton General Meeting - Platforms & Elections',
             date: 'Wednesday, March 28, 2018',
             time: '6:00 PM - 7:30 PM',
             location: 'ME 4359, Carleton University',
@@ -85,10 +85,11 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `Following the platforms, the election period will start for the uncontested positions from Wednesday evening until 12 PM on Monday, April 2nd as per article VIII in our constitution.`
-                },
-                {
-                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
                     text: `The election period will go on from Wednesday at 8:00 PM till Monday at 12 PM at the IEEE office.`
                 },
                 {
