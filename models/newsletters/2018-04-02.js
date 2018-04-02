@@ -151,7 +151,7 @@ module.exports = {
         {
             title: 'IEEE Carleton Volunteer Appreciation Party (VAP)',
             date: 'Friday, April 6, 2018',
-            time: '6:00 PM - 10:00 PM',
+            time: '7:00 PM - 10:00 PM',
             location: 'Tailgators - 1642 Merivale Rd, Nepean, ON K2G 4A1',
             body: [
                 {
@@ -202,28 +202,34 @@ module.exports = {
             ]
         },
         {
-            title: 'Stay Late and Make Workspace',
-            img: 'slam.jpg',
-            date: 'Every Thursday',
-            time: '6:30 PM - 9:30 PM',
-            location: 'ME 4463, Carleton University',
+            title: 'Random Hacks of Kindness',
+            date: 'April 13 - 15, 2018',
+            time: '7:00 PM - 10:00 PM',
+            location: '343 Preston Street, Ottawa, Ontario, K1S 1N4',
             body: [
                 {
                     tag: 'p',
-                    text: `Have the perfect big idea, but never knew where to get started?`
-
+                    text: `Random Hacks of Kindness (RHoK) Ottawa is a part of a global community of technologists and changemakers who are ‘hacking for good’. We run hackathons that bring together volunteer developers and tech-savvy do-gooders to work with charities, community groups and social enterprises`
                 },
                 {
                     tag: 'p',
-                    text: `Want to play with new hardware, learn technologies, and experiment with hacking?`
+                    text: `RHoK was originally started as a global initiative in 2009 by a number of big science and technology organizations in the United States. We’ve been running in Ottawa since 2012.`
                 },
-                 {
+                {
                     tag: 'p',
-                    text: `If you said yes to any of the above, this is the place for you! Stay Late and Make is an initiative by IEEE Carleton University to help you work on your personal projects. Our focus is on the tech to make your idea tick, and we're working on giving you the tools, funding, and the mentorship to make it happen.`
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `We hope to see you there!`
                 },
-                 {
-                    tag: 'p',
-                    text: `Come join us every Thursday starting January 18th from 5:30 PM - 9:30 PM in ME4463 at Carleton University!`
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://rhok.ca/'
+                    },
+                    text: 'Offical Event Page'
                 },
             ]
         },
@@ -262,7 +268,7 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `Monday, Apr 4th - 6:00 PM - 7:30 PM`
+                    text: `Monday, Apr 9th - 6:00 PM - 7:30 PM`
                 },
                 {
                     tag: 'button',
