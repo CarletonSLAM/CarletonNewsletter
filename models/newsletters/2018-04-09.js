@@ -109,7 +109,7 @@ module.exports = {
         },
         {
             title: 'ORC - Call for Volunteers',
-            img: 'LRTdetourBot.jpg',
+            img: 'SumoCrowd.jpg',
             body: [
                 {
                     tag: 'p',
