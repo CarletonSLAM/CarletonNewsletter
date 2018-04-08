@@ -31,7 +31,7 @@ module.exports = {
         },
         {
             title: 'Cookies& Cram',
-            date: 'Tbursday, April 12, 2018',
+            date: 'Thursday, April 12, 2018',
             img: 'cookies.jpg',
             time: '9:00 AM - 4:00 PM',
             location: 'ME 3300 Block',
@@ -51,12 +51,31 @@ module.exports = {
                 {
                     tag: 'p',
                     text: `Below is a list of the Carleton Engineering Societies participating, as well as what they will be providing:
-                        •	CSCE - Baked goods
-                        •	CMAS - Popcorn and coffee/hot chocolate
-                        •	CSES - TBD
-                        •	IEEE - Veggies
-                        •	SCESoc - Fruit
-                        •	CUBEs - TBD`
+                        `
+                },
+                {
+                    tag: 'p',
+                    text: `- CSCE - Baked Goods`
+                },
+                {
+                    tag: 'p',
+                    text: `- CMAS - Popcorn and coffee/hot chocolate`
+                },
+                {
+                    tag: 'p',
+                    text: `- CSES - TBD`
+                },
+                {
+                    tag: 'p',
+                    text: `- IEEE - Veggies`
+                },
+                {
+                    tag: 'p',
+                    text: `- SCESoc - Fruit`
+                },
+                {
+                    tag: 'p',
+                    text: `- CUBEs - TBD`
                 },
                 {
                     tag: 'p',
@@ -90,6 +109,7 @@ module.exports = {
         },
         {
             title: 'ORC - Call for Volunteers',
+            img: 'LRTdetourBot.jpg',
             body: [
                 {
                     tag: 'p',
