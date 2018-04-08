@@ -30,7 +30,7 @@ module.exports = {
             ]
         },
         {
-            title: 'Cookies& Cram',
+            title: 'Cookies & Cram',
             date: 'Thursday, April 12, 2018',
             img: 'cookies.jpg',
             time: '9:00 AM - 4:00 PM',
