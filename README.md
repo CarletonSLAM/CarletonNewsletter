@@ -31,6 +31,8 @@ You can create an email in gmail using the chrome extention [coudHQ](https://chr
 
 If you use it, you may have to change your security settings to permit third party cookies, or add some exceptions. You can find information on how to that on the company's support [website](https://support.cloudhq.net/how-to-enable-3rd-party-cookies-in-google-chrome-browser/).
 
+To use this extension: Copy the html output within the `<body>...</body>` tags and past them into an email draft in gmail. Then you can press the little brush button and view the email to make sure it works properly.
+
 ### Contributions
 
 The tool was originally developed by Irusha Vidanamadura (https://irusha.vidanamadura.net/)
