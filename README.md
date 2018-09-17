@@ -7,11 +7,11 @@
 
 This tool was created in order to create a consistent look and feel for the newsletters that were sent out to all IEEE members, volunteers, and subscribeers throug multiple different mailing clients.
 
-### Prerequisites
+## Prerequisites
 
 - Node.js (at least v6): https://nodejs.org/en/
 
-### Installation
+## Installation
 
 1. Clone this repo.
 2. Add necessary cover photos in `./img`.
@@ -21,11 +21,19 @@ This tool was created in order to create a consistent look and feel for the news
 5. See generated HTML email in `./output`
 6. Copy the HTML into a mail client using a HTML append tool.
 
-### Customization
+## Customization
 
 The theme and basic information for each email can be customized by modifying `theme.js` and `globals.js` in the `./models` directory.
 
-### HTML Editing Extension
+## Steps
+
+1. Duplicate latest newsletter (or template) in `./models/newsletters`, and rename with current date.
+2. Add all the information in the file.
+3. Add all images you wish to use in the `./img` folder.
+4. Commit and push changes to github
+5. 
+
+## HTML Editing Extension
 
 You can create an email in gmail using the chrome extention [coudHQ](https://chrome.google.com/webstore/detail/free-html-editor-for-gmai/ioinaaeeacahcmbgfmeaaofhfkijpdeb/related).
 
@@ -33,7 +41,7 @@ If you use it, you may have to change your security settings to permit third par
 
 To use this extension: Copy the html output within the `<body>...</body>` tags and past them into an email draft in gmail. Then you can press the little brush button and view the email to make sure it works properly.
 
-### Contributions
+## Contributions
 
 The tool was originally developed by Irusha Vidanamadura (https://irusha.vidanamadura.net/)
 
