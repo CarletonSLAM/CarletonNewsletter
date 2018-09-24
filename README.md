@@ -2,7 +2,6 @@
 
 ## Made for the IEEE Carleton University Student Branch: [ieeecarleton.ca](http://ieeecarleton.ca)
 
-
 ## Motivation
 
 This tool was created in order to create a consistent look and feel for the newsletters that were sent out to all IEEE members, volunteers, and subscribeers throug multiple different mailing clients.
@@ -17,9 +16,9 @@ This tool was created in order to create a consistent look and feel for the news
 2. Add necessary cover photos in `./img`.
 3. Create a new newsletter under `./models/newsletters`.
 4. Commit and push changes, otherwise build will not work properly.
-4. Run `npm run build` in the root directory.
-5. See generated HTML email in `./output`
-6. Copy the HTML into a mail client using a HTML append tool.
+5. Run `npm run build` in the root directory.
+6. See generated HTML email in `./output`
+7. Copy the HTML into a mail client using a HTML append tool.
 
 ## Customization
 
