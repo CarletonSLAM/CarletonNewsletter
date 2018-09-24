@@ -1,104 +1,116 @@
------------------------
-# IEEE Bubble Tea Time
+# Volunteer Orientation
 
 ## Date
-Friday Sept. 21
+Sept. 26, 2018
 
 ## Time
-18:30 - 20:00
-
-## Location
-Hangout (839 Somerset St W, Ottawa, ON K1R 6R6)
-
-## Image
-bubble-tea.png
-
-## Description
-Are you a volunteer at IEEE? Do you love bubble tea? Sign up for IEEE Bubble Tea Time on September 21! IEEE Carleton and IEEE uOttawa are hosting a meet and greet between their execs and their volunteers (and whoever is interested in bubble tea).
-
-First 50 people get one free bubble tea drink at Hangout. Come by our office and sign up! A note that our volunteers get priority over regular people (still come and sign up as soon as possible).
-
-We are also thankful to have Hangout to support our event!
-
-## Button
-text: More Info
-link: https://www.facebook.com/events/546903712412111/
-
------------------------
-# Oscilloscope Workshop
-
-## Date
-Thursday Sept. 20
-
-## Time
-18:00 - 20:00
-
-## Location
-ME 4195
-
-## Description
-
-Come learn how to master the most important analytical tool in an electrical laboratory: the oscilloscope! Both digital and analog signals will be covered.
-
-
-## Button
-
-link: https://goo.gl/forms/iFOHkMegJ1DPczi92
-text: Sign-up
-
----------------------------
-# REALTOR.ca Hackathon 2018
-
-## Date
-Oct. 12 — Oct. 14
-
-## Time
-18:30 — 17:00
-
-## Location
-Bayview Yards Ottawa
-
-## Description
-You're invited to participate in the first-ever REALTOR.ca Hackathon!  REALTOR.ca is the number one real estate website in Canada, having attracted over 264 million visits in 2017.
-
-Over a non-stop, 48-hour period, participants will be challenged to design, build and demo a real-world solution that:
-
-1. Provides simpler, smarter, faster ways for buyers to find the right home
-
-2. Drives more meaningful connections between REALTORS® and consumers
-
-Website: https://hackathon.realtor.ca/
-
-Facebook event: https://www.facebook.com/events/541235839654811/
-
----------------------------
-# Stay Late And Make (SLAM)
-
-## Date
-Every Thrusday
-
-## Time
-17:30 — 20:30
+18:00 - 19:00 (24h)
 
 ## Location
 ME 4463
 
 ## Image
+volunteers.jpg
+
+## Description
+Interested in volunteering for IEEE Carleton? Come to the orientation and learn more about who we are, what we do, and how you can help us around the office and with events.
+
+🍕 Pizza included. Come make some friends!
+
+More details will be sent out later.
+
+## Button
+
+text: More Info
+link: https://www.facebook.com/events/302559043889609/
+
+text: Sign-up
+link: https://docs.google.com/forms/d/e/1FAIpQLScQh6dWt88okEPDnPJNMRmeytTnF2u2mqdyM6WpsaU3hVtZHg/viewform?usp=sf_link
+
+# IEEE Day (Carleton)
+
+## Date
+Oct. 2, 2018
+
+## Time
+18:00 - 20:00
+
+## Location
+ME 2024
+
+## Image
+ieee-day.jpg
+
+## Description
+Drop by our office in ME 3459 for snacks to learn more about us!
+
+We will be having a few short presentations in ME 2024 @ 6 PM so you guys can learn more about IEEE and the Carleton Student Branch’s activities!
+
+Come get to know us!
+
+## Button
+
+text: More Info
+link: https://www.facebook.com/events/758393341174478/
+
+# IEEEXtreme 12.0 Programming Competition (Carleton)
+
+## Date
+Oct. 19 - Oct. 20, 2018
+
+## Time
+20:00 - 20:00 (24h)
+
+## Location
+Carleton University (TBD)
+
+## Image
+ieeextreme.jpg
+
+## Description
+IEEEXtreme is a global challenge in which teams of IEEE Student members – advised and proctored by an IEEE member, and often supported by an IEEE Student Branch – compete in a 24-hour time span against each other to solve a set of programming problems.
+
+To sign up for the competition hosted at Carleton University, use the following google forms. Please make sure you are an IEEE member. Deadline to sign up is October 6th.
+
+More details will be sent out at a later date.
+
+## Button
+text: More Info
+link: https://www.facebook.com/events/2147650992176720/
+
+text: Sign-up
+link: https://docs.google.com/forms/d/e/1FAIpQLSdzn7yuVqM83md5QCR00MP9sqCiNJHbeA0F3Y8ETMBlF7Cmmg/viewform?usp=sf_link
+
+# Stay Late And Make (SLAM)
+
+## Date
+Every Thursday
+
+## Time
+17:30 — 20:30
+
+## Location
+ME 4463 (Makerspace)
+
+## Image
 slam-2018.png
 
 ## Description
-
 SLAM, a weekly club where students get together to work on their own or group project.
 
 Bring your project to life! Get help from upper year students and network. Hardware and software hacks and much more.
 
 Join us in our first meeting this Thursday in Mackenzie 4463.
 
------------------------
+## Button
+
+link: http://staylateandmake.ca
+text: Website
+
 # IEEE Carleton
 
 ## Location
-ME 3359
+ME 3359 (Office)
 
 ## Description
 We all volunteer our time and efforts to provide students and professionals multiple avenues to expose and drive innovation in the technical world.
