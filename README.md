@@ -30,10 +30,11 @@ The theme and basic information for each email can be customized by modifying `t
 2. Add all the information in the file.
 3. Add all images you wish to use in the `./img` folder.
 4. Commit and push changes to github.
-5. Review generated HTML file in `./output` folder.
-6. Use HTML Editing extension [explained below] to draft email, using gmail.
-7. Send email to someone else to review and make sure it is displaying properly for other people.
-8. Once it is reviewed, send out newsletter.
+5. Run `npm run build` in the root directory.
+6. Review generated HTML file in `./output` folder.
+7. Use HTML Editing extension [explained below] to draft email, using gmail.
+8. Send email to someone else to review and make sure it is displaying properly for other people.
+9. Once it is reviewed, send out newsletter.
 
 ## HTML Editing Extension
 

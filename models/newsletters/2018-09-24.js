@@ -1,5 +1,5 @@
 module.exports = {
-    toast: 'Keeping up with IEEE Carleton',
+    toast: 'Keeping up with IEEE Carleton. Feel free to forward this newsletter to anyone you think might be interested.',
     articles: [
         {
             title: 'Volunteer Orientation',
@@ -177,7 +177,7 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `Follow us on <href='http://facebook.com/ieeecarleton/'>facebook</href> and <href='https://www.instagram.com/ieeecarleton/'>instagram</href> 🙏🏼`
+                    text: `Follow us on <a href='http://facebook.com/ieeecarleton/'>facebook</a> and <a href='https://www.instagram.com/ieeecarleton/'>instagram</a> 🙏🏼`
                 },
                 {
                     tag: 'button',
