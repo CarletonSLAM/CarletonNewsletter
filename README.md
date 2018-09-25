@@ -34,7 +34,8 @@ The theme and basic information for each email can be customized by modifying `t
 6. Review generated HTML file in `./output` folder.
 7. Use HTML Editing extension [explained below] to draft email, using gmail.
 8. Send email to someone else to review and make sure it is displaying properly for other people.
-9. Once it is reviewed, send out newsletter.
+9. Make sure newsletter mailing list is up to date.
+10. Once it is reviewed, send out newsletter.
 
 ## HTML Editing Extension
 

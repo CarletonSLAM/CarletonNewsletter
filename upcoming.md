@@ -21,11 +21,11 @@ More details will be sent out later.
 
 ## Button
 
-text: More Info
 link: https://www.facebook.com/events/302559043889609/
+text: More Info
 
-text: Sign-up
 link: https://docs.google.com/forms/d/e/1FAIpQLScQh6dWt88okEPDnPJNMRmeytTnF2u2mqdyM6WpsaU3hVtZHg/viewform?usp=sf_link
+text: Sign-up
 
 # IEEE Day (Carleton)
 
@@ -50,8 +50,8 @@ Come get to know us!
 
 ## Button
 
-text: More Info
 link: https://www.facebook.com/events/758393341174478/
+text: More Info
 
 # IEEEXtreme 12.0 Programming Competition (Carleton)
 
@@ -78,8 +78,8 @@ More details will be sent out at a later date.
 text: More Info
 link: https://www.facebook.com/events/2147650992176720/
 
-text: Sign-up
 link: https://docs.google.com/forms/d/e/1FAIpQLSdzn7yuVqM83md5QCR00MP9sqCiNJHbeA0F3Y8ETMBlF7Cmmg/viewform?usp=sf_link
+text: Sign-up
 
 # Stay Late And Make (SLAM)
 
@@ -103,7 +103,6 @@ Bring your project to life! Get help from upper year students and network. Hardw
 Join us in our first meeting this Thursday in Mackenzie 4463.
 
 ## Button
-
 link: http://staylateandmake.ca
 text: Website
 
@@ -126,5 +125,5 @@ Our executive meetings are held every other Monday in Mackenzie 4359 from 6 PM t
 Follow us on [facebook](http://facebook.com/ieeecarleton/) and [instagram](https://www.instagram.com/ieeecarleton/)
 
 ## Button
-text: Sign-up for mailing list
 link: https://goo.gl/forms/LSmMK3SFyyLh04XJ2
+text: Sign-up for mailing list
