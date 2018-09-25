@@ -43,7 +43,7 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `Drop by our office in ME 3459 for snacks to learn more about us!`
+                    text: `Drop by our office in ME 3359 for snacks to learn more about us!`
                 },
                 {
                     tag: 'p',
@@ -52,7 +52,7 @@ module.exports = {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `We will be having a few short presentations in ME 2024 @ 6 PM so you guys can learn more about IEEE and the Carleton Student Branch’s activities!`
+                    text: `We will be having a few short presentations in ME 2014 @ 6 PM so you guys can learn more about IEEE and the Carleton Student Branch’s activities!`
                 },
                 {
                     tag: 'p',
@@ -116,7 +116,7 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `SLAM, a weekly club where students get together to work on their own or group project.`
+                    text: `SLAM, a weekly club where students get together to work on their own or in a group project.`
                 },
                 {
                     tag: 'p',
