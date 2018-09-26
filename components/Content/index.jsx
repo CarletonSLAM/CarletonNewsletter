@@ -3,8 +3,9 @@ import Link from '../Link'
 import Button from '../Button'
 import theme from '../../models/theme'
 
-const ArticleText = ({ tag, children, attr }) => {
+const Content = ({ tag, children, attr }) => {
   switch (tag) {
+    case 'htmlString': return <div dangerouslySetInnerHTML={{ __html: children}}></div>
     case 'a': return (<p><Link attr={attr}>{children}</Link></p>)
     case 'button': return (<p><Button attr={attr}>{children}</Button></p>)
     default: 
@@ -19,4 +20,4 @@ const styles = {
   }
 }
 
-module.exports = ArticleText
+module.exports = Content
