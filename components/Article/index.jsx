@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import globals from '../../models/globals'
 import theme from '../../models/theme'
-import ArticleText from '../ArticleText'
+import Content from '../Content'
 
 const imageBase = 'https://raw.githubusercontent.com/CarletonSLAM/CarletonNewsletter/master/img/'
 
@@ -22,7 +22,7 @@ const Article = (props) => {
       }
       <div style={styles.textarea}>
         {props.body.map(({tag, attr, text}, ind) => {
-          return <ArticleText key={`a-text-${ind}`} tag={tag} attr={attr}>{text}</ArticleText>
+          return <Content key={`a-text-${ind}`} tag={tag} attr={attr}>{text}</Content>
         })}
       </div>
     </div>

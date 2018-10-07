@@ -1,5 +1,14 @@
 module.exports = {
-    toast: 'Keeping up with IEEE Carleton. Feel free to forward this newsletter to anyone you think might be interested.',
+    toast: [
+        {
+            tag: 'p',
+            text: 'Keeping up with IEEE Carleton. Feel free to forward this newsletter to anyone you think might be interested.'
+        },
+        {
+            tag: 'htmlString',
+            text: `<p>If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2018-09-24.html'>here</a> to view in browser.</p>`
+        }
+    ],
     articles: [
         {
             title: 'Volunteer Orientation',
@@ -176,8 +185,8 @@ module.exports = {
                     text: `Our executive meetings are held every other Monday in Mackenzie 4359 from 6 PM to 7:30 PM; stop by the office for more information.`
                 },
                 {
-                    tag: 'p',
-                    text: `Follow us on <a href='http://facebook.com/ieeecarleton/'>facebook</a> and <a href='https://www.instagram.com/ieeecarleton/'>instagram</a> 🙏🏼`
+                    tag: 'htmlString',
+                    text: `<p>Follow us on <a href='http://facebook.com/ieeecarleton/'>facebook</a> and <a href='https://www.instagram.com/ieeecarleton/'>instagram</a> 🙏🏼</p>`
                 },
                 {
                     tag: 'button',

@@ -3,12 +3,17 @@ import PropTypes from 'prop-types'
 import globals from '../../models/globals'
 import theme from '../../models/theme'
 import Button from '../Button'
+import Content from '../Content'
 
 const Header = ({ toast = '' }) => {
   return (
     <div style={styles.root}>
       <a style={styles.imgLink} href={globals.website} target='_blank'><img width='100%' src={globals.headerImg} /></a>
-      {toast ? <div style={styles.welcome}><p>{toast}</p></div> : ''}
+        {toast ? <div style={styles.welcome}>{
+          Array.isArray(toast) ? toast.map(({tag, attr, text}, ind) => {
+            return <Content key={`a-text-${ind}`} tag={tag} attr={attr}>{text}</Content>
+          }) : <p>{toast}</p>
+      }</div> : ''}
       <div style={styles.linkContainer}>
         <div style={{ marginBottom: '1vh' }}>
           {globals.links.top.map((link, index) => <span key={`social-${index}`}><Button attr={{ style: styles.buttons, href: link.href}}>{link.name}</Button>  </span> )}
