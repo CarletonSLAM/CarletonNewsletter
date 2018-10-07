@@ -1,6 +1,86 @@
 module.exports = {
-    toast: ['Keeping up with IEEE Carleton.','Feel free to forward this newsletter to anyone you think might be interested.'],
+    toast: [
+        {
+            tag: 'h2',
+            text: 'Keeping up with IEEE Carleton.'
+        },
+        {
+            tag: 'p',
+            text: 'Feel free to forward this newsletter to anyone you think might be interested.'
+        },
+        {
+            tag: 'htmlString',
+            text: `If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2018-##-##.html'>here</a> to view in browser.`
+        } // !! do not forget to change above link with date of this file !!
+    ],
+
     articles: [
+        {
+            title: 'title',
+            date: 'weekday month day, year',
+            time: 'start_time — end_time',
+            location: 'location',
+            img: 'image_name',
+            body: [
+                {
+                    tag: 'p',
+                    text: `regular_text`
+                },
+                {
+                    tag: 'p',
+                    text: `regular_text`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `bold_text`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'button_link'
+                    },
+                    text: 'button_text'
+                },
+            ]
+        },
+        {
+            title: 'title',
+            date: 'weekday month day, year',
+            time: 'start_time — end_time',
+            location: 'location',
+            img: 'image_name',
+            body: [
+                {
+                    tag: 'p',
+                    text: `regular_text`
+                },
+                {
+                    tag: 'p',
+                    text: `regular_text`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `bold_text`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'button_link'
+                    },
+                    text: 'button_text'
+                },
+            ]
+        },
         {
             title: 'title',
             date: 'weekday month day, year',
@@ -103,7 +183,7 @@ module.exports = {
                     text: `Our executive meetings are held every other Monday in Mackenzie 4359 from 6 PM to 7:30 PM; stop by the office for more information.`
                 },
                 {
-                    tag: 'p',
+                    tag: 'htmlString',
                     text: `Follow us on <a href='http://facebook.com/ieeecarleton/'>facebook</a> and <a href='https://www.instagram.com/ieeecarleton/'>instagram</a> 🙏🏼`
                 },
                 {
