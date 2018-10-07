@@ -10,22 +10,30 @@ This tool was created in order to create a consistent look and feel for the news
 
 - Node.js (at least v6): https://nodejs.org/en/
 
+## File Structure
+    <ROOT>
+    ├── components/     --> React components used in building newsletter
+    ├──img/             --> Stores newsletter images
+    ├── output/         --> Final HTML files
+    └── models/         --> JSON config files
+        ├── globals.js              --> General information used in all newsletters
+        ├── theme.js                --> Theme customizations  
+        ├── newsletter-template.js  --> template newsletter config file
+        └── newsletters/            --> config files to create HTML files in output/
+
 ## Installation
 
 1. Clone this repo.
-2. Add necessary cover photos in `./img`.
-3. Create a new newsletter under `./models/newsletters`.
-4. Commit and push changes, otherwise build will not work properly.
-5. Run `npm run build` in the root directory.
-6. See generated HTML email in `./output`
-7. Copy the HTML into a mail client using a HTML append tool.
+2. Run `npm install` in the root directory.
+3. Add necessary cover photos in `./img`.
+4. Create a new newsletter under `./models/newsletters`.
+5. Commit and push changes, otherwise build will not work properly.
+6. Run `npm run build` in the root directory.
+7. See generated HTML email in `./output`
+8. Copy the HTML into a mail client using a HTML append tool.
 
-## Customization
-
-The theme and basic information for each email can be customized by modifying `theme.js` and `globals.js` in the `./models` directory.
-
-## Steps
-
+## Generating Newsletters
+### Process
 1. Duplicate latest newsletter (or template) in `./models/newsletters`, and rename with current date.
 2. Add all the information in the file.
 3. Add all images you wish to use in the `./img` folder.
@@ -36,6 +44,12 @@ The theme and basic information for each email can be customized by modifying `t
 8. Send email to someone else to review and make sure it is displaying properly for other people.
 9. Make sure newsletter mailing list is up to date.
 10. Once it is reviewed, send out newsletter.
+
+### HTML tags that can be used
+- All standard HTML tags (`<a>,<p>, etc.`)
+- `button` --> Creates a button element that is clickable
+- `htmlString` --> string with embedded HTML for usages that is not possible with the above tag types.
+
 
 ## HTML Editing Extension
 
