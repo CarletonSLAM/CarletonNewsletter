@@ -47,7 +47,7 @@ module.exports = {
             title: 'IEEE Day (Carleton)',
             date: 'Tuesday, October 2, 2018',
             time: '18:00 — 20:00',
-            location: 'ME 2024',
+            location: 'MC 2024',
             img: 'ieee-day.jpg',
             body: [
                 {
@@ -61,7 +61,7 @@ module.exports = {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `We will be having a few short presentations in ME 2014 @ 6 PM so you guys can learn more about IEEE and the Carleton Student Branch’s activities!`
+                    text: `We will be having a few short presentations in MC 2014 @ 6 PM so you guys can learn more about IEEE and the Carleton Student Branch’s activities!`
                 },
                 {
                     tag: 'p',
