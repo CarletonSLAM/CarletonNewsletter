@@ -163,7 +163,7 @@ module.exports = {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `Interested in being part of the team?`
+                    text: `Interested in being part of the team? 🙋🏼‍♀️🙋🏽‍♂️`
                 },
                 {
                     tag: 'p',
