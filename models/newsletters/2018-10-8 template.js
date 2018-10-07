@@ -1,16 +1,20 @@
 module.exports = {
-    toast: 'Keeping up with IEEE Carleton. Feel free to forward this newsletter to anyone you think might be interested.',
+    toast: ['Keeping up with IEEE Carleton.','Feel free to forward this newsletter to anyone you think might be interested.'],
     articles: [
         {
-            title: 'Volunteer Orientation',
-            date: 'Wednesday, September 26, 2018',
-            time: '18:00 — 19:00 (24h)',
-            location: 'ME 4463',
-            img: 'volunteers.jpg',
+            title: 'title',
+            date: 'weekday month day, year',
+            time: 'start_time — end_time',
+            location: 'location',
+            img: 'image_name',
             body: [
                 {
                     tag: 'p',
-                    text: `Interested in volunteering for IEEE Carleton? Come to the orientation and learn more about who we are, what we do, and how you can help us around the office and with events.`
+                    text: `regular_text`
+                },
+                {
+                    tag: 'p',
+                    text: `regular_text`
                 },
                 {
                     tag: 'p',
@@ -19,91 +23,14 @@ module.exports = {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `🍕 Pizza included.`
-                },
-                {
-                    tag: 'p',
-                    text: `More details will be sent out later.`
+                    text: `bold_text`
                 },
                 {
                     tag: 'button',
                     attr: {
-                        href: 'https://www.facebook.com/events/302559043889609/'
+                        href: 'button_link'
                     },
-                    text: 'More Info'
-                },
-            ]
-        },
-        {
-            title: 'IEEE Day (Carleton)',
-            date: 'Tuesday, October 2, 2018',
-            time: '18:00 — 20:00',
-            location: 'MC 2024',
-            img: 'ieee-day.jpg',
-            body: [
-                {
-                    tag: 'p',
-                    text: `Drop by our office in ME 3359 for snacks to learn more about us!`
-                },
-                {
-                    tag: 'p',
-                    attr: {
-                        style: {
-                            fontWeight: 'bold'
-                        }
-                    },
-                    text: `We will be having a few short presentations in MC 2014 @ 6 PM so you guys can learn more about IEEE and the Carleton Student Branch’s activities!`
-                },
-                {
-                    tag: 'p',
-                    text: `Come get to know us!`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://www.facebook.com/events/758393341174478/'
-                    },
-                    text: 'More Info'
-                },
-            ]
-        },
-        {
-            title: 'IEEEXtreme 12.0 Programming Competition (Carleton)',
-            date: 'Oct. 19 — Oct. 20, 2018',
-            time: '20:00 — 20:00 (24h)',
-            location: 'Carleton University (TBD)',
-            img: 'ieeextreme.jpg',
-            body: [
-                {
-                    tag: 'p',
-                    text: `IEEEXtreme is a global challenge in which teams of IEEE Student members – advised and proctored by an IEEE member, and often supported by an IEEE Student Branch – compete in a 24-hour time span against each other to solve a set of programming problems.`
-                },
-                {
-                    tag: 'p',
-                    text: `To sign up for the competition hosted at Carleton University, use the following google forms. Please make sure you are an IEEE member. Deadline to sign up is October 6th.`
-                },
-                {
-                    tag: 'p',
-                    attr: {
-                        style: {
-                            fontWeight: 'bold'
-                        }
-                    },
-                    text: `More details will be sent out at a later date.`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://docs.google.com/forms/d/e/1FAIpQLSdzn7yuVqM83md5QCR00MP9sqCiNJHbeA0F3Y8ETMBlF7Cmmg/viewform?usp=sf_link'
-                    },
-                    text: 'Sign-up'
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://www.facebook.com/events/2147650992176720/'
-                    },
-                    text: 'More Info'
+                    text: 'button_text'
                 },
             ]
         },
@@ -129,7 +56,7 @@ module.exports = {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `Join us in our first meeting this Thursday in Mackenzie 4463.`
+                    text: `Join us this Thursday in Mackenzie 4463.`
                 },
                 {
                     tag: 'button',
