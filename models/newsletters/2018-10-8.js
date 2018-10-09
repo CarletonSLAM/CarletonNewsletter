@@ -16,7 +16,7 @@ module.exports = {
 
     articles: [
         {
-            title: 'omen in Engineering (WIE) Meet & Greet',
+            title: 'Women in Engineering (WIE) Meet & Greet',
             date: 'Thursday Oct. 18, 2018',
             time: '17:30 - 19:00',
             location: 'MC 2014',
@@ -37,7 +37,7 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `This is a Meet & Greet hosted by WIE, where we will talk about our upcoming events, have a good time playing games and listening to your ideas!`
+                    text: `This is a meet & greet hosted by WIE Carleton; they will talk about all their upcoming events, listen to your ideas, and most importantly having a good time and playing games!`
                 },
                 {
                     tag: 'button',
