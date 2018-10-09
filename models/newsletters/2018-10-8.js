@@ -46,6 +46,13 @@ module.exports = {
                     },
                     text: 'Facebook Page'
                 },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/245095023022050/'
+                    },
+                    text: 'More Info'
+                },
             ]
         },
         {
