@@ -187,6 +187,7 @@ module.exports = {
             title: 'Canadian University Software Engineering Conference',
             date: 'Jan. 10 - 12, 2019',
             location: 'Montreal',
+            img: 'cusec.jpg',
             body: [
                 {
                     tag: 'p',
