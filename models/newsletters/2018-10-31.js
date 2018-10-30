@@ -200,7 +200,7 @@ module.exports = {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `Tickets go on sale Oct. 30th.`
+                    text: `Tickets go on sale Oct. 30th at 19:00.`
                 },
                 {
                     tag: 'button',
