@@ -246,7 +246,7 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `SLAM, a weekly club where students get together to work on their own or in a group project.`
+                    text: `🔥💻 SLAM is a weekly club where students get together to work on their own or group project.`
                 },
                 {
                     tag: 'p',
@@ -307,7 +307,7 @@ module.exports = {
                 },
                 {
                     tag: 'htmlString',
-                    text: `Follow us on <a href='http://facebook.com/ieeecarleton/'>facebook</a> and <a href='https://www.instagram.com/ieeecarleton/'>instagram</a> 🙏🏼`
+                    text: `Follow us on <a href='http://facebook.com/ieeecarleton/'>facebook</a> and <a href='https://www.instagram.com/ieeecarleton/'>instagram</a>. 🙏🏼`
                 },
                 {
                     tag: 'button',
