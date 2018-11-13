@@ -122,7 +122,7 @@ module.exports = {
                 {
                     tag: 'button',
                     attr: {
-                        href: 'https://www.facebook.com/events/515684622232258/'
+                        href: 'https://www.facebook.com/events/706606693072665/'
                     },
                     text: 'More Info'
                 },
