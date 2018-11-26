@@ -215,7 +215,7 @@ module.exports = {
             title: 'Local Hack Day (MLH)',
             date: 'Saturday Dec. 1, 2018',
             time: '9:00 - 21:00 (12h)',
-            location: 'CD 2104 / CB 2400 / CB 3400',
+            location: 'CB 2104 / CB 2400 / CB 3400',
             img: 'local-hack-day.png',
             body: [
                 {
