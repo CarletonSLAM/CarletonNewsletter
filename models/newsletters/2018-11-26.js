@@ -33,11 +33,11 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `Come join us if you're interested in machine learning and modern pattern detection techniques, or just want to learn what all the hype is about with 'neural networks' and 'machine learning'.`
+                    text: "Everyone will be able to understand this presentation, so there's something to learn here, no matter how much of a background you have."
                 },
                 {
                     tag: 'p',
-                    text: "Everyone will be able to understand this presentation, so there's something to learn here, no matter how much of a background you have."
+                    text: "*due to an emergency we had to cancel this last week."
                 },
                 {
                     tag: 'p',
