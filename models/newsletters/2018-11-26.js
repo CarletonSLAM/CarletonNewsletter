@@ -183,7 +183,7 @@ module.exports = {
             date: 'Thursday Nov. 29, 2018',
             time: '19:00 - 23:00',
             location: 'Tail Gators, 1642 Merivale Rd. Ottawa',
-            img: 'local-hack-day.png',
+            img: 'VAP.png',
             body: [
                 {
                     tag: 'p',
@@ -297,7 +297,7 @@ module.exports = {
             date: 'Thursday Jan. 24, 2019',
             time: '17:30 - 22:00',
             location: 'Sala San Marco - 215 Preston St, Ottawa',
-            img: 'spac.png',
+            img: 'spac.jpg',
             body: [
                 {
                     tag: 'p',
