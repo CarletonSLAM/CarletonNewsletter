@@ -23,56 +23,6 @@ text: ...
 link: ...
 text: ...
 
-# event_title
-
-## Date
-weekday month day, year
-
-## Time
-HH:mm - HH:mm
-
-## Location
-AA XXXX
-
-## Image
-image_name.png
-
-## Description
-main_body
-
-## Button
-
-link: ...
-text: ...
-
-link: ...
-text: ...
-
-# event_title
-
-## Date
-weekday month day, year
-
-## Time
-HH:mm - HH:mm
-
-## Location
-AA XXXX
-
-## Image
-image_name.png
-
-## Description
-main_body
-
-## Button
-
-link: ...
-text: ...
-
-link: ...
-text: ...
-
 # Stay Late And Make (SLAM)
 
 ## Date
@@ -114,7 +64,7 @@ Our office is in Mackenzie 3359, and our email us at info@ieeecarleton.ca.
 
 Our executive meetings are held every other Monday in Mackenzie 4359 from 18:00 to 19:30; stop by the office for more information.
 
-Follow us on <a href='http://facebook.com/ieeecarleton/'>facebook</a> and <a href="https://www.instagram.com/ieeecarleton/">instagram</a> 🙏🏼
+Follow us on <a href='http://facebook.com/ieeecarleton/'>facebook</a> and <a href="https://www.instagram.com/ieeecarleton/">instagram</a>. 🙏🏼
 
 ## Button
 link: https://goo.gl/forms/LSmMK3SFyyLh04XJ2

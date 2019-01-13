@@ -4,7 +4,7 @@
 
 ## Motivation
 
-This tool was created in order to create a consistent look and feel for the newsletters that were sent out to all IEEE members, volunteers, and subscribeers throug multiple different mailing clients.
+This tool was created in order to create a consistent look and feel for the newsletters that were sent out to all IEEE members, volunteers, and subscribers through multiple different mailing clients.
 
 ## Prerequisites
 
@@ -49,7 +49,6 @@ This tool was created in order to create a consistent look and feel for the news
 - All standard HTML tags (`<a>,<p>, etc.`)
 - `button` --> Creates a button element that is clickable
 - `htmlString` --> string with embedded HTML for usages that is not possible with the above tag types.
-
 
 ## HTML Editing Extension
 
