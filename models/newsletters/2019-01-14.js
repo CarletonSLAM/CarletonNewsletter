@@ -39,7 +39,7 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `Tickets are $25 for students and only $20 for IEEE members, but for a limited time only. Get them at the IEEE McNaughton Office in Room ME 3359 (Mackenzie 3rd Block), or at ieeespac.ca, see you there!`
+                    text: `Tickets are $30 for students and only $25 for IEEE members, but for a limited time only. Get them at the IEEE McNaughton Office in Room ME 3359 (Mackenzie 3rd Block), or at ieeespac.ca, see you there!`
                 },
                 {
                     tag: 'button',
