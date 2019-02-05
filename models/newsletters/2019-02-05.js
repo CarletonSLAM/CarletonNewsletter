@@ -51,7 +51,7 @@ module.exports = {
                 {
                     tag: 'button',
                     attr: {
-                        href: 'https://docs.google.com/forms/d/e/1FAIpQLSfxPsIVvcNrpWWPD7V08ulZQlelpdF0D5bN-Qt5WFP8s3UFxA/viewform'
+                        href: 'https://www.facebook.com/events/2160442454266286/'
                     },
                     text: 'Facebook Event'
                 },
