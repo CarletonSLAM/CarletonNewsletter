@@ -16,7 +16,7 @@ module.exports = {
 
     // body //
     articles: [
-        // spac networking //
+        // pcb //
         {
             title: 'PCB Workshop',
             date: 'Saturday, February 9, 2019',
@@ -57,14 +57,15 @@ module.exports = {
                 },
             ]
         },
-        // spac //
+        // react //
         {
             title: 'IEEE SPAC 2019',
-            date: 'Thursday Jan. 24, 2019',
-            time: '17:30 - 19:30',
-            location: 'Sala San Marco - 215 Preston St, Ottawa',
-            img: 'spac.jpg',
+            date: 'Saturday, February 12, 2019',
+            time: '18:00 - 20:00',
+            location: 'CB 5109',
+            img: 'xxx.jpg',
             body: [
+                💻 Have you heard of react and are wondering what all the hype is about? Come to IEEE's React workshop 💻
                 {
                     tag: 'p',
                     attr: {
@@ -96,6 +97,32 @@ module.exports = {
                     },
                     text: 'Facebook Event'
                 },
+            ]
+        },
+        // prof talk //
+        {
+            title: 'Professor Talk with Khaled Mnaymneh',
+            date: 'Thursday Feb. 14, 2019',
+            time: '18:00 - 20:00',
+            location: 'TBD (Carleton)',
+            img: 'XXX.png',
+            body: [
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `Dr. Khaled Mnaymneh is an photonics scientist, professing ELEC 3909 this year at carleton. His research spans across multiple institutions, including the University of Michigan and the NRC.`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `'Pizza will be provided after the talk.`
             ]
         },
         // cuhacking //
