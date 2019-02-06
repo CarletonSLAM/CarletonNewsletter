@@ -86,7 +86,7 @@ module.exports = {
         // react //
         {
             title: 'React Workshop',
-            date: 'Saturday, February 12, 2019',
+            date: 'Tuesday, February 12, 2019',
             time: '18:00 - 20:00',
             location: 'CB 5109',
             img: 'react.png',
