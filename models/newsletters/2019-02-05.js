@@ -92,6 +92,7 @@ module.exports = {
             img: 'react.png',
             body: [
                 {
+                    tag: 'p',
                     text: `💻 Have you heard of React and are wondering what all the hype is about? Come to IEEE Carleton's React workshop 💻`
                 },
                 {
