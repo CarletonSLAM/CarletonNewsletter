@@ -83,6 +83,30 @@ module.exports = {
                 }
             ]
         },
+        // react //
+        {
+            title: 'React Workshop',
+            date: 'Saturday, February 12, 2019',
+            time: '18:00 - 20:00',
+            location: 'CB 5109',
+            img: 'react.png',
+            body: [
+                {
+                    text: `💻 Have you heard of React and are wondering what all the hype is about? Come to IEEE Carleton's React workshop 💻`
+                },
+                {
+                    tag: 'p',
+                    text: `React – also known as React.js or ReactJS – is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/346590735942292/'
+                    },
+                    text: 'Facebook Event'
+                },
+            ]
+        },
         // prof talk //
         {
             title: 'Professor Talk with Khaled Mnaymneh',
@@ -104,6 +128,13 @@ module.exports = {
                         }
                     },
                     text: `Pizza will be provided after the talk.`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/1065840563600321/'
+                    },
+                    text: 'Facebook Event'
                 },
             ]
         },
