@@ -39,7 +39,7 @@ module.exports = {
                 },
                 {
                     tag: 'htmlString',
-                    text: `For more information please contact: <a href="mailto:academics@ieeecarleton.ca">mailto:academics@ieeecarleton.ca</a> 💻`
+                    text: `For more information please contact: <a href="mailto:academics@ieeecarleton.ca">academics@ieeecarleton.ca</a> 💻`
                 },
                 {
                     tag: 'button',
@@ -70,8 +70,17 @@ module.exports = {
                 },
                 {
                     tag: 'htmlString',
-                    text: `<ul><li>Crew-neck Sweater: $30</li><li>Hoodie Sweater: $35</li><li>Order by: Feb. 15th</li><li>Pick-up from: Feb. 25th</li><li>Order at IEEE Carleton ME 3359</li></ul>`
+                    text: `Crew-neck Sweater: $30<br>Hoodie Sweater: $35<br>Order by: Feb. 15th<br>Pick-up from: Feb. 25th<br>`
                 },
+                {
+                    tag: `p`,
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `Order at IEEE Carleton ME 3359`,
+                }
             ]
         },
         // prof talk //
@@ -84,11 +93,7 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    attr: {
-                        style: {
-                            fontWeight: 'bold'
-                        }
-                    },
+
                     text: `Dr. Khaled Mnaymneh is an photonics scientist, professing ELEC 3909 this year at carleton. His research spans across multiple institutions, including the University of Michigan and the NRC.`
                 },
                 {
@@ -98,7 +103,7 @@ module.exports = {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `'Pizza will be provided after the talk.`
+                    text: `Pizza will be provided after the talk.`
                 },
             ]
         },
