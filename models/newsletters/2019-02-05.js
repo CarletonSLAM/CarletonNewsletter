@@ -22,7 +22,7 @@ module.exports = {
             date: 'Saturday, February 9, 2019',
             time: '09:00 - 17:00',
             location: 'ME 4463',
-            img: 'XXX.png',
+            img: 'pcb-workshop.png',
             body: [
                 {
                     tag: 'p',
@@ -57,45 +57,20 @@ module.exports = {
                 },
             ]
         },
-        // react //
+        // sweaters //
         {
-            title: 'IEEE SPAC 2019',
-            date: 'Saturday, February 12, 2019',
-            time: '18:00 - 20:00',
-            location: 'CB 5109',
-            img: 'xxx.jpg',
+            title: 'Sweater',
+            date: 'Saturday, February 9, 2019',
+            location: 'ME 3359',
+            img: 'sweaters.png',
             body: [
-                💻 Have you heard of react and are wondering what all the hype is about? Come to IEEE's React workshop 💻
                 {
                     tag: 'p',
-                    attr: {
-                        style: {
-                            fontWeight: 'bold'
-                        }
-                    },
-                    text: `👩🏻‍💼👨🏽‍💼 Are you co-op student looking for your first job in the tech industry? Are you a recent graduate looking for a permanent position in a company? If you're an engineering or tech student looking for employment, IEEE SPAC is the networking event for you!`
+                    text: `👕 Sweater orders are finally here! [for real]`
                 },
                 {
-                    tag: 'p',
-                    text: `The IEEE Student Professional Awareness Conference (SPAC) is a formal dinner (buffet) event that aims to bridge the gap between students and their career goals. Some of the professionals that will be at SPAC 2019 include BlackBerry/QNX, Qlik, MindBridge AI, Deloitte, Communications Security Establishment (CSE), and many more to come. 🙌🏼`
-                },
-                {
-                    tag: 'p',
-                    text: `Tickets are $30 for students and only $25 for IEEE members, but for a limited time only. Get them at the IEEE McNaughton Office in Room ME 3359 (Mackenzie 3rd Block), or at ieeespac.ca, see you there!`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'ieeespac.ca'
-                    },
-                    text: 'Tickets'
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://www.facebook.com/events/934620343401473/'
-                    },
-                    text: 'Facebook Event'
+                    tag: 'htmlString',
+                    text: `<ul><li>Crew-neck Sweater: $30</li><li>Hoodie Sweater: $35</li><li>Order by: Feb. 15th</li><li>Pick-up from: Feb. 25th</li><li>Order at IEEE Carleton ME 3359</li></ul>`
                 },
             ]
         },
@@ -105,7 +80,7 @@ module.exports = {
             date: 'Thursday Feb. 14, 2019',
             time: '18:00 - 20:00',
             location: 'TBD (Carleton)',
-            img: 'XXX.png',
+            img: 'photonics.png',
             body: [
                 {
                     tag: 'p',
@@ -119,63 +94,11 @@ module.exports = {
                 {
                     tag: 'p',
                     attr: {
+                        style: {
                             fontWeight: 'bold'
                         }
                     },
                     text: `'Pizza will be provided after the talk.`
-            ]
-        },
-        // cuhacking //
-        {
-            title: 'cuHacking 2019',
-            date: 'Feb. 16/17, 2019',
-            time: '17:30 - 19:00',
-            location: 'River Building',
-            img: 'cuhacking.png',
-            body: [
-                {
-                    tag: 'p',
-                    attr: {
-                        style: {
-                            fontWeight: 'bold'
-                        }
-                    },
-                    text: `🔥😎 The second round of cuHacking 2019 applications are now open until Jan. 28!`
-                },
-                {
-                    tag: 'p',
-                    text: `Want to be apart of something life changing? Want an opportunity to expand your network and portfolio, but still have fun!? Don't miss your chance to be a part of cuHacking 2019. 👀👩‍💻.`
-                },
-                {
-                    tag: 'p',
-                    text: `Companies will be there to help you and potentially seeking new hires, so don't miss out on the opportunity to stand out.`
-                },
-                {
-                    tag: 'p',
-                    text: `Any post-secondary student is welcome, no matter the skill-level, free of charge. You'll be surrounded by high-motivated, skilled, and like-minded students working the whole weekend to turn a project from an idea to product you can demo.`
-                },
-                {
-                    tag: 'p',
-                    attr: {
-                        style: {
-                            fontWeight: 'bold'
-                        }
-                    },
-                    text: `Applications close Jan. 28 at midnight.`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://cuhacking-apply.typeform.com/to/Tx6xja'
-                    },
-                    text: 'Apply Here'
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://cuhacking.com'
-                    },
-                    text: 'Website'
                 },
             ]
         },
