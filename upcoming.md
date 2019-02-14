@@ -1,21 +1,21 @@
 # event_title
 
-## Date
+**Date**
 weekday month day, year
 
-## Time
+**Time**
 HH:mm - HH:mm
 
-## Location
+**Location**
 AA XXXX
 
-## Image
+**Image**
 image_name.png
 
-## Description
+**Description**
 main_body
 
-## Button
+**Button**
 
 link: ...
 text: ...
@@ -25,35 +25,35 @@ text: ...
 
 # Stay Late And Make (SLAM)
 
-## Date
+**Date**
 Every Thursday
 
-## Time
+**Time**
 17:30 - 20:30
 
-## Location
+**Location**
 ME 4463 (Makerspace)
 
-## Image
+**Image**
 slam-2018.png
 
-## Description
+**Description**
 🔥💻 SLAM is a weekly club where students get together to work on their own or group project.
 
 Bring your project to life! Get help from upper year students and network. Hardware and software hacks and so much more.
 
 Join us this Thursday in Mackenzie 4463.
 
-## Button
+**Button**
 link: http://staylateandmake.ca
 text: Website
 
 # IEEE Carleton
 
-## Location
+**Location**
 ME 3359 (Office)
 
-## Description
+**Description**
 We all volunteer our time and efforts to provide students and professionals multiple avenues to expose and drive innovation in the technical world.
 
 Interested in being part of the team? 🙋🏼‍♀️🙋🏽‍♂️
@@ -66,7 +66,7 @@ Our executive meetings are held every other Monday in Mackenzie 4359 from 18:00 
 
 Follow us on <a href='http://facebook.com/ieeecarleton/'>facebook</a> and <a href="https://www.instagram.com/ieeecarleton/">instagram</a>. 🙏🏼
 
-## Button
+**Button**
 link: https://goo.gl/forms/LSmMK3SFyyLh04XJ2
 text: Mailing List Sign-up
 
