@@ -53,7 +53,7 @@ module.exports = {
             date: 'Thursday Mar. 14, 2019',
             time: '17:30 - 21:30',
             location: 'Orange Art Gallery, 290 City Centre Ave Ottawa, Ontario K1Y 2W5',
-            img: 'cheese.jpeg',
+            img: 'wie-cheese.jpeg',
             body: [
                 {
                     tag: 'p',
