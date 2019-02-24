@@ -16,7 +16,6 @@ image_name.png
 main_body
 
 **Button**
-
 link: ...
 text: ...
 
