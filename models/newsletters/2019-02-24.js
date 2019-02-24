@@ -106,7 +106,7 @@ module.exports = {
             title: 'IEEE Women in Engineering Speaker Series',
             date: 'Thursday Mar. 7, 2019',
             time: '18:00 - 19:30',
-            location: 'ME 4124',
+            location: 'ME 4463',
             img: 'wie-speakers.png',
             body: [
                 {
