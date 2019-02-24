@@ -41,7 +41,7 @@ module.exports = {
                     attr: {
                         href: 'https://docs.google.com/forms/d/17pcHKO2R4Y7C6BZXr3DkbI76Hmb5e2CuMuMHoYb1VEI'
                     },
-                    text: ''
+                    text: 'Sign-up here'
                 },
                 {
                     tag: 'button',
@@ -180,7 +180,7 @@ module.exports = {
                     attr: {
                         href: 'https://goo.gl/forms/RuidwJ8oAUcdUmWO2'
                     },
-                    text: 'Facebook Event'
+                    text: 'Sign-up Here'
                 },
                 {
                     tag: 'button',
