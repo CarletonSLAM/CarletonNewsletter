@@ -52,7 +52,7 @@ module.exports = {
         },
         // IEEE Carleton Presents: Aladdin! //
         {
-            title: 'IEEE Carleton Exec Position Info Presentation',
+            title: 'IEEE Carleton Presents: Aladdin!',
             date: 'Friday Mar. 22, 2019',
             time: '19:00 - 20:30',
             location: 'RB 2200',
