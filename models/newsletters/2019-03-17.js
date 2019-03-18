@@ -18,7 +18,7 @@ module.exports = {
     articles: [
         // IEEE Carleton + IEEE WIE Trivia and Board Game Night //
         {
-            title: 'IEEE Carleton and IEEE WIE Trivia and Board Game Night',
+            title: 'IEEE Carleton + IEEE WIE Trivia and Board Game Night',
             date: 'Tuesday Mar. 19, 2019',
             time: '18:00 - 21:00',
             location: `Oliver's Pub`,
@@ -115,16 +115,16 @@ module.exports = {
                 {
                     tag: 'button',
                     attr: {
-                        href: 'https://www.facebook.com/events/2012715112160302/'
+                        href: 'https://goo.gl/forms/6ANzoa6im5IVxpQI3'
                     },
-                    text: 'Facebook Event'
+                    text: 'Sign Up'
                 },
                 {
                     tag: 'button',
                     attr: {
-                        href: 'https://goo.gl/forms/6ANzoa6im5IVxpQI3'
+                        href: 'https://www.facebook.com/events/2012715112160302/'
                     },
-                    text: 'Sign Up'
+                    text: 'Facebook Event'
                 }
             ]
         },
