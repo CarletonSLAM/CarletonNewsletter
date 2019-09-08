@@ -184,7 +184,7 @@ module.exports = {
             title: `Learn Git with GitKraken`,
             date: `Thursday September 12, 2019`,
             time: `6:00 PM - 8:00 PM`,
-            image: `git-kraken.png`,
+            img: `git-kraken.png`,
             location: `TBD`,
             body: [
                 {
