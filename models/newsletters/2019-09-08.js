@@ -185,7 +185,7 @@ module.exports = {
             date: `Thursday September 12, 2019`,
             time: `6:00 PM - 8:00 PM`,
             img: `git-kraken.png`,
-            location: `TBD`,
+            location: `M# 4463`,
             body: [
                 {
                     tag: 'p',
