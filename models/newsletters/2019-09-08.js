@@ -185,7 +185,7 @@ module.exports = {
             date: `Thursday September 12, 2019`,
             time: `6:00 PM - 8:00 PM`,
             img: `git-kraken.png`,
-            location: `M# 4463`,
+            location: `ME 4463`,
             body: [
                 {
                     tag: 'p',
@@ -204,6 +204,42 @@ module.exports = {
                         href: 'https://forms.gle/jQJ3rw5kJYL4CM5w8'
                     },
                     text: `RSVP`
+                },
+            ]
+        },
+        // --- IEEE WIE and CSES Speaker Panel --- //
+        {
+            title: `IEEE WIE and CSES Speaker Panel`,
+            date: `Thursday September 19, 2019`,
+            time: `6:00 PM - 8:00 PM`,
+            img: `git-kraken.png`,
+            location: `Dunton Tower 2017`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `Do you want FREE food?! Do you support women??`
+                },
+                {
+                    tag: 'p',
+                    text: `IEEE Women in Engineering Carleton and CSES are hosting a speaker panel on September 19th, 2019. Speakers from Nokia, Accenture, Magnetic Forensics, and Iversoft will be coming in to share their experiences of being a woman in STEM. There will be FREE food and vegan and gluten-free options will be available.  `
+                },
+                {
+                    tag: 'p',
+                    text: `Stay tuned for more information. Check the IEEE Carleton Women in Engineering or the CSES Facebook page for more information.`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/CUIEEEWIE/'
+                    },
+                    text: `IEEE Women in Engineering Carleton`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/MyCSES/'
+                    },
+                    text: `CSES`
                 },
             ]
         },
