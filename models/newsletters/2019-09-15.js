@@ -16,7 +16,7 @@ module.exports = {
     articles: [
         // --- Volunteer Orientation --- //
         {
-            title: `Volunteer Orientation`,            
+            title: `IEEE Carleton Office Volunteers`,            
             date: `Tuesday September 17, 2019`,
             time: `6:00 PM - 8:00 PM`,
             location: `ME 4359`,
