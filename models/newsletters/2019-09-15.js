@@ -18,7 +18,7 @@ module.exports = {
         {
             title: `IEEE Carleton Office Volunteers`,            
             date: `Tuesday September 17, 2019`,
-            time: `6:00 PM - 8:00 PM`,
+            time: `7:00 PM - 8:00 PM`,
             location: `ME 4359`,
             img: `orientation.png`,
             body: [
