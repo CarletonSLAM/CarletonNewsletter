@@ -67,7 +67,7 @@ module.exports = {
                     attr: {
                         href: 'https://forms.gle/ohrAc55pXJMtBaZ7A'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Signup Form`
                 },
             ]
         },
