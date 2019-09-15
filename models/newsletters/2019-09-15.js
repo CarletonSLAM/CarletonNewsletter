@@ -90,7 +90,7 @@ module.exports = {
             title: `2019 Morgan Stanley WIT Round-Up`,            
             date: `Friday, September 27, 2019`,
             location: `Montreal`,
-            img: `orientation.png`,
+            img: `wit.jpg`,
             body: [
                 {
                     tag: 'p',
