@@ -16,7 +16,7 @@ module.exports = {
     articles: [
         // --- Volunteer Orientation --- //
         {
-            title: `IEEE Carleton Office Volunteers`,            
+            title: `IEEE Carleton Office Volunteers`,
             date: `Tuesday September 17, 2019`,
             time: `7:00 PM - 8:00 PM`,
             location: `ME 4359`,
@@ -60,9 +60,50 @@ module.exports = {
                 },
             ]
         },
+        // --- SPAC Applications --- //
+        {
+            title: `IEEE SPAC Second Round Applications`,
+            date: `September 3 - 21`,
+            img: `spac.jpg`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `The IEEE Student Professional Awareness Conference (SPAC) is a formal networking dinner hosted every year. We are one of the largest hi-tech networking events in Ottawa. 👨‍💼👩‍💼📱. Thank you for those who attended SPAC AGM last week! 🙏 This is a reminder that SPAC applications close on September 21st @ 11:59 pm. ⏰`
+                },
+                {
+                    tag: 'p',
+                    text: `We are currently looking for Marketing Leads, Marketing Team Members, Patronage Team Members, Graphics Designers, and Day-Of Volunteers! We hope to see your application.🙋‍♂️🙋‍♀️`
+                },
+                {
+                    tag: 'p',
+                    text: `P.S The IEEE SPAC team has 100% success rate in Escape Rooms 😉`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://forms.gle/imPwADMgPHNEXrfb6'
+                    },
+                    text: `Apply Here`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://tinyurl.com/y5d66wpe'
+                    },
+                    text: `Position Info Here`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/ieeespacottawa/'
+                    },
+                    text: `Facebook Page`
+                },
+            ]
+        },
         // --- GitHub Workshop --- //
         {
-            title: `IEEE and SCESoc GitHub Workshop`,            
+            title: `IEEE and SCESoc GitHub Workshop`,
             date: `Tuesday September 24, 2019`,
             time: `6:00 PM - 8:00 PM`,
             location: `CB 5109`,
@@ -115,7 +156,7 @@ module.exports = {
         },
         // --- NASA Space Apps Hackathon --- //
         {
-            title: `NASA Space Apps Hackathon`,            
+            title: `NASA Space Apps Hackathon`,
             date: `October 18 - 20, 2019`,
             time: `6:00 PM - 8:00 PM`,
             location: `ME 4359`,
