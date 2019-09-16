@@ -128,7 +128,7 @@ module.exports = {
         },
         // --- 2019 Morgan Stanley WIT Round-Up --- //
         {
-            title: `2019 Morgan Stanley WIT Round-Up`,            
+            title: `2019 Morgan Stanley WIT Round-Up`,
             date: `Friday, September 27, 2019`,
             location: `Montreal`,
             img: `wit.jpg`,
