@@ -20,7 +20,7 @@ module.exports = {
             date: `Monday September 23, 2019`,
             time: `8:00 PM - 9:00 PM`,
             location: `ME 4359`,
-            img: `cuhacking`,
+            img: `cuhacking.png`,
             body: [
                 {
                     tag: 'p',
