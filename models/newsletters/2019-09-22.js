@@ -24,7 +24,7 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `cuHacking is holding its Fall General Meeting so that you can meet the entire team! If you want to get more involved with organizing Carleton's very own MLH hackathon feel free to attend the meeting today at 8 PM in ME 4359.`
+                    text: `cuHacking is holding its Fall General Meeting so that you can meet the entire team! If you want to get more involved with organizing Carleton's very own MLH hackathon, feel free to attend the meeting today at 8 PM in ME 4359.`
                 },
                 {
                     tag: 'button',
@@ -37,6 +37,32 @@ module.exports = {
                     tag: 'button',
                     attr: {
                         href: 'https://cuhacking.com/'
+                    },
+                    text: `Website`
+                },
+            ]
+        },
+        // --- New Event --- //
+        {
+            title: `IEEE Canada Student Innovation Challenge`,
+            date: `Wednesday September 23, 2019`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `The IEEE Student Technological Innovation Challenge (STIC) is a 3-stage competition that any IEEE student member currently attending a post secondary education institution can compete in.The aim of the competition is to bring students across Canada to compete in developing, designing, building and presenting an innovative product for the betterment of humanity.`
+                },
+                {
+                    tag: 'p',
+                    text: `Registration opens 23rd September 2019 and closes October 12th 2019`
+                },
+                {
+                    tag: 'p',
+                    text: `Prizes: 1st Place Overall: 1000 CAD and plaque. 2nd Place Overall: 500 CAD and plaque. 3rd Place Overall: 250 CAD and plaque. 1st Place in Stage 1: Plaque and IEEE swag. 1st Place in Stage 2: Plaque and IEEE swag`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://ieeecarleton.ca'
                     },
                     text: `Website`
                 },
@@ -76,9 +102,34 @@ module.exports = {
         },
         // --- New Event --- //
         {
+            title: `IEEE Carleton General Meeting`,
+            date: `Wednesday September 25, 2019`,
+            time: `6:00 PM - 8:00 PM`,
+            location: `ME 4359`,
+            img: `ieee-carleton.png`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `The IEEE Carleton Student Branch hold a general meeting every two weeks. All students are welcome to attend especially if you are looking for opportunities to get involved.`
+                },
+                {
+                    tag: 'p',
+                    text: `Join us in ME 4359 at 6 PM on Wednesday and meet the executive team!`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://ieeecarleton.ca'
+                    },
+                    text: `Website`
+                },
+            ]
+        },
+        // --- New Event --- //
+        {
             title: `Intro to Vivado 2016`,
             date: `Saturday September 28, 2019`,
-            time: `2:00 PM - 5:00 PM`,
+            time: `2:00 PM - 4:30 PM`,
             location: `ME 4166`,
             img: `vivado.png`,
             body: [
@@ -107,27 +158,6 @@ module.exports = {
                         href: 'https://www.facebook.com/events/922824618066683/'
                     },
                     text: `Facebook Event`
-                },
-            ]
-        },
-        // --- New Event --- //
-        {
-            title: `IEEE Carleton General Meeting`,
-            date: `Wednesday September 25, 2019`,
-            time: `6:00 PM - 8:00 PM`,
-            location: `ME 4359`,
-            img: `ieee-carleton.png`,
-            body: [
-                {
-                    tag: 'p',
-                    text: `The IEEE Carleton Student Branch hold a general meeting every two weeks. All students are welcome to attend especially if you are looking for opportunities to get involved.`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://ieeecarleton.ca'
-                    },
-                    text: `Website`
                 },
             ]
         },
