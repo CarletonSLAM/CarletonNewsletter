@@ -41,14 +41,14 @@ module.exports = {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `**Join us on Tuesday Oct 1st, 6PM ME 4359. Bring some smiles and laughter! (And enough room for dessert)**`
+                    text: `Join us on Tuesday Oct 1st, 6PM ME 4359. Bring some smiles and laughter! (And enough room for dessert)`
                 },
                 {
                     tag: 'button',
                     attr: {
                         href: 'https://www.facebook.com/events/2476413362593398/'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Facebook Event`
                 },
             ]
         },
@@ -67,7 +67,7 @@ module.exports = {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `**Bring your own project or join one of our projects!**`
+                    text: `Bring your own project or join one of our projects!`
                 },
                 {
                     tag: 'p',
@@ -82,14 +82,14 @@ module.exports = {
                     attr: {
                         href: 'https://www.facebook.com/events/442167939743249/'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Facebook Event`
                 },
                 {
                     tag: 'button',
                     attr: {
                         href: 'https://www.staylateandmake.ca'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Website`
                 },
             ]
         },
