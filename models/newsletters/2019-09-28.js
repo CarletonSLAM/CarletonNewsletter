@@ -136,6 +136,15 @@ module.exports = {
                     tag: 'p',
                     text: `I would like to thank you all for nominating me for this month’s execs of the month. Over the past month, I have organized a couple of workshops taking part this semester; two of which includes an introduction to Git, which was co-hosted by IEEE and SCESoc, and an Introduction to Vivado 2016.3. Without the help I received from my fellow execs, workshop instructors, volunteers, and participants, these workshops would not have reached their full potential. So, I would like to give a big shout out to you all for making these workshops enjoyable, fun, and providing an opportunity for everyone to learn. Before I conclude, I just want to say this: “Knowledge should be shared not contain” and my goal is to make this statement true by creating the environment and events for everyone to learn.`
                 },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `Thank you Aashna and Hamas for your commitment and hard work! You guys are awesome!`
+                },
             ]
         },
     ]
