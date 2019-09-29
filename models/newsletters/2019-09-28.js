@@ -93,5 +93,50 @@ module.exports = {
                 },
             ]
         },
+        // --- SLAM --- //
+        {
+            title: `Execs of the Month`,
+            img: `execs-sep.png`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `Every month we wish to appreciate and thank one of our execs that went above and beyond in their duties. They showcase the values of the IEEE Carleton Student Branch and are a shining example to their peers.`
+                },
+                {
+                    tag: 'p',
+                    text: `This month was exceptional in that we had a two-way tie between two hard working execs. Therefore we decided would be best to highlight both execs this month: Aashna Narang and Hamas Waqar.`
+                },
+                {
+                    tag: 'p',
+                    text: `Here are a few words from our Execs of the Month:`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `Aashna Narang`
+                },
+                {
+                    tag: 'p',
+                    text: `Hey, everyone! I'm Aashna, the IEEE Women in Engineering Carleton Chair, and I wanted to give big thank you to the IEEE Carleton team and anyone who nominated me as Exec of the Month! This month IEEE WIE Carleton and CSES hosted a Speaker Panel featuring 4 women in STEM from Nokia, Iversoft, Kott Group, and Magnet Forensics. The event was very successful as we achieved our goal having 45 people come out! This couldn't have happened without the WIE Vice-Chair, Marie, and Cameron, the CSES Academics Director. WIE is also in the works of planning a hack with Magnet Forensics, planning a social event, collaborating with other clubs, and we have started planning for our annual Wine and Cheese!`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `Hamas Waqar`
+                },
+                {
+                    tag: 'p',
+                    text: `I would like to thank you all for nominating me for this month’s execs of the month. Over the past month, I have organized a couple of workshops taking part this semester; two of which includes an introduction to Git, which was co-hosted by IEEE and SCESoc, and an Introduction to Vivado 2016.3. Without the help I received from my fellow execs, workshop instructors, volunteers, and participants, these workshops would not have reached their full potential. So, I would like to give a big shout out to you all for making these workshops enjoyable, fun, and providing an opportunity for everyone to learn. Before I conclude, I just want to say this: “Knowledge should be shared not contain” and my goal is to make this statement true by creating the environment and events for everyone to learn.`
+                },
+            ]
+        },
     ]
 }
