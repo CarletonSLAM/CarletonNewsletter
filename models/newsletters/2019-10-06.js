@@ -84,8 +84,8 @@ module.exports = {
                     text: `Current schedule for the event: 8:30am to 9:00am - Sign in 9:00 to 11:00 - Full Stack AWS Workshop 11:00 to 12:30 (tentative) - Activities, Bring-your-own-lunch 12:30 to 4:00 - Python AI Workshop, and Unity + C#`
                 },
                 {
-                    tag: 'p',
-                    text: `Any questions can be asked on social media @cuhacking, or to hackerexperience@cuhacking.com`
+                    tag: 'htmlString',
+                    text: `Any questions can be asked on social media @cuhacking, or to <a href="mailto:hackerexperience@cuhacking.com">hackerexperience@cuhacking.com</a>`
                 },
                 {
                     tag: 'button',
