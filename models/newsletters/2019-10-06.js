@@ -92,14 +92,14 @@ module.exports = {
                     attr: {
                         href: 'https://localhackday.mlh.io/learn/locations/1827'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Sign Up`
                 },
                 {
                     tag: 'button',
                     attr: {
                         href: 'https://www.facebook.com/events/2337537592982661/'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Facebook Event`
                 },
             ]
         },
