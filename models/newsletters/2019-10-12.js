@@ -40,7 +40,7 @@ module.exports = {
                 },
                 {
                     tag: 'htmlString',
-                    text: `Please Sign up if interested at <a href="https://tinyurl.com/IEEE-Network-Security-Workshop">https://tinyurl.com/IEEE-Network-Security-Workshop</a> or with the button below.`
+                    text: `Please sign up if interested at <a href="https://tinyurl.com/IEEE-Network-Security-Workshop">https://tinyurl.com/IEEE-Network-Security-Workshop</a> or with the button below.`
                 },
                 {
                     tag: 'button',
