@@ -105,11 +105,13 @@ module.exports = {
         // --- Meeting --- //
         {
             title: `IEEE Carleton General Meeting`,
-            img: `ieee-carleton-blue.png`,
+            date: `Wednesday October 30, 2019`,
+            time: `6:00 PM - 7:30 PM`,
+            img: `ieee-carleton.png`,
             body: [
                 {
                     tag: 'p',
-                    text: `Last week IEEE Carleton held its seventh bi-weekly general meeting of the year.`
+                    text: `Last week IEEE Carleton held its seventh bi-weekly general meeting of the year. Our next meeting is on Wednesday October 30 from 6 to 7:30 PM.`
                 },
                 {
                     tag: 'p',
