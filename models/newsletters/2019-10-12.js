@@ -31,16 +31,12 @@ module.exports = {
                     text: `In this workshop, we’ll be learning about the most common security vulnerabilities: what they are, how they work, how to execute them, and how to protect against them. Then there will be an interactive segment where everyone will be able to set up a vulnerable website on their own computer and try breaking into it.`
                 },
                 {
-                    tag: 'htmlString',
+                    tag: 'p',
                     text: `Participation in both segments is not required. You are free to leave right after the presentation or stay a few hours for the interactive part. If you would like to set up for the interactive segment in advance, follow the setup instructions of your choice at <a href="https://github.com/bkimminich/juice-shop#setup">https://github.com/bkimminich/juice-shop#setup</a>`
                 },
                 {
                     tag: 'p',
-                    text: ` `
-                },
-                {
-                    tag: 'htmlString',
-                    text: `Please sign up if interested at <a href="https://tinyurl.com/IEEE-Network-Security-Workshop">https://tinyurl.com/IEEE-Network-Security-Workshop</a> or with the button below.`
+                    text: `Please sign up with the button below.`
                 },
                 {
                     tag: 'button',
@@ -103,6 +99,28 @@ module.exports = {
                         href: 'https://www.facebook.com/events/442167939743249/'
                     },
                     text: `Facebook Event`
+                },
+            ]
+        },
+        // --- Meeting --- //
+        {
+            title: `IEEE Carleton General Meeting`,
+            img: `ieee-carleton-blue.png`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `Last week IEEE Carleton held its seventh bi-weekly general meeting of the year.`
+                },
+                {
+                    tag: 'p',
+                    text: `You can see the meeting minutes by using the button below.`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://docs.google.com/document/d/1ZFbnL--viDl6cOKN9DWfe4_oPZHOE-D1EyTqAijQuKk/'
+                    },
+                    text: `Meeting Minutes`
                 },
             ]
         },
