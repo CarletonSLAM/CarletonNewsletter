@@ -111,7 +111,7 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `Last week IEEE Carleton held its seventh bi-weekly general meeting of the year. Our next meeting is on Wednesday October 30 from 6 to 7:30 PM.`
+                    text: `Last week IEEE Carleton held its seventh bi-weekly general meeting of the year. Our next meeting is on Wednesday October 30 from 6 to 7:30 PM in ME 4359.`
                 },
                 {
                     tag: 'p',
