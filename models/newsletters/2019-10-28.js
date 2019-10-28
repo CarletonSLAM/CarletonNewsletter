@@ -73,9 +73,7 @@ module.exports = {
         // --- New Event --- //
         {
             title: `Advance Network Security Workshop`,
-            date: `Thursday November 7, 2019`,
-            date: `Monday November 11, 2019`,
-            date: `Thursday November 14, 2019`,
+            date: `November 7, 11, 14; 2019`,
             time: `6:00 PM - 7:30 PM`,
             location: `ME 4359`,
             img: `network.png`,
