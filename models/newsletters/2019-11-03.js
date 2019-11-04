@@ -77,7 +77,7 @@ module.exports = {
             date: `Every Tuesday + Thursday`,
             time: `6:00 PM - 9:00 PM`,
             location: `ME 4463`,
-            img: `https://drive.google.com/open?id=1YjEg1GuBsf5NBf7kqplPmuqU_mI1GUoe`,
+            img: `slam.png`,
             body: [
                 {
                     tag: 'p',
@@ -113,14 +113,14 @@ module.exports = {
                     attr: {
                         href: 'https://www.staylateandmake.ca'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Website`
                 },
                 {
                     tag: 'button',
                     attr: {
                         href: 'https://www.facebook.com/events/442167939743249/'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Facebook Event`
                 },
             ]
         },
@@ -196,6 +196,64 @@ module.exports = {
                         href: 'https://conference.wiseuoft.org'
                     },
                     text: `More Info`
+                },
+            ]
+        },
+        // --- Execs of the Month --- //
+        {
+            title: `Execs of the Month`,
+            img: `execs-oct.png`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `Every month we wish to appreciate and thank one of our execs that went above and beyond in their duties. They showcase the values of the IEEE Carleton Student Branch and are a shining example to their peers.`
+                },
+                {
+                    tag: 'p',
+                    text: `Once again, this month was exceptional in that we had a two-way tie between two hard working execs. Therefore we decided would be best to highlight both execs this month: Tauheed Elahee and Kareem Assad.`
+                },
+                {
+                    tag: 'p',
+                    text: `Here are a few words from our Execs of the Month:`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `Tauheed Elahee`
+                },
+                {
+                    tag: 'p',
+                    text: `I am honoured of being selected Exec of the Month for October. I will continue trying to do my best and helping the rest of the exec team in making IEEE Carleton a great resource for students. And remember, MUFFINS EVERY WEEK.`
+                },
+                {
+                    tag: 'p',
+                    text: `Note: "muffins every week" implies there will no lapse of muffin being in stock, every week.`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `Kareem Assad`
+                },
+                {
+                    tag: 'p',
+                    text: `Sup y'all! Kareem here and I would like to thank you all for nominating me for this month's exec of the month. Over the past month, I've been organizing the trick or treating Halloween event which turned out to be a major success! I particularly enjoyed seeing all the societies coming together and hope to make this a yearly event. I would like to thank all the societies, volunteers, and kitties worldwide who helped make the event an enjoyable time!!`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `Thank you Tauheed and Kareem for your commitment and hard work! You guys are awesome!`
                 },
             ]
         },
