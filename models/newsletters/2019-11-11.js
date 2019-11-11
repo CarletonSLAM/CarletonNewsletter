@@ -101,27 +101,6 @@ module.exports = {
         },
         // --- New Event --- //
         {
-            title: `Extracting Medical Concepts Using Deep Learning`,
-            date: `Wednesday November 20, 2019`,
-            time: `6:00 PM - 7:30 PM`,
-            location: `ME 4463`,
-            img: `medical.png`,
-            body: [
-                {
-                    tag: 'p',
-                    text: `Join us for a talk by Dr. Isar Nejadgholi on Deep Learning for Medical Records Dr. Isar Nejadgholi is a research officer at National Research Council Canada. She received her PhD in biomedical engineering in 2012. In her MSc and PhD research, she designed neural network models and used them to solve speech-to-text and computer vision problems`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://medicaldl.eventbrite.ca'
-                    },
-                    text: `Sign-up`
-                },
-            ]
-        },
-        // --- New Event --- //
-        {
             title: `Magnet Forensics and IEEE WIE Hackathon`,
             date: `Tuesday November 19, 2019`,
             time: `6:00 PM - 9:00 PM`,
@@ -145,6 +124,27 @@ module.exports = {
                         href: 'https://www.facebook.com/events/1035565850110762/'
                     },
                     text: `Facebook Event`
+                },
+            ]
+        },
+        // --- New Event --- //
+        {
+            title: `Extracting Medical Concepts Using Deep Learning`,
+            date: `Wednesday November 20, 2019`,
+            time: `6:00 PM - 7:30 PM`,
+            location: `ME 4463`,
+            img: `medical.png`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `Join us for a talk by Dr. Isar Nejadgholi on Deep Learning for Medical Records Dr. Isar Nejadgholi is a research officer at National Research Council Canada. She received her PhD in biomedical engineering in 2012. In her MSc and PhD research, she designed neural network models and used them to solve speech-to-text and computer vision problems`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://medicaldl.eventbrite.ca'
+                    },
+                    text: `Sign-up`
                 },
             ]
         },
