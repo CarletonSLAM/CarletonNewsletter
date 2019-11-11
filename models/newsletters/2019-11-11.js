@@ -109,7 +109,7 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `Join us for a talk by Dr. Isar Nejadgholi on Deep Learning for Medical Records  Dr. Isar Nejadgholi is a research officer at National Research Council Canada. She received her PhD in biomedical engineering in 2012. In her MSc and PhD research, she designed neural network models and used them to solve speech-to-text and computer vision problems`
+                    text: `Join us for a talk by Dr. Isar Nejadgholi on Deep Learning for Medical Records Dr. Isar Nejadgholi is a research officer at National Research Council Canada. She received her PhD in biomedical engineering in 2012. In her MSc and PhD research, she designed neural network models and used them to solve speech-to-text and computer vision problems`
                 },
                 {
                     tag: 'button',
@@ -130,7 +130,7 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `Coding skills are not required, but sleuthing skills are.  Solve a simulated digital crime, collaborate with our team members to acquire new skills, and learn a little more about how we help investigators uncover digital evidence at Magnet Forensics.  Food will be provided. Prizes awarded to the top 3 detectives.  The event is FREE, but make sure to reserve your spot by registering for the event!`
+                    text: `Coding skills are not required, but sleuthing skills are. Solve a simulated digital crime, collaborate with our team members to acquire new skills, and learn a little more about how we help investigators uncover digital evidence at Magnet Forensics. Food will be provided. Prizes awarded to the top 3 detectives. The event is FREE, but make sure to reserve your spot by registering for the event!`
                 },
                 {
                     tag: 'button',
@@ -158,7 +158,11 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `The future of wireless communication is expected to see an increase in demand for high data capacity to support massive connectivity between a plethora of electronic devices. This demand has led to the current development of fifth generation (5G) technologies in the millimeter-wave frequency band. With the increased prevalence of 5G technologies, there is a growing interest in developing antennas and metasurfaces for 5G applications. This talk will discuss some of the recent research conducted by the Antennas and Metamaterials Research Group, Department of Electronics, Carleton University.  Bio: Mohamed Emara (B. Eng, M.A.Sc.) received a B.Eng. degree in Aerospace Engineering in 2016, and an M.A.Sc. in Electrical and Computer Engineering in 2018, from Carleton University. He is currently working towards a Ph.D. in Electrical & Computer Engineering with a focus on metasurfaces for EM wave control.`
+                    text: `The future of wireless communication is expected to see an increase in demand for high data capacity to support massive connectivity between a plethora of electronic devices. This demand has led to the current development of fifth generation (5G) technologies in the millimeter-wave frequency band. With the increased prevalence of 5G technologies, there is a growing interest in developing antennas and metasurfaces for 5G applications.`
+                },
+                {
+                    tag: 'p',
+                    text: `This talk will discuss some of the recent research conducted by the Antennas and Metamaterials Research Group, Department of Electronics, Carleton University. Bio: Mohamed Emara (B. Eng, M.A.Sc.) received a B.Eng. degree in Aerospace Engineering in 2016, and an M.A.Sc. in Electrical and Computer Engineering in 2018, from Carleton University. He is currently working towards a Ph.D. in Electrical & Computer Engineering with a focus on metasurfaces for EM wave control.`
                 },
                 {
                     tag: 'p',
@@ -192,7 +196,7 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `Join us for a talk by Dr. Adrian Chan on computerized image analysis  Adrian D.C. Chan is a Professor with the Department of Systems and Computer Engineering, Director of the NSERC CREATE Research and Education in Accessibility, Design, and Innovation (READi) training program, and co-founder of NeuroQore Inc.`
+                    text: `Join us for a talk by Dr. Adrian Chan on computerized image analysis Adrian D.C. Chan is a Professor with the Department of Systems and Computer Engineering, Director of the NSERC CREATE Research and Education in Accessibility, Design, and Innovation (READi) training program, and co-founder of NeuroQore Inc.`
                 },
                 {
                     tag: 'button',
