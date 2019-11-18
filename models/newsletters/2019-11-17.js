@@ -201,8 +201,8 @@ module.exports = {
                     text: `Sign-in starts at 8:30am on Saturday December 7th. The event schedule and location will be sent out in the coming weeks. If you’d like to attend, please register with the link in our bio!`
                 },
                 {
-                    tag: 'p',
-                    text: ` Any questions can be sent to hackerexperience@cuhacking.com or directly to cuHacking's media pages.`
+                    tag: 'htmlString',
+                    text: ` Any questions can be sent to <a href="hackerexperience@cuhacking.com">hackerexperience@cuhacking.com</a> or directly to cuHacking's media pages.`
                 },
                 {
                     tag: 'p',
