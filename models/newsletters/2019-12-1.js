@@ -176,6 +176,13 @@ module.exports = {
                     },
                     text: `Website`
                 },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/552661382220983/'
+                    },
+                    text: `Facebook Event`
+                },
             ]
         },
         // --- WISE Conference --- //
