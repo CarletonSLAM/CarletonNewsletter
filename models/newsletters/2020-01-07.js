@@ -39,13 +39,34 @@ module.exports = {
                 },
             ]
         },
+        // --- General Meeting --- //
+        {
+            title: `IEEE Carleton General Meeting`,
+            date: `Thursday January 9, 2020`,
+            time: `5:30 PM - 7:00 PM`,
+            location: `ME 4359`,
+            img: `ieee-carleton.png`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `Our next meeting is on Wednesday October 30 from 5:30 to 7:00 PM in ME 4359. Come join us if you want to get involved with the student branch!`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/ieeecarleton'
+                    },
+                    text: `Facebook Page`
+                },
+            ]
+        },
         // --- cuHacking --- //
         {
             title: `cuHacking 2020`,
             date: `January 11 + 12, 2020`,
             time: `8:30 AM - 4:00 PM`,
             location: `River Building`,
-            img: `cuHacking-2020.png`,
+            img: `cuhacking-2020.png`,
             body: [
                 {
                     tag: 'p',
@@ -91,7 +112,7 @@ module.exports = {
             date: `Wednesday January 15, 2020`,
             time: `6:00 PM - 9:00 PM`,
             location: `ME 3380`,
-            img: `tech.png`,
+            img: `frost.jpg`,
             body: [
                 {
                     tag: 'p',
