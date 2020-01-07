@@ -64,7 +64,7 @@ module.exports = {
         {
             title: `cuHacking 2020`,
             date: `January 11 + 12, 2020`,
-            time: `8:30 AM - 4:00 PM`,
+            time: `Time: 8:30 AM (Jan 11) - 4:00 PM (Jan 12)`,
             location: `River Building`,
             img: `cuhacking-2020.png`,
             body: [
@@ -207,6 +207,25 @@ module.exports = {
                         href: 'https://conference.wiseuoft.org'
                     },
                     text: `More Info`
+                },
+            ]
+        },
+        // --- Execs of the Month --- //
+        {
+            title: `Execs of the Month`,
+            img: `execs-dec.png`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `Every month we wish to appreciate and thank one of our execs that went above and beyond in their duties. They showcase the values of the IEEE Carleton Student Branch and are a shining example to their peers. For the month of December the exec of the month was: Federico Naranjo`
+                },
+                {
+                    tag: 'p',
+                    text: `Here are a few words from our Execs of the Month:`
+                },
+                {
+                    tag: 'p',
+                    text: `Firstly thank you to everyone for this honour, truly. All I do is make a weekly newsletter, so really idk what you guys were thinking. It's been a great experience working with the branch for the past too many years; it's been really cool to see it develop and I think you guys should continue this initiative.`
                 },
             ]
         },
