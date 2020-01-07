@@ -49,7 +49,7 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `Our next meeting is on Wednesday October 30 from 5:30 to 7:00 PM in ME 4359. Come join us if you want to get involved with the student branch!`
+                    text: `Our next meeting is on Thursday January 9 from 5:30 to 7:00 PM in ME 4359. Come join us if you want to get involved with the student branch!`
                 },
                 {
                     tag: 'button',
