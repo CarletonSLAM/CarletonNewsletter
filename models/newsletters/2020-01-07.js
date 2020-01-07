@@ -213,7 +213,7 @@ module.exports = {
         // --- Execs of the Month --- //
         {
             title: `Execs of the Month`,
-            img: `execs-dec.png`,
+            img: `exec-dec.png`,
             body: [
                 {
                     tag: 'p',
