@@ -14,6 +14,45 @@ module.exports = {
         }
     ],
     articles: [
+        // --- SPAC --- //
+        {
+            title: `IEEE SPAC 2020`,
+            date: `Thursday January 23, 2020`,
+            time: `5:30 PM - 10:30 PM`,
+            location: `Sala San Marco Conference & Events Centre`,
+            img: `spac2020.png`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `IEEE SPAC 2020 is back! We are currently selling tickets today! Want to know more or buy your tickets today?`
+                },
+                {
+                    tag: 'p',
+                    text: `Follow us on our website and make sure you put yourself as “interested” on our Facebook event to stay up to date! We also have Instagram now, so we will be posting a lot of awesome content!`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://ieeespac.ca/'
+                    },
+                    text: `Website (Tickets)`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/706341783179994/'
+                    },
+                    text: `Facebook Event`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.instagram.com/ieeespac/'
+                    },
+                    text: `Instagram`
+                },
+            ]
+        },
         // --- Volunteering Opportunities --- //
         {
             title: `Volunteering Opportunities`,
@@ -137,45 +176,6 @@ module.exports = {
                         href: 'https://www.facebook.com/events/574293060071371/'
                     },
                     text: `Facebook Event`
-                },
-            ]
-        },
-        // --- SPAC --- //
-        {
-            title: `IEEE SPAC 2020`,
-            date: `Thursday January 23, 2020`,
-            time: `5:30 PM - 10:30 PM`,
-            location: `Sala San Marco Conference & Events Centre`,
-            img: `spac2020.png`,
-            body: [
-                {
-                    tag: 'p',
-                    text: `IEEE SPAC 2020 is back! We are currently selling tickets today! Want to know more or buy your tickets today?`
-                },
-                {
-                    tag: 'p',
-                    text: `Follow us on our website and make sure you put yourself as “interested” on our Facebook event to stay up to date! We also have Instagram now, so we will be posting a lot of awesome content!`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://ieeespac.ca/'
-                    },
-                    text: `Website (Tickets)`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://www.facebook.com/events/706341783179994/'
-                    },
-                    text: `Facebook Event`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://www.instagram.com/ieeespac/'
-                    },
-                    text: `Instagram`
                 },
             ]
         },
