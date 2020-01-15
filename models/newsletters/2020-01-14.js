@@ -57,59 +57,59 @@ module.exports = {
                 },
             ]
         },
-                // --- SLAM --- //
+        // --- SLAM --- //
+        {
+            title: `Stay Late And Make SLAM`,
+            date: `Every Thursday`,
+            time: `6:00 PM - 9:00 PM`,
+            location: `ME 4463`,
+            img: `slam.png`,
+            body: [
                 {
-                    title: `Stay Late And Make SLAM`,
-                    date: `Every Thursday`,
-                    time: `6:00 PM - 9:00 PM`,
-                    location: `ME 4463`,
-                    img: `slam.png`,
-                    body: [
-                        {
-                            tag: 'p',
-                            text: `Bring your own project or join one of our projects! We are running 3 main projects this year!`
-                        },
-                        {
-                            tag: 'p',
-                            text: `🎧 Reverse-engineering an Analog Amplifier 🎸`
-                        },
-                        {
-                            tag: 'p',
-                            text: `🛩 Quadcopter Project ⌘`
-                        },
-                        {
-                            tag: 'p',
-                            text: `🤖 AI Software Project 👾`
-                        },
-                        {
-                            tag: 'p',
-                            text: `We have many upper-year Electrical and Software Engineering students there to help!`
-                        },
-                        {
-                            tag: 'p',
-                            attr: {
-                                style: {
-                                    fontWeight: 'bold'
-                                }
-                            },
-                            text: `SLAM sessions are happening once a week now: Thursdays, from 6 PM to 9 PM.`
-                        },
-                        {
-                            tag: 'button',
-                            attr: {
-                                href: 'https://www.staylateandmake.ca'
-                            },
-                            text: `Website`
-                        },
-                        {
-                            tag: 'button',
-                            attr: {
-                                href: 'https://www.facebook.com/events/442167939743249/'
-                            },
-                            text: `Facebook Event`
-                        },
-                    ]
+                    tag: 'p',
+                    text: `Bring your own project or join one of our projects! We are running 3 main projects this year!`
                 },
+                {
+                    tag: 'p',
+                    text: `🎧 Reverse-engineering an Analog Amplifier 🎸`
+                },
+                {
+                    tag: 'p',
+                    text: `🛩 Quadcopter Project ⌘`
+                },
+                {
+                    tag: 'p',
+                    text: `🤖 AI Software Project 👾`
+                },
+                {
+                    tag: 'p',
+                    text: `We have many upper-year Electrical and Software Engineering students there to help!`
+                },
+                {
+                    tag: 'p',
+                    attr: {
+                        style: {
+                            fontWeight: 'bold'
+                        }
+                    },
+                    text: `SLAM sessions are happening once a week now: Thursdays, from 6 PM to 9 PM.`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.staylateandmake.ca'
+                    },
+                    text: `Website`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/442167939743249/'
+                    },
+                    text: `Facebook Event`
+                },
+            ]
+        },
         // --- Frosh --- //
         {
             title: `Frost Week Conference`,
@@ -176,6 +176,46 @@ module.exports = {
                         href: 'https://www.instagram.com/ieeespac/'
                     },
                     text: `Instagram`
+                },
+            ]
+        },
+        // --- WIE Interview --- //
+        {
+            title: `IEEE WIE Interview and Networking Workshop`,
+            date: `January 16, 2020`,
+            time: `6:00 PM - 8:00 PM`,
+            location: `ML 482`,
+            img: `nailed-it.png`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `Looking for a coop or a job? Want to make an impression at the networking events and during an interview? IEEE WIE Carleton and IEEE WIE Ottawa section are teaming up to present an Interview and Networking Workshop. It will have two stations geared to get you ready for the coop or job hunt.`
+                },
+                {
+                    tag: 'p',
+                    text: ` The first half of the event will give you a chance to answer interview questions and be given feedback from professionals and hiring managers of all engineering fields. The second half focuses on how to make the right first impression at a networking event. Then stay for the mini networking session at the end of the night to try out your new skills.`
+                },
+                {
+                    tag: 'p',
+                    text: `FREE food is provided and the knowledge you keep. See you there.`
+                },
+                {
+                    tag: 'p',
+                    text: `Space is limited so make sure to reserve a ticket!`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.facebook.com/events/545970115990452/'
+                    },
+                    text: `Facebook Event`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://www.eventbrite.ca/e/ieee-wie-carleton-and-ottawa-section-interview-and-networking-workshop-tickets-88979878211'
+                    },
+                    text: `Eventbrite`
                 },
             ]
         },
