@@ -146,7 +146,7 @@ module.exports = {
             date: `Thursday January 23, 2020`,
             time: `5:30 PM - 10:30 PM`,
             location: `Sala San Marco Conference & Events Centre`,
-            img: `spac.jpg`,
+            img: `spac2020.png`,
             body: [
                 {
                     tag: 'p',
