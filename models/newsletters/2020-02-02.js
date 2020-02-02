@@ -109,7 +109,7 @@ module.exports = {
             body: [
                 {
                     tag: 'htmlString',
-                    text: `If you are an engineering undergraduate or post-graduate student, or a recent graduate starting out your engineering career, then this seminar might be for you. In it you will learn:<ul><li>- What is PEO?</li><li>- What engineering experience is PEO looking for once I graduate?</li><li>- I have international engineering education and experience; how is that evaluated by PEO?</li><li>- How is my engineering experience evaluated by PEO?</li><li>- How do I prepare my Experience Record?</li><li>- What is the PPE?</li><li>- What is the EIT Program and the Student Membership Program?</li></ul>`
+                    text: `If you are an engineering undergraduate or post-graduate student, or a recent graduate starting out your engineering career, then this seminar might be for you. In it you will learn:<ul><li>What is PEO?</li><li>What engineering experience is PEO looking for once I graduate?</li><li>I have international engineering education and experience; how is that evaluated by PEO?</li><li>How is my engineering experience evaluated by PEO?</li><li>How do I prepare my Experience Record?</li><li>What is the PPE?</li><li>What is the EIT Program and the Student Membership Program?</li></ul>`
                 },
                 {
                     tag: 'button',
