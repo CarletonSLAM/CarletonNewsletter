@@ -134,5 +134,28 @@ module.exports = {
                 },
             ]
         },
+        // --- Exec of the Month --- //
+        {
+            title: `Execs of the Month`,
+            img: `exec-jan.png`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `Every month we wish to appreciate and thank one of our execs that went above and beyond in their duties. They showcase the values of the IEEE Carleton Student Branch and are a shining example to their peers. For the month of January the exec of the month was: Rafid Dewan`
+                },
+                {
+                    tag: 'p',
+                    text: `Here are a few words from our Exec of the Month:`
+                },
+                {
+                    tag: 'p',
+                    text: `Hello everyone!`
+                },
+                {
+                    tag: 'p',
+                    text: `Thanks for nominating me for exec of the month. I don't really think I did much this month (besides being very sick at the end of it). But thank you, and I hope you all get more involved with IEEE. Without the hardwork of our volunteers and execs this branch cannot uphold its amazing reputation it has.  I will say this, when I was in first year I didn't feel like a place where I belonged until I came across IEEE (SPAC in particular). I've been IEEE for so long since I found a place where I can grow and be myself. Just know you always belong somewhere, and that somewhere can start at IEEE :)`
+                },
+            ]
+        },
     ]
 }
