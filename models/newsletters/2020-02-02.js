@@ -103,7 +103,7 @@ module.exports = {
         {
             title: `Seminar: Clarifying the Path to Becoming a Professional Engineer`,
             date: `Thursday February 27, 2020`,
-            time: `4:00 PM - 7:30 PM`,
+            time: `6:00 PM - 7:30 PM`,
             location: `MC 5050`,
             img: `peng.png`,
             body: [
