@@ -49,7 +49,7 @@ module.exports = {
                             fontWeight: 'bold'
                         }
                     },
-                    text: `**SLAM sessions are happening twice a week now: Tuesdays and Thursdays, from 6 PM to 9 PM.**`
+                    text: `SLAM sessions are happening twice a week now: Tuesdays and Thursdays, from 6 PM to 9 PM.`
                 },
                 {
                     tag: 'button',
