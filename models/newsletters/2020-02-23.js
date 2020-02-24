@@ -215,7 +215,7 @@ module.exports = {
                 },
                 {
                     tag: 'p',
-                    text: `This workshop works well as preparation for your co-op interviews!`
+                    text: `This seminar works well as preparation for your co-op interviews!`
                 },
                 {
                     tag: 'button',
