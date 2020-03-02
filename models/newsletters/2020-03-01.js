@@ -83,6 +83,38 @@ module.exports = {
         },
         // --- New Event --- //
         {
+            title: `IEEE SPAC 2020 Lead Candidates`,
+            date: `Wednesday March 4, 2020`,
+            time: `23:59`,
+            img: `spac-leads.png`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `We are currently looking for SPAC 2021 Leads. There will be two leads for this event, the Carleton SPAC Lead and the uOttawa SPAC Lead. Applications have been extended to Wednesday, March 4 at 11:59 pm.`
+                },
+                {
+                    tag: 'p',
+                    text: `What is SPAC? SPAC is one of the largest hi-tech networking dinners situated in Ottawa. SPAC has served as one of the longest running networking night for over 9 years. Next year will mark the 10th anniversary for SPAC. For a reference to what SPAC is, click this here to watch a video.`
+                },
+                {
+                    tag: 'p',
+                    text: `Roles of SPAC Leads: The SPAC Leads are required to recruit, organize, and manage a team of 20+ organizers/volunteers. The SPAC Leads delegate tasks to team leads and ensures all preparation for the event falls according to plan. `
+                },
+                {
+                    tag: 'p',
+                    text: `Requirements for SPAC Leads: Event planning experience and motivation, with foresight for issues and ability to drive decisions through team members. Time management and organization skills are key assets. An additional asset is the ability to resolve conflicts internally within the team and externally with third parties.`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'https://forms.gle/vk7pqhrqa6eY3UjX7'
+                    },
+                    text: `Apply Here`
+                },
+            ]
+        },
+        // --- New Event --- //
+        {
             title: `IEEE WIE 11th Annual Wine and Cheese`,
             date: `Thursday March 5, 2020`,
             time: `6:00 PM - 9:00 PM`,
