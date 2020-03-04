@@ -31,10 +31,6 @@ module.exports = {
                     text: `Scott Rust graduated with a BComm from Concordia University and continues his professional development towards his International Coaching Federation – ACC level accreditation. Scott specializes in productivity and leadership coaching to help high-achievers accomplish more, work at their best and erode stress.`
                 },
                 {
-                    tag: 'p',
-                    text: `Join us on AI in Modern Power and Energy Systems by Senior Director of BluWave.AI!`
-                },
-                {
                     tag: 'button',
                     attr: {
                         href: 'http://bit.ly/SMWYP'
