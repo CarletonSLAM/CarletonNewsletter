@@ -20,7 +20,7 @@ module.exports = {
             date: `Thursday March 5, 2020`,
             time: `6:00 PM - 9:00 PM`,
             location: `Sala San Marco`,
-            img: `https://drive.google.com/open?id=19_RnyKx5t77wJ6c9-TNgISU6pF0h1yvI`,
+            img: `ieee-carleton.png`,
             body: [
                 {
                     tag: 'p',
@@ -71,7 +71,7 @@ module.exports = {
             date: `Wednesday March 4, 2020`,
             time: `6:00 PM - 7:30 PM`,
             location: `ME4359`,
-            img: `https://drive.google.com/open?id=1L1mA_3InjNKbyRXnSMYljE9cvkeeRre2`,
+            img: `ieee-carleton.png`,
             body: [
                 {
                     tag: 'p',
@@ -106,6 +106,7 @@ module.exports = {
             date: `Tuesday March 3, 2020`,
             time: `6:00 PM - 7:30 PM`,
             location: `ME 4463`,
+            img: `ieee-carleton.png`,
             body: [
                 {
                     tag: 'p',
@@ -124,12 +125,11 @@ module.exports = {
                 },
             ]
         },
-        // --- New Event --- //
+        // --- New Event --- // 
         {
             title: `Problem Solving for Programming Interviews`,
             date: `Friday March 6, 2020`,
-            time: `6:00 PM`,
-            time: `8:00 PM`,
+            time: `6:00 PM - 8:00 PM`,
             location: `ME 4463`,
             body: [
                 {
