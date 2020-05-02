@@ -4,7 +4,7 @@
 
 ## Motivation
 
-This tool was created in order to create a consistent look and feel for the newsletters that were sent out to all IEEE members, volunteers, and subscribers through multiple different mailing clients.
+This tool was created in order to create a consistent look and feel for the newsletters that were sent out to all IEEE Carleton members, volunteers, and subscribers through multiple different mailing clients.
 
 ## Prerequisites
 
