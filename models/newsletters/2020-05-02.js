@@ -128,6 +128,7 @@ module.exports = {
         // --- New Event --- // 
         {
             title: `Problem Solving for Programming Interviews`,
+            img: `ieee-carleton.png`,
             date: `Friday March 6, 2020`,
             time: `6:00 PM - 8:00 PM`,
             location: `ME 4463`,
