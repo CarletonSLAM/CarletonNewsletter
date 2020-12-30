@@ -64,7 +64,7 @@ module.exports = {
                     attr: {
                         href: 'https://forms.gle/pAS64TSW1RnMHP4VA'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Google Form Here`
                 },
             ]
         },
@@ -75,7 +75,7 @@ module.exports = {
             time: `6:00 PM`,
             time: `7:30 PM`,
             location: `ME 4463`,
-            img: `pic1 - Academics IEEE Carleton.png https://drive.google.com/open?id=1d2oM5-LjtFH5akoDJMtUz9RNdWSZqzRx, https://drive.google.com/open?id=1V8_Pq3O09eTMKXgNKX4q3bxszl8Xv704, https://drive.google.com/open?id=1YiBbWFdmm4LEr5ks5X1vmyxUn4kELxiQ, https://drive.google.com/open?id=1-PTXNqHQtV31Pn31Q_B6aESdtDliGGFf`,
+            img: "pic1 - Academics IEEE Carleton.png https://drive.google.com/open?id=1d2oM5-LjtFH5akoDJMtUz9RNdWSZqzRx",
             body: [
                 {
                     tag: 'p',
@@ -86,7 +86,7 @@ module.exports = {
                     attr: {
                         href: 'https://tinyurl.com/Humanitariantechnologyseminar'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Link Here`
                 },
             ]
         },
@@ -107,7 +107,7 @@ module.exports = {
                     attr: {
                         href: 'https://www.twitch.tv/ieeecarleton'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Our IEEE Twitch Page`
                 },
             ]
         },
@@ -129,21 +129,21 @@ module.exports = {
                     attr: {
                         href: 'https://bit.ly/YPPEOEB'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Register Here`
                 },
                 {
                     tag: 'button',
                     attr: {
                         href: 'https://www.facebook.com/events/1088987881457326/'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Facebook Event Page`
                 },
                 {
                     tag: 'button',
                     attr: {
                         href: 'https://site.ieee.org/ottawa-yp/'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `IEEE site`
                 },
             ]
         },
@@ -172,14 +172,14 @@ module.exports = {
                     attr: {
                         href: 'https://wie.ieeeottawa.ca/event/online-talk-ai-in-modern-power-and-energy-systems-part-ii/'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `WIE online talk`
                 },
                 {
                     tag: 'button',
                     attr: {
                         href: 'https://www.facebook.com/events/263844228074701/'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Facebook Event Page`
                 },
             ]
         },
@@ -237,7 +237,7 @@ module.exports = {
                     attr: {
                         href: 'https://www.facebook.com/events/239229434044499/'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Our facebook Event Page`
                 },
                 {
                     tag: 'button',
@@ -280,14 +280,14 @@ module.exports = {
                     attr: {
                         href: 'https://www.facebook.com/events/258583595210219/'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Facebook Event Page`
                 },
                 {
                     tag: 'button',
                     attr: {
                         href: 'https://www.linkedin.com/events/6675069037887680512/'
                     },
-                    text: `ADD BUTTON TEXT`
+                    text: `Linkedin Page`
                 },
             ]
         },
