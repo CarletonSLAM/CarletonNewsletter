@@ -20,7 +20,7 @@ module.exports = {
             date: `Friday March 5, 2021`,
             time: `4:00 PM - 5:00 PM`,
             location: `Online Event`,
-            img: `PEO2021-01 - João Guilherme Nizer Rahmeier.png`,
+            img: `PEO2021-01 - João Guilherme Nizer Rahmeier copy.png`,
             body: [
                 {
                     tag: 'p',
