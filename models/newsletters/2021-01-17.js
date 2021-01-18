@@ -61,8 +61,7 @@ module.exports = {
         {
             title: `IEEE Ottawa YPAG: Meet the Team`,
             date: `Thursday January 28, 2021`,
-            time: `6:00 PM`,
-            time: `7:00 PM`,
+            time: `6:00 PM - 7:00PM`,
             location: `Online Event`,
             img: `meet the team_poster - João Guilherme Nizer Rahmeier.jpg`,
             body: [
