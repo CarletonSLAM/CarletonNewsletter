@@ -10,7 +10,7 @@ module.exports = {
         },
         {
             tag: 'htmlString',
-            text: `If you are having trouble viewing this as an email or it's images, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2021-01-17.html'>here</a> to view in browser.`
+            text: `If you are having trouble viewing this as an email or trouble seeing the images, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2021-01-17.html'>here</a> to view in browser.`
         }
     ],
     articles: [
@@ -20,7 +20,7 @@ module.exports = {
             date: `Friday March 5, 2021`,
             time: `4:00 PM - 5:00 PM`,
             location: `Online Event`,
-            img: `test.png`,
+            img: `PEO2021-01 - João Guilherme Nizer Rahmeier.png`,
             body: [
                 {
                     tag: 'p',
