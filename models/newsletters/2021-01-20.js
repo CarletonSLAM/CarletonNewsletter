@@ -14,6 +14,51 @@ module.exports = {
         }
     ],
     articles: [
+      {
+          title: `IEEE Student Professional Awareness Conference (SPAC)`,
+          date: `Thursday January 21, 2021`,
+          time: `5:30 PM`,
+          location: `Online Event`,
+          body: [
+              {
+                  tag: 'p',
+                  text: `Hey guys! IEEE’s annual student professional awareness VIRTUAL conference is coming up this Thursday, January 21, 2021 at 5:30 pm EST and we invite all streams of engineering students to come network and build connections!`
+              },
+              {
+                  tag: 'p',
+                  text: `The IEEE Student Professional Awareness Conference (SPAC) is an annual formal dinner event that serves esteemed professionals and allows them to engage with engineering and computer science students within their fields. This year the conference will be held online to maintain health and safety regulations as due to the current circumstances regarding the COVID-19 pandemic. SPAC provides students, academics, and industry professionals a chance to network and bridge the gap between classrooms and boardrooms, thereby empowering its attendees to build professional connections and form a bond.`
+              },
+              {
+                  tag: 'p',
+                  text: `It’s completely free so make sure to register because it’s an opportunity you don’t want to miss out on!`
+              },
+              {
+                  tag: 'p',
+                  text: `Check out our Instagram and Facebook for more information and register on ieeespac.ca.`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://ieeespac.ca/'
+                  },
+                  text: `IEEE SPAC Website`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://www.facebook.com/ieeespacottawa/'
+                  },
+                  text: `FACEBOOK`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://www.linkedin.com/company/spacottawa'
+                  },
+                  text: `LINKEDIN`
+              },
+          ]
+      },
         // --- New Event --- //
         {
             title: `Clarifying the path to becoming a Professional Engineer`,
@@ -124,49 +169,39 @@ module.exports = {
                 },
             ]
         },
+
         // --- New Event --- //
         {
-            title: `IEEE Student Professional Awareness Conference (SPAC)`,
-            date: `Thursday January 21, 2021`,
-            time: `5:30 PM`,
+            title: `Welcome to Ottawa's LARGEST 24-Hour LAN competition for Charity!`,
+            date: `Tuesday February 16, 2021`,
+            time: `6:00 PM - 6:00 PM`,
             location: `Online Event`,
             body: [
                 {
                     tag: 'p',
-                    text: `Hey guys! IEEE’s annual student professional awareness VIRTUAL conference is coming up this Thursday, January 21, 2021 at 5:30 pm EST and we invite all streams of engineering students to come network and build connections!`
+                    text: `From intense gaming to extraordinary prizes and unbeatable bragging rights, Battle Royale has it all.`
                 },
                 {
                     tag: 'p',
-                    text: `The IEEE Student Professional Awareness Conference (SPAC) is an annual formal dinner event that serves esteemed professionals and allows them to engage with engineering and computer science students within their fields. This year the conference will be held online to maintain health and safety regulations as due to the current circumstances regarding the COVID-19 pandemic. SPAC provides students, academics, and industry professionals a chance to network and bridge the gap between classrooms and boardrooms, thereby empowering its attendees to build professional connections and form a bond.`
+                    text: `Every year, over 100 competitors bring their best to Ottawa's largest 24-hour gaming event, for a chance to win incredible prizes - and you could be one of them!`
                 },
                 {
                     tag: 'p',
-                    text: `It’s completely free so make sure to register because it’s an opportunity you don’t want to miss out on!`
-                },
-                {
-                    tag: 'p',
-                    text: `Check out our Instagram and Facebook for more information and register on ieeespac.ca.`
+                    text: `If you think you have what it takes to rise to the top or simply want to have a good time then Battle Royale is for you.`
                 },
                 {
                     tag: 'button',
                     attr: {
-                        href: 'https://ieeespac.ca/'
+                        href: 'https://discordapp.com/invite/fFqpypN'
                     },
-                    text: `IEEE SPAC Website`
+                    text: `DISCORD LINK`
                 },
                 {
                     tag: 'button',
                     attr: {
-                        href: 'https://www.facebook.com/ieeespacottawa/'
+                        href: 'https://br13.netlify.app/'
                     },
-                    text: `FACEBOOK`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://www.linkedin.com/company/spacottawa'
-                    },
-                    text: `LINKEDIN`
+                    text: `WEBSITE`
                 },
             ]
         },
