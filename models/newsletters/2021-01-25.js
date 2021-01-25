@@ -132,7 +132,7 @@ module.exports = {
               date: `Tuesday February 16, 2021`,
               time: `6:00 PM - 6:00 PM`,
               location: `Online Event`,
-              img: 'posterBr.png',
+              img: 'posterBattleRoyale.png',
               body: [
                   {
                       tag: 'p',
