@@ -144,7 +144,7 @@ module.exports = {
               date: `Tuesday February 16, 2021`,
               time: `6:00 PM - 6:00 PM`,
               location: `Online Event`,
-              img: 'br13.png',
+              img: 'br13.jpg',
               body: [
                   {
                       tag: 'p',
