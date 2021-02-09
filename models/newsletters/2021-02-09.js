@@ -45,11 +45,6 @@ Casual tickets count as donations, starting at a minimum of $1: play casual game
                   text:`The event will take place on Monday, February 15 at 6 PM, and will last until Tuesday, February 16 at 6 PM. This event takes place during reading week.`
                 },
                 {
-                  tag:'p',
-                  text:`For more information, check the Eventbrite page https://www.eventbrite.ca/e/battle-royale-xiii-tickets-136107688761 where an FAQ is posted or the Battle Royale XIII website https://br13.netlify.app/
-A detailed schedule of the event can be found here: https://docs.google.com/spreadsheets/d/1JRowoEv58EAx8Y4MDpVrXTIqeG0AAKGHnqEcgcmxkyg/`
-                },
-                {
                   tag: 'p',
                   text: `Hoping to see you there (and winning those big prizes too, of course)!`
                 },
