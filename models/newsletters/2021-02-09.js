@@ -15,7 +15,6 @@ module.exports = {
     ],
     articles: [
         // --- New Event --- //
-        // --- New Event --- //
         {
             title: `Welcome to Ottawa's LARGEST 24-Hour LAN competition for Charity!`,
             date: `Tuesday February 16, 2021`,
@@ -25,29 +24,48 @@ module.exports = {
             body: [
                 {
                     tag: 'p',
-                    text: `From intense gaming to extraordinary prizes and unbeatable bragging rights, Battle Royale has it all.`
+                    text: `Introducing Battle Royale XIII!`
                 },
                 {
                     tag: 'p',
-                    text: `Every year, over 100 competitors bring their best to Ottawa's largest 24-hour gaming event, for a chance to win incredible prizes - and you could be one of them!`
+                    text: `Battle Royale XIII is a 24-hour gaming event geared towards raising money for charity (CHEO). Games are separated into three categories: Major, Minor, and Casual.
+Major Tournaments include CS:GO and League of Legends; Minor Tournaments include Rocket League, VALORANT, Minecraft Design, and Players' Choice; and Casual Games include Among Us, Skribbl.io, DOTA 2, FIFA 21, and Brawlhalla.`
                 },
                 {
                     tag: 'p',
-                    text: `If you think you have what it takes to rise to the top or simply want to have a good time then Battle Royale is for you.`
+                    text: `Major Tournament tickets cost $7: these are the main features of the event, so the prize pool for the winners will be significantly higher compared to the Minor Tournaments' prize pools - hence the more expensive cost of the ticket. Note: Major Tournament ticket will also allow you access to the Minor Tournaments as well! However, if you'd like to participate in both the CS:GO and the League of Legends Tournaments, you'll need to buy each ticket separately.`
+                },
+                {
+                  tag: 'p',
+                  text:`Minor Tournament tickets cost $4: although the prizes won't be as epic, there will most likely be more participation in these tournaments, resulting in more fun!
+Casual tickets count as donations, starting at a minimum of $1: play casual games at your own leisure!`
+                },
+                {
+                  tag: 'p',
+                  text:`The event will take place on Monday, February 15 at 6 PM, and will last until Tuesday, February 16 at 6 PM. This event takes place during reading week.`
+                },
+                {
+                  tag:'p',
+                  text:`For more information, check the Eventbrite page https://www.eventbrite.ca/e/battle-royale-xiii-tickets-136107688761 where an FAQ is posted or the Battle Royale XIII website https://br13.netlify.app/
+A detailed schedule of the event can be found here: https://docs.google.com/spreadsheets/d/1JRowoEv58EAx8Y4MDpVrXTIqeG0AAKGHnqEcgcmxkyg/`
+                },
+                {
+                  tag: 'p',
+                  text: `Hoping to see you there (and winning those big prizes too, of course)!`
                 },
                 {
                     tag: 'button',
                     attr: {
-                        href: 'https://www.eventbrite.ca/e/battle-royale-xiii-tickets-136107688761?aff=newsletter'
+                        href: 'https://www.eventbrite.ca/e/battle-royale-xiii-tickets-136107688761'
                     },
                     text: `REGISTER`
                 },
                 {
                     tag: 'button',
                     attr: {
-                        href: 'https://discordapp.com/invite/fFqpypN'
+                        href: 'https://docs.google.com/spreadsheets/d/1JRowoEv58EAx8Y4MDpVrXTIqeG0AAKGHnqEcgcmxkyg/edit#gid=1004206347'
                     },
-                    text: `DISCORD LINK`
+                    text: `EVENT SCHEDULE`
                 },
                 {
                     tag: 'button',
