@@ -10,68 +10,49 @@ module.exports = {
         },
         {
             tag: 'htmlString',
-            text: `If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2021-01-25.html'>here</a> to view in browser.`
+            text: `If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2021-02-17.html'>here</a> to view in browser.`
         }
     ],
     articles: [
-        // --- New Event --- //
-        {
-            title: `Welcome to Ottawa's LARGEST 24-Hour LAN competition for Charity!`,
-            date: `Tuesday February 16, 2021`,
-            time: `6:00 PM - 6:00 PM`,
-            location: `Online Event`,
-            img: 'br13.jpg',
-            body: [
-                {
-                    tag: 'p',
-                    text: `Introducing Battle Royale XIII!`
-                },
-                {
-                    tag: 'p',
-                    text: `Battle Royale XIII is a 24-hour gaming event geared towards raising money for charity (CHEO). Games are separated into three categories: Major, Minor, and Casual.
-Major Tournaments include CS:GO and League of Legends; Minor Tournaments include Rocket League, VALORANT, Minecraft Design, and Players' Choice; and Casual Games include Among Us, Skribbl.io, DOTA 2, FIFA 21, and Brawlhalla.`
-                },
-                {
-                    tag: 'p',
-                    text: `Major Tournament tickets cost $7: these are the main features of the event, so the prize pool for the winners will be significantly higher compared to the Minor Tournaments' prize pools - hence the more expensive cost of the ticket. Note: Major Tournament ticket will also allow you access to the Minor Tournaments as well! However, if you'd like to participate in both the CS:GO and the League of Legends Tournaments, you'll need to buy each ticket separately.`
-                },
-                {
-                  tag: 'p',
-                  text:`Minor Tournament tickets cost $4: although the prizes won't be as epic, there will most likely be more participation in these tournaments, resulting in more fun!
-Casual tickets count as donations, starting at a minimum of $1: play casual games at your own leisure!`
-                },
-                {
-                  tag: 'p',
-                  text:`The event will take place on Monday, February 15 at 6 PM, and will last until Tuesday, February 16 at 6 PM. This event takes place during reading week.`
-                },
-                {
-                  tag: 'p',
-                  text: `Hoping to see you there (and winning those big prizes too, of course)!`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://www.eventbrite.ca/e/battle-royale-xiii-tickets-136107688761'
-                    },
-                    text: `REGISTER`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://docs.google.com/spreadsheets/d/1JRowoEv58EAx8Y4MDpVrXTIqeG0AAKGHnqEcgcmxkyg/edit#gid=1004206347'
-                    },
-                    text: `EVENT SCHEDULE`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'https://br13.netlify.app/'
-                    },
-                    text: `WEBSITE`
-                },
-            ]
-        },
-
+      {
+          title: `IEEE Annual Election Season`,
+          img: `elections.png`,
+          body: [
+            {
+                tag: 'p',
+                text: `Want to be an exec ? Gain some leadership experience and have fun on a team? Be a leader in Carleton and Global engineering community?`
+            },
+            {
+                tag: 'p',
+                text: ` Unlike in the past, this year we will be holding two elections, the Officers Elections and the Director Election, and each will have their own separate application form respectively.`
+            },
+            {
+              tag:'p',
+              text:`While the Director Election Application form will be released shortly. So stay tuned! In the meanwhile, feel free to look at the available position above`
+            },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://bit.ly/YPPEO21'
+                  },
+                  text: `REGISTER`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://docs.google.com/document/u/1/d/1je1tLaQi_KDuUjpjZO3oXb4T_D5LMV7ZTPAMHmp9Obg/edit&followup=https://docs.google.com/document/u/1/d/1je1tLaQi_KDuUjpjZO3oXb4T_D5LMV7ZTPAMHmp9Obg/edit&ltmpl=docs&authuser=1'
+                  },
+                  text: `HANDBOOK`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://docs.google.com/forms/d/e/1FAIpQLSe3IiqYp7bn2-slDVpgGcbkS4af6qd63cOZgFYxLvp6aLlFvg/viewform'
+                  },
+                  text: `FORM`
+              },
+          ]
+      },
           {
               title: `Clarifying the path to becoming a Professional Engineer`,
               date: `Friday March 5, 2021`,
