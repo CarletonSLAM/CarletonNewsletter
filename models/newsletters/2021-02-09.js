@@ -33,13 +33,6 @@ module.exports = {
               {
                   tag: 'button',
                   attr: {
-                      href: 'https://bit.ly/YPPEO21'
-                  },
-                  text: `REGISTER`
-              },
-              {
-                  tag: 'button',
-                  attr: {
                       href: 'https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://docs.google.com/document/u/1/d/1je1tLaQi_KDuUjpjZO3oXb4T_D5LMV7ZTPAMHmp9Obg/edit&followup=https://docs.google.com/document/u/1/d/1je1tLaQi_KDuUjpjZO3oXb4T_D5LMV7ZTPAMHmp9Obg/edit&ltmpl=docs&authuser=1'
                   },
                   text: `HANDBOOK`
