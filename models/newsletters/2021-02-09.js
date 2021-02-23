@@ -10,7 +10,7 @@ module.exports = {
         },
         {
             tag: 'htmlString',
-            text: `If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2021-02-17.html'>here</a> to view in browser.`
+            text: `If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2021-02-22.html'>here</a> to view in browser.`
         }
     ],
     articles: [
@@ -43,6 +43,69 @@ module.exports = {
                       href: 'https://docs.google.com/forms/d/e/1FAIpQLSe3IiqYp7bn2-slDVpgGcbkS4af6qd63cOZgFYxLvp6aLlFvg/viewform'
                   },
                   text: `FORM`
+              },
+          ]
+      },
+      // --- New Event --- //
+      {
+          title: `Introduction to HFSS breakthrough Mesh Fusion technology`,
+          date: `Wednesday March 3, 2021`,
+          time: `3:00 PM - 4:00 PM`,
+          location: `Online`,
+          img: `ansys.jpg`,
+          body: [
+              {
+                  tag: 'p',
+                  text: `This webinar spotlights Ansys 2021 R1's latest release of Ansys HFSS and provides a deep dive look at its new groundbreaking Mesh Fusion technology. Learn how this 3D full-wave EM simulator can cover the capacity, complexity and density of detail in a fully coupled, full-wave electromagnetic simulation like nothing else on the market.`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://events.vtools.ieee.org/event/register/261001'
+                  },
+                  text: `REGISTER`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://www.linkedin.com/feed/update/urn:li:activity:6768292796798427136'
+                  },
+                  text: `LINKEDIN`
+              },
+          ]
+      },
+      // --- New Event --- //
+      {
+          title: `Seminar on Leaky-Wave Antennas for 5G Applications`,
+          date: `Friday March 19, 2021`,
+          time: `4:00 PM - 5:00 OM`,
+          location: `Online`,
+          img: `localSquare.jpg`,
+          body: [
+              {
+                  tag: 'p',
+                  text: `Join us for a workshop with Nima Javanbakht, who is currently pursuing a Ph.D. degree in electrical engineering at Carleton University. His research interest includes analysis and design of leaky-wave antennas, sidelobe suppression, reconfigurable antennas, compact microwave sensors, and 5G mm-wave applications.`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://www.eventbrite.ca/e/leaky-wave-antennas-for-5g-applications-tickets-142521139565'
+                  },
+                  text: `REGISTER`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://www.facebook.com/events/332308274858513'
+                  },
+                  text: `FACEBOOK`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://www.linkedin.com/events/6769633183890771969/'
+                  },
+                  text: `LINKEDIN`
               },
           ]
       },
