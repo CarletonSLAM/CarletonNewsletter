@@ -151,38 +151,5 @@ module.exports = {
                   },
               ]
           },
-
-          // --- New Event --- //
-          {
-              title: `Webinar: Honing Your Research Skills`,
-              date: `Monday February 15, 2021`,
-              time: `4:00 PM - 5:00 PM`,
-              location: `Online Event`,
-              img: `researchSkills.png`,
-              body: [
-                  {
-                      tag: 'p',
-                      text: `Interested in improving your research skills? This webinar is for you!!`
-                  },
-                  {
-                      tag: 'p',
-                      text: `This webinar will cover general research skills necessary for success in engineering research, and is intended to undergraduate students, new graduate students, or anyone starting or getting back into engineering research. Topics covered will include journal paper reading and writing, academic metrics, research communication, problem solving, and more!`
-                  },
-                  {
-                      tag: 'button',
-                      attr: {
-                          href: 'http://bit.ly/YPOSKILLS'
-                      },
-                      text: `REGISTER`
-                  },
-                  {
-                      tag: 'button',
-                      attr: {
-                          href: 'https://www.linkedin.com/events/6757363321290207232/about/'
-                      },
-                      text: `LINKEDIN`
-                  },
-              ]
-          },
     ]
 }
