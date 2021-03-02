@@ -28,7 +28,7 @@ module.exports = {
             },
             {
               tag:'p',
-              text:`While the Director Election Application form will be released shortly. So stay tuned! In the meanwhile, feel free to look at the available position above`
+              text:`If you're interested in becoming part of the next IEEE Carleton executive team, please submit the application form seen below.`
             },
               {
                   tag: 'button',
@@ -40,9 +40,65 @@ module.exports = {
               {
                   tag: 'button',
                   attr: {
-                      href: 'https://docs.google.com/forms/d/e/1FAIpQLSe3IiqYp7bn2-slDVpgGcbkS4af6qd63cOZgFYxLvp6aLlFvg/viewform'
+                      href: 'https://docs.google.com/forms/d/e/1FAIpQLScFH9Mes0ftM1Kpstc4d1NB-vZqixpc_2tffi_ROSrHtJ95JQ/viewform'
                   },
-                  text: `FORM`
+                  text: `DIRECTORSHIP FORM`
+              },
+
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://docs.google.com/forms/d/e/1FAIpQLSe3Iiqx'
+                  },
+                  text: `OFFICER FORM`
+              },
+          ]
+      },
+      {
+          title: `Wine and Cheese 2021`,
+          body: [
+            {
+                tag: 'p',
+                text: `Whoa check out IEEE WIE's upcoming networking event!`
+            },
+            {
+                tag: 'p',
+                text: `Looking to make meaningful connections with students and professionals in Ottawa’s engineering community? Want to hone your leadership and networking skills in an engaging and interactive online event? Wine and Cheese Networking is the place for you!
+Introducing the IEEE Women in Engineering 12th annual Wine and Cheese Networking Event. A fantastic opportunity for students to practice their networking skills and build a network with industry professionals and academia from the Ottawa community. This year, our online event will combine our usual format with some new activities that you won’t want to miss!
+With an evening filled with interesting speakers, ice-breakers, and networking opportunities, there's no better time and place to start networking! `
+            },
+            {
+              tag: 'p',
+              text: `For more information, please visit our website at https://www.celebratewie.ca/, or email us at celebratewie@gmail.com.`
+            },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://hopin.com/events/ieee-wie-wine-and-cheese-networking'
+                  },
+                  text: `REGISTER FOR TICKETS`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://forms.gle/wpMEA8SLUNkkG5JL7'
+                  },
+                  text: `UPLOAD RESUME`
+              },
+
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://www.facebook.com/events/1889764247829473/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A125832629428606%7D%7D%5D%22%7D'
+                  },
+                  text: `FACEBOOK`
+              },
+              {
+                  tag: 'button',
+                  attr: {
+                      href: 'https://www.celebratewie.ca/'
+                  },
+                  text: `OUR SITE`
               },
           ]
       },
