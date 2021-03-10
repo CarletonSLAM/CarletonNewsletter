@@ -44,14 +44,6 @@ module.exports = {
                   },
                   text: `DIRECTORSHIP FORM`
               },
-
-              {
-                  tag: 'button',
-                  attr: {
-                      href: 'https://docs.google.com/forms/d/e/1FAIpQLSe3Iiqx'
-                  },
-                  text: `OFFICER FORM`
-              },
           ]
       },
       {
@@ -102,34 +94,7 @@ With an evening filled with interesting speakers, ice-breakers, and networking o
               },
           ]
       },
-      // --- New Event --- //
-      {
-          title: `Introduction to HFSS breakthrough Mesh Fusion technology`,
-          date: `Wednesday March 3, 2021`,
-          time: `3:00 PM - 4:00 PM`,
-          location: `Online`,
-          img: `ansys.jpg`,
-          body: [
-              {
-                  tag: 'p',
-                  text: `This webinar spotlights Ansys 2021 R1's latest release of Ansys HFSS and provides a deep dive look at its new groundbreaking Mesh Fusion technology. Learn how this 3D full-wave EM simulator can cover the capacity, complexity and density of detail in a fully coupled, full-wave electromagnetic simulation like nothing else on the market.`
-              },
-              {
-                  tag: 'button',
-                  attr: {
-                      href: 'https://events.vtools.ieee.org/event/register/261001'
-                  },
-                  text: `REGISTER`
-              },
-              {
-                  tag: 'button',
-                  attr: {
-                      href: 'https://www.linkedin.com/feed/update/urn:li:activity:6768292796798427136'
-                  },
-                  text: `LINKEDIN`
-              },
-          ]
-      },
+
       // --- New Event --- //
       {
           title: `Seminar on Leaky-Wave Antennas for 5G Applications`,
@@ -165,47 +130,5 @@ With an evening filled with interesting speakers, ice-breakers, and networking o
               },
           ]
       },
-          {
-              title: `Clarifying the path to becoming a Professional Engineer`,
-              date: `Friday March 5, 2021`,
-              time: `4:00 PM - 5:00 PM`,
-              location: `Online Event`,
-              img: `clarify.jpg`,
-              body: [
-                {
-                    tag: 'p',
-                    text: `If you are an engineering undergraduate or post-graduate student, or a recent graduate starting out your engineering career, then this seminar might be for you.`
-                },
-                {
-                    tag: 'p',
-                    text: `In it you will learn: What is PEO? What engineering experience is PEO looking for once I graduate? I have international engineering education and experience; how is that evaluated by PEO? How is my engineering experience evaluated by PEO? How do I prepare my Experience Record? What is the PPE? What is the EIT Program and the Student Membership Program?`
-                },
-                {
-                    tag: 'p',
-                    text: `Emphasis of this webinar will be on the P. Eng. licensure process - what PEO is looking for. The webinar will focus on how engineering experience is evaluated and how you can facilitate the process. Learn the dos and don’ts of preparing your licensing application for evaluation. To participate, you will require: internet connection to view the webinar, and/or phone access to dial into the conference for audio. We look forward to speaking with you!`
-                },
-                  {
-                      tag: 'button',
-                      attr: {
-                          href: 'https://bit.ly/YPPEO21'
-                      },
-                      text: `REGISTER`
-                  },
-                  {
-                      tag: 'button',
-                      attr: {
-                          href: 'https://www.linkedin.com/company/65487492'
-                      },
-                      text: `LINKEDIN`
-                  },
-                  {
-                      tag: 'button',
-                      attr: {
-                          href: 'https://www.peo.on.ca'
-                      },
-                      text: `PEO Website`
-                  },
-              ]
-          },
     ]
 }
