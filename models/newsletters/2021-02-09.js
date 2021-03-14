@@ -46,54 +46,34 @@ module.exports = {
               },
           ]
       },
+
       {
-          title: `Wine and Cheese 2021`,
+          title: `IEEE Annual Election Season`,
+          date: 'March 14 @ 12:00 pm - 1:00 pm',
+          img: `pds4.jpg`,
           body: [
             {
                 tag: 'p',
-                text: `Whoa check out IEEE WIE's upcoming networking event!`
-            },
-            {
-                tag: 'p',
-                text: `Looking to make meaningful connections with students and professionals in Ottawa’s engineering community? Want to hone your leadership and networking skills in an engaging and interactive online event? Wine and Cheese Networking is the place for you!
-Introducing the IEEE Women in Engineering 12th annual Wine and Cheese Networking Event. A fantastic opportunity for students to practice their networking skills and build a network with industry professionals and academia from the Ottawa community. This year, our online event will combine our usual format with some new activities that you won’t want to miss!
-With an evening filled with interesting speakers, ice-breakers, and networking opportunities, there's no better time and place to start networking! `
-            },
-            {
-              tag: 'p',
-              text: `For more information, please visit our website at https://www.celebratewie.ca/, or email us at celebratewie@gmail.com.`
+                text: `With the onset of the pandemic from early March 2020, nearly everything from shopping groceries to job recruitment is being virtualized. It completely changed the landscape for graduating students to get a job. Not just students even organizations are finding it difficult to recruit the perfect candidate for the position. Are you a recent graduate student looking for a job? Are you in your final term of school and wondering how to get your dream job?
+IEEE WIE Ottawa along with IEEE YP Ottawa brings to you Professional Development Series! Join us for our 4th event of the Professional Development Series – Landing your dream job. The event will discuss how one should approach job search in a way they could easily get their dream job during this pandemic. It is going to be delivered by Tegbir Singh – data analyst professional. He will be sharing his experience of successfully landed on his job during the pandemic.`
             },
               {
                   tag: 'button',
                   attr: {
-                      href: 'https://hopin.com/events/ieee-wie-wine-and-cheese-networking'
+                      href: 'https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://docs.google.com/document/u/1/d/1je1tLaQi_KDuUjpjZO3oXb4T_D5LMV7ZTPAMHmp9Obg/edit&followup=https://docs.google.com/document/u/1/d/1je1tLaQi_KDuUjpjZO3oXb4T_D5LMV7ZTPAMHmp9Obg/edit&ltmpl=docs&authuser=1'
                   },
-                  text: `REGISTER FOR TICKETS`
+                  text: `HANDBOOK`
               },
               {
                   tag: 'button',
                   attr: {
-                      href: 'https://forms.gle/wpMEA8SLUNkkG5JL7'
+                      href: 'https://wie.ieeeottawa.ca/event/professional-development-series-landing-your-dream-job/'
                   },
-                  text: `UPLOAD RESUME`
-              },
-
-              {
-                  tag: 'button',
-                  attr: {
-                      href: 'https://www.facebook.com/events/1889764247829473/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A125832629428606%7D%7D%5D%22%7D'
-                  },
-                  text: `FACEBOOK`
-              },
-              {
-                  tag: 'button',
-                  attr: {
-                      href: 'https://www.celebratewie.ca/'
-                  },
-                  text: `OUR SITE`
+                  text: `EVENT SIGNUP`
               },
           ]
       },
+
 
       // --- New Event --- //
       {
