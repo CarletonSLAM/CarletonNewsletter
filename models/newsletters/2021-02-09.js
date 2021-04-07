@@ -17,23 +17,15 @@ module.exports = {
 
       // --- New Event --- //
       {
-          title: `IEEE and SREE Trivia Night`,
-          date: `Wednesday March 24, 2021`,
+          title: `IEEE Year End Debate Night`,
+          date: `April 14, 2021`,
           time: `7:00 PM`,
           location: `Online`,
-          img: `triv.png`,
+          img: `debate.png`,
           body: [
               {
                   tag: 'p',
-                  text: `Join IEEE on Wednesday @ 7pm for IEEE and SREE Trivia Night! From science to pop-culture, you and your three teammates could win amazing prizes! Sign up with IEEE using the docs page!`
-              },
-              {
-                  tag: 'p',
-                  text: `Where: SREESociety and IEEE discords`
-              },
-              {
-                  tag: 'p',
-                  text: `When: Wednesday 24, 2021 @7PM`
+                  text: `Join IEEE on the last day of the year for a night of debates on various random topics! Sign up as a team of 2-4 and compete against other societies and see who will be crowned C-Eng’s best debate team! May the most absurd arguments win!! Also there's a chill and study zone where we play games and stuff. WINNERS GET PRIZES`
               },
               {
                   tag: 'p',
@@ -42,16 +34,16 @@ module.exports = {
               {
                   tag: 'button',
                   attr: {
-                      href: 'https://forms.gle/xKw9jxMSiotihqcg9'
+                      href: 'https://docs.google.com/forms/d/e/1FAIpQLSc_sWXuJyi49Wqc-3TP8wt7qiHfzI9ZCXJSr0uwXMIbruaOzA/viewform'
                   },
                   text: `SIGN UP`
               },
               {
                   tag: 'button',
                   attr: {
-                      href: 'https://zoom.us/j/91904620400?pwd=cDRlcW45ZWxpUXlLejVEaTdzdlQ2QT09'
+                      href: 'https://discord.gg/vbDKznwXdp'
                   },
-                  text: `ZOOM LINK`
+                  text: `IEEE DISCORD`
               },
           ]
       },
