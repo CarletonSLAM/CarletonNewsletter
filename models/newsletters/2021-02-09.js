@@ -61,13 +61,12 @@ module.exports = {
             location: `Online`,
             img: `michael.jpg`,
             body: [
-                {
-                    tag: 'p',
-                    text: `Join us for a workshop with Nima Javanbakht, who is currently pursuing a Ph.D. degree in electrical engineering at Carleton University. His research interest includes analysis and design of leaky-wave antennas, sidelobe suppression, reconfigurable antennas, compact microwave sensors, and 5G mm-wave applications.`
-                },
+
                 {
                   tag: 'p',
-                  text: `May 10th 12:00PM-02:00PM`
+                  text: `In a world where specialization and technical skills have become more important than ever, the significance of soft skills, such as interpersonal communication and leadership skills, should not be underestimated. IEEE YP Ottawa invites you to join us for a special Lunch and Learn session, where Michael will be sharing his experience and insights on bridging that skill gap, followed by a brief Q&A session.
+
+Speaker: Michael Lalonde, Co-Owner, Purecolo Inc., Chair IEEE Ottawa Lunch and Learn`
                 },
                 {
                     tag: 'button',
