@@ -14,7 +14,6 @@ module.exports = {
         }
     ],
     articles: [
-
       // --- New Event --- //
       {
           title: `Share your Experience - Call for Speakers`,
@@ -52,5 +51,32 @@ module.exports = {
               },
           ]
       },
+
+        // --- New Event --- //
+        {
+            title: `Bridging the Skill Gap`,
+            date: `May 10th 12:00PM - 2:00 PM`,
+            time: `4:00 PM`,
+            time: `5:00 PM`,
+            location: `Online`,
+            img: `michael.jpg`,
+            body: [
+                {
+                    tag: 'p',
+                    text: `Join us for a workshop with Nima Javanbakht, who is currently pursuing a Ph.D. degree in electrical engineering at Carleton University. His research interest includes analysis and design of leaky-wave antennas, sidelobe suppression, reconfigurable antennas, compact microwave sensors, and 5G mm-wave applications.`
+                },
+                {
+                  tag: 'p',
+                  text: `May 10th 12:00PM-02:00PM`
+                },
+                {
+                    tag: 'button',
+                    attr: {
+                        href: 'http://bit.ly/ypobridging21'
+                    },
+                    text: `SIGN UP`
+                },
+            ]
+        },
     ]
 }
