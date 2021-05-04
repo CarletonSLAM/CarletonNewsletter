@@ -56,8 +56,6 @@ module.exports = {
         {
             title: `Bridging the Skill Gap`,
             date: `May 10th 12:00PM - 2:00 PM`,
-            time: `4:00 PM`,
-            time: `5:00 PM`,
             location: `Online`,
             img: `michael.jpg`,
             body: [
