@@ -51,29 +51,5 @@ module.exports = {
               },
           ]
       },
-
-        // --- New Event --- //
-        {
-            title: `Bridging the Skill Gap`,
-            date: `May 10th 12:00PM - 2:00 PM`,
-            location: `Online`,
-            img: `michael.jpg`,
-            body: [
-
-                {
-                  tag: 'p',
-                  text: `In a world where specialization and technical skills have become more important than ever, the significance of soft skills, such as interpersonal communication and leadership skills, should not be underestimated. IEEE YP Ottawa invites you to join us for a special Lunch and Learn session, where Michael will be sharing his experience and insights on bridging that skill gap, followed by a brief Q&A session.
-
-Speaker: Michael Lalonde, Co-Owner, Purecolo Inc., Chair IEEE Ottawa Lunch and Learn`
-                },
-                {
-                    tag: 'button',
-                    attr: {
-                        href: 'http://bit.ly/ypobridging21'
-                    },
-                    text: `SIGN UP`
-                },
-            ]
-        },
     ]
 }
