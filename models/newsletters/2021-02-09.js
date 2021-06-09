@@ -59,10 +59,6 @@ module.exports = {
           img: `Prof_Development_Series_-_Madison.png`,
           body: [
             {
-              tag: 'p',
-              text:`Is Graduate School for You?`
-            },
-            {
                 tag: 'button',
                 attr: {
                     href: 'bit.ly/ypo{art2}'
