@@ -61,7 +61,7 @@ module.exports = {
             {
                 tag: 'button',
                 attr: {
-                    href: 'bit.ly/ypo{art2}'
+                    href: 'bit.ly/ypoPart2'
                 },
                 text: `REGISTER`
             },
