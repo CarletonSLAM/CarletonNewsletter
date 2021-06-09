@@ -61,7 +61,7 @@ module.exports = {
             {
                 tag: 'button',
                 attr: {
-                    href: 'bit.ly/ypoPart2'
+                    href: 'https://www.eventbrite.ca/e/choosing-graduate-school-or-industry-tickets-156246707107'
                 },
                 text: `REGISTER`
             },
