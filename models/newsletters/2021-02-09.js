@@ -51,5 +51,25 @@ module.exports = {
               },
           ]
       },
+
+      {
+          title: `Professional Development Series Pt. 2`,
+          time: `Wednesday June 16, 11 am EST`,
+          location: `Online`,
+          img: `Prof_Development_Series_-_Madison.png`,
+          body: [
+            {
+              tag: 'p',
+              text:`Is Graduate School for You?`
+            },
+            {
+                tag: 'button',
+                attr: {
+                    href: 'bit.ly/ypo{art2}'
+                },
+                text: `REGISTER`
+            },
+          ]
+      },
     ]
 }
