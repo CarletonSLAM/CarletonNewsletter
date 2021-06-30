@@ -53,15 +53,15 @@ module.exports = {
       },
 
       {
-          title: `Professional Development Series Pt. 2`,
-          time: `Wednesday June 16, 11 am EST`,
+          title: `Professional Development Series Pt. 4 - "Keeping Up with the Latest Trends"`,
+          time: `Friday July 2, 12pm EST`,
           location: `Online`,
-          img: `Prof_Development_Series_-_Madison.png`,
+          img: `Prof_Developement_Series_-_Ugomma.png`,
           body: [
             {
                 tag: 'button',
                 attr: {
-                    href: 'https://www.eventbrite.ca/e/choosing-graduate-school-or-industry-tickets-156246707107'
+                    href: 'https://www.eventbrite.ca/e/how-to-keep-up-to-date-with-the-latest-tickets-156250584705'
                 },
                 text: `REGISTER`
             },
