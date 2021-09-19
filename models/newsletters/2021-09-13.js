@@ -16,7 +16,7 @@ module.exports = {
     articles: [
       // --- New Event --- //
       {
-          title: `Learn about the Internet of THings`,
+          title: `Learn about the Internet of Things`,
           time: `Wednesday September 20th, 21st, 10 AM`,
           location: `ZOOM`,
           body: [
