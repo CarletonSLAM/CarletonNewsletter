@@ -62,14 +62,38 @@ module.exports = {
           ]
       },
       {
-          title: `Office Hours: Introduction to Scientific Python`,
-          time: `Monday, September 27th 2021, 5:30 PM - 6:30 PM `,
+          title: `Office Hours: Linear Regression`,
+          time: `Wednesday October 20th 2021, 7:30-8:30 PM `,
           location: `CAIS Discord`,
-          img: `OHWS1IntroSciPyCAIS.png`,
+          img: `OH-2-lin-alg.png`,
           body: [
             {
                 tag: 'p',
-                text: `Presenting the CAIS Office Hour! Have any questions related to last weeks workshop about Scientific Python? Need help or want to expand on what you learned? Join anytime to chat directly with the presenter on Discord!`
+                text: `Presenting the CAIS Office Hour! Have any questions related to last week’s workshop about Linear Regression? Need help or want to expand on what you learned? Join anytime to chat directly with the presenter on Discord!`
+            },
+            {
+                tag: 'button',
+                attr: {
+                    href: 'https://discord.gg/BPqSRnaC'
+                },
+                text: `DISCORD`
+            },
+          ]
+      },
+      {
+          title: `AI Coffee Hour 3: SpOOkY AI Application`,
+          time: `Thursday October 28th 2021, 6:00 - 7:30 PM `,
+          location: `CAIS Discord`,
+          body: [
+            {
+                tag: 'p',
+                text: `Presenting CAIS’s AI Coffee Hour! Our AI Coffee hour is a social event where everyone is invited to bring a cup of coffee and chat with the CAIS members about anything relating to Artificial Intelligence and Machine Learning. Want to exchange where you get your AI news and research? Feeling good or need help with your personal AI project? This is the perfect place to meet fellow AI enthusiasts. The discussions will be lightly guided by new themes every week, but nothing AI-related is off-limits. No prior experience or knowledge is required.
+
+This week we’ll be discussing scary and unethical applications of AI/ML for Halloween!`
+            },
+            {
+                tag: 'p',
+                text: `This week we’ll be discussing scary and unethical applications of AI/ML for Halloween!`
             },
             {
                 tag: 'button',
