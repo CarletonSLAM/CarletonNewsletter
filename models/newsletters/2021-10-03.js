@@ -16,26 +16,29 @@ module.exports = {
     articles: [
       // --- New Event --- //
       {
-          title: `AI coffee Hour 2: Reinformcement Learning`,
-          time: `Thursday October 7th, 21st, 6:00 - 7:30 PM`,
-          location: `MS Teams`,
-          img: `Carleton AI Society.png`,
+          title: `IEEE Elections`,
+          time: `Wednesday October 13, 6:00 PM`,
           body: [
               {
-                  tag: 'p',
-                  text: `Presenting CAIS’s AI Coffee Hour! Our AI Coffee hour is a social event where everyone is invited to bring a cup of coffee and chat with the CAIS members about anything relating to Artificial Intelligence and Machine Learning. Want to exchange where you get your AI news and research? Feeling good or need help with your personal AI project? This is the perfect place to meet fellow AI enthusiasts. The discussions will be lightly guided by new themes every week, but nothing AI-related is off-limits. No prior experience or knowledge is required.`
-              },
-              {
                 tag: 'p',
-                text:`This week we’ll be discussing reinforcement learning and other related AI/ML topics.`
+                text:`IEEE Carleton will be extending the deadline for by-election platform submissions to Wednesday, October 13th, make sure to submit a platform (https://bit.ly/3ohHUfQ) to vicechair@ieeecarleton.ca if you're interested in running for a position! You can find out more about them in our position description document (https://bit.ly/39IsLLX)
+
+We look forward to meeting the candidates this Wednesday!.`
               },
               {
                 tag: 'button',
                 attr: {
-                    href: 'https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OTA4MmFkZDktM2E1My00NjQxLTk1MzUtOTdjZWM2MjRkODk3%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25226ad91895-de06-485e-bc51-fce126cc8530%2522%252c%2522Oid%2522%253a%2522ab72a30b-581e-45d2-abc3-37cc554dfefb%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=8a32e66e-4779-4a9b-b8ed-5c8d7e3ffeed&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true'
+                    href: 'https://bit.ly/3ohHUfQ'
                 },
-                text:`JOIN LINK`
+                text:`SUBMIT PLATFORM`
               },
+              {
+                tag: 'button',
+                attr: {
+                  href: 'https://bit.ly/39IsLLX',
+                },
+                text: `PLATFORM DESCRIPTIONS`
+              }
           ]
       },
       {
