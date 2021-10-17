@@ -16,40 +16,50 @@ module.exports = {
     articles: [
       // --- New Event --- //
       {
-          title: `IEEE Elections`,
-          time: `Wednesday October 13, 6:00 PM`,
+          title: `STS: Wireless Sensing for Space Structures`,
+          time: `Thursday October 21st, 2:00 PM`,
+          img:`OH 3 lin clas.png`,
           body: [
               {
                 tag: 'p',
-                text:`IEEE Carleton will be extending the deadline for by-election platform submissions to Wednesday, October 13th, make sure to submit a platform (https://bit.ly/3ohHUfQ) to vicechair@ieeecarleton.ca if you're interested in running for a position! You can find out more about them in our position description document (https://bit.ly/39IsLLX)
+                text:`"🚀We are launching our Space Technology Series!!!!🚀
+For Part 1 we have Prof. Ali Abedi talking about wireless communications and sensor networks for space exploration.
+🛰️Date: Thu, Oct 21, 2021 2:00 PM
+👽Register: https://lnkd.in/enKTDvAq
 
-We look forward to meeting the candidates this Wednesday!.`
+Prof. Abedi joined the University of Maine, Orono, in 2005, where he is currently a Professor of Electrical and Computer Engineering and Cooperating Professor of Computing and Information Sciences. He is also serving as Associate Vice President for Research and Director of the Center for Undergraduate Research (CUGR) at UMaine. Prof. Abedi is the founding Director of WiSe-Net Lab, where he directs research programs in wireless communications and sensor networks for structural monitoring, space explorations, and biomedical applications. He is also co-founder of IEEE WISEE and currently serves as the IEEE Region 1 Northeastern area chair.
+
+#ieee #spaceexploration #spacetechnology #talk #umaine #engineering #youngprofessionals #wie #sensors #wireless #communication #wirelesscommunications #computing #research #university #technology #electrical"`
               },
               {
                 tag: 'button',
                 attr: {
-                    href: 'https://bit.ly/3ohHUfQ'
+                  href: 'https://www.eventbrite.ca/e/sts-wireless-sensing-for-space-structures-tickets-188411362457'
                 },
-                text:`SUBMIT PLATFORM`
-              },
-              {
-                tag: 'button',
-                attr: {
-                  href: 'https://bit.ly/39IsLLX',
-                },
-                text: `PLATFORM DESCRIPTIONS`
+                text: 'REGISTER'
               }
           ]
       },
       {
-          title: `Linear Regression Workshop`,
-          time: `Wednesday October 13th, 7:30 pM`,
+          title: `Linear Classification Office Hours`,
+          time: `Wednesday November 10th, 8:30 PM`,
+          img:`OH 3 lin clas.png`,
+          body: [
+              {
+                tag: 'p',
+                text:`Presenting the CAIS Office Hour! Have any questions related to last week’s workshop about Linear Classification? Need help or want to expand on what you learned? Join anytime to chat directly with the presenter on Discord!`
+              },
+          ]
+      },
+      {
+          title: `Linear Classification`,
+          time: `Wednesday November 3rd, 7:30 PM`,
           location: `Online`,
-          img: `CAIS WS2 lin reg.png`,
+          img: `cais ws3 lin clas.png`,
           body: [
             {
                 tag: 'p',
-                text: `In this workshop, we will be introducing one of the foundational algorithms in machine learning: linear regression. Linear regression is a learning algorithm that finds a linear relationship between the inputted features and the desired output. This workshop will cover the definition of linear regression, suggest situations where it might be useful, and explain how the algorithm works. Although some knowledge of linear algebra and calculus is needed to understand some of the technical details involved in linear regression, this workshop will be suitable for those who just want to get an intuition on how it works.`
+                text: `Classification is one of the fundamental problems that machine learning aims to solve. The goal is to use an object’s features to determine which class or category it belongs to. In this workshop, we introduce the notion of linear classifiers to make such predictions. In particular, we will go over a popular machine learning model called logistic regression. We will explain how this model works and the various problems it can be applied to. Similar to the linear regression workshop, knowledge of calculus and linear algebra is beneficial to understand the technical details but not required to get an overall idea of how linear classification works.`
             },
             {
                 tag: 'p',
@@ -58,7 +68,7 @@ We look forward to meeting the candidates this Wednesday!.`
             {
                 tag: 'button',
                 attr: {
-                    href: 'https://teams.microsoft.com/registration/lRjZagbeXki8UfzhJsyFMA,eqaDjyVuv0K2RTJhoBkv7Q,S2Faye49wEOo53wBS-3GVw,PDPVXpyRokOVQmJJD-A2bQ,dSP3F-53DUqzVKge5eckbw,GVjaRR3WGkKtzIQ0hAYr3w?mode=read&tenantId=6ad91895-de06-485e-bc51-fce126cc8530&skipauthstrap=1'
+                    href: 'https://teams.microsoft.com/registration/lRjZagbeXki8UfzhJsyFMA,eqaDjyVuv0K2RTJhoBkv7Q,S2Faye49wEOo53wBS-3GVw,qWbZ5k_X_0CEhb2qqTDIiQ,SazZbKylOEqDy0rFJacvWA,uIvp5fgDLESeAZg69Vs2Ew?mode=read&tenantId=6ad91895-de06-485e-bc51-fce126cc8530'
                 },
                 text: `REGISTRATION`
             },
