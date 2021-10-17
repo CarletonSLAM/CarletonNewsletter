@@ -18,7 +18,7 @@ module.exports = {
       {
           title: `STS: Wireless Sensing for Space Structures`,
           time: `Thursday October 21st, 2:00 PM`,
-          img:`OH 3 lin clas.png`,
+          img:`part1 - João Guilherme Nizer Rahmeier.jpg`,
           body: [
               {
                 tag: 'p',
@@ -38,40 +38,6 @@ Prof. Abedi joined the University of Maine, Orono, in 2005, where he is currentl
                 },
                 text: 'REGISTER'
               }
-          ]
-      },
-      {
-          title: `Linear Classification Office Hours`,
-          time: `Wednesday November 10th, 8:30 PM`,
-          img:`OH 3 lin clas.png`,
-          body: [
-              {
-                tag: 'p',
-                text:`Presenting the CAIS Office Hour! Have any questions related to last week’s workshop about Linear Classification? Need help or want to expand on what you learned? Join anytime to chat directly with the presenter on Discord!`
-              },
-          ]
-      },
-      {
-          title: `Linear Classification`,
-          time: `Wednesday November 3rd, 7:30 PM`,
-          location: `Online`,
-          img: `cais ws3 lin clas.png`,
-          body: [
-            {
-                tag: 'p',
-                text: `Classification is one of the fundamental problems that machine learning aims to solve. The goal is to use an object’s features to determine which class or category it belongs to. In this workshop, we introduce the notion of linear classifiers to make such predictions. In particular, we will go over a popular machine learning model called logistic regression. We will explain how this model works and the various problems it can be applied to. Similar to the linear regression workshop, knowledge of calculus and linear algebra is beneficial to understand the technical details but not required to get an overall idea of how linear classification works.`
-            },
-            {
-                tag: 'p',
-                text: `The following week, we will be offering Office Hours on Discord! The presenter and other CAIS executives will be available to answer questions about the workshop content and other information! Check it out:`
-            },
-            {
-                tag: 'button',
-                attr: {
-                    href: 'https://teams.microsoft.com/registration/lRjZagbeXki8UfzhJsyFMA,eqaDjyVuv0K2RTJhoBkv7Q,S2Faye49wEOo53wBS-3GVw,qWbZ5k_X_0CEhb2qqTDIiQ,SazZbKylOEqDy0rFJacvWA,uIvp5fgDLESeAZg69Vs2Ew?mode=read&tenantId=6ad91895-de06-485e-bc51-fce126cc8530'
-                },
-                text: `REGISTRATION`
-            },
           ]
       },
       {
@@ -114,6 +80,40 @@ This week we’ll be discussing scary and unethical applications of AI/ML for Ha
                     href: 'https://discord.gg/BPqSRnaC'
                 },
                 text: `DISCORD`
+            },
+          ]
+      },
+      {
+          title: `Linear Classification Office Hours`,
+          time: `Wednesday November 10th, 8:30 PM`,
+          img:`OH 3 lin clas.png`,
+          body: [
+              {
+                tag: 'p',
+                text:`Presenting the CAIS Office Hour! Have any questions related to last week’s workshop about Linear Classification? Need help or want to expand on what you learned? Join anytime to chat directly with the presenter on Discord!`
+              },
+          ]
+      },
+      {
+          title: `Linear Classification`,
+          time: `Wednesday November 3rd, 7:30 PM`,
+          location: `Online`,
+          img: `cais ws3 lin clas.png`,
+          body: [
+            {
+                tag: 'p',
+                text: `Classification is one of the fundamental problems that machine learning aims to solve. The goal is to use an object’s features to determine which class or category it belongs to. In this workshop, we introduce the notion of linear classifiers to make such predictions. In particular, we will go over a popular machine learning model called logistic regression. We will explain how this model works and the various problems it can be applied to. Similar to the linear regression workshop, knowledge of calculus and linear algebra is beneficial to understand the technical details but not required to get an overall idea of how linear classification works.`
+            },
+            {
+                tag: 'p',
+                text: `The following week, we will be offering Office Hours on Discord! The presenter and other CAIS executives will be available to answer questions about the workshop content and other information! Check it out:`
+            },
+            {
+                tag: 'button',
+                attr: {
+                    href: 'https://teams.microsoft.com/registration/lRjZagbeXki8UfzhJsyFMA,eqaDjyVuv0K2RTJhoBkv7Q,S2Faye49wEOo53wBS-3GVw,qWbZ5k_X_0CEhb2qqTDIiQ,SazZbKylOEqDy0rFJacvWA,uIvp5fgDLESeAZg69Vs2Ew?mode=read&tenantId=6ad91895-de06-485e-bc51-fce126cc8530'
+                },
+                text: `REGISTRATION`
             },
           ]
       },
