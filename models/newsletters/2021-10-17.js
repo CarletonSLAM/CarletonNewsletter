@@ -22,14 +22,20 @@ module.exports = {
           body: [
               {
                 tag: 'p',
-                text:`"🚀We are launching our Space Technology Series!!!!🚀
-For Part 1 we have Prof. Ali Abedi talking about wireless communications and sensor networks for space exploration.
-🛰️Date: Thu, Oct 21, 2021 2:00 PM
-👽Register: https://lnkd.in/enKTDvAq
-
-Prof. Abedi joined the University of Maine, Orono, in 2005, where he is currently a Professor of Electrical and Computer Engineering and Cooperating Professor of Computing and Information Sciences. He is also serving as Associate Vice President for Research and Director of the Center for Undergraduate Research (CUGR) at UMaine. Prof. Abedi is the founding Director of WiSe-Net Lab, where he directs research programs in wireless communications and sensor networks for structural monitoring, space explorations, and biomedical applications. He is also co-founder of IEEE WISEE and currently serves as the IEEE Region 1 Northeastern area chair.
-
-#ieee #spaceexploration #spacetechnology #talk #umaine #engineering #youngprofessionals #wie #sensors #wireless #communication #wirelesscommunications #computing #research #university #technology #electrical"`
+                text:`🚀We are launching our Space Technology Series!!!!🚀`
+              },
+              {
+                tag:'p',
+                text: `For Part 1 we have Prof. Ali Abedi talking about wireless communications and sensor networks for space exploration.
+                👽`
+              },
+              {
+                tag: 'p',
+                text:`Prof. Abedi joined the University of Maine, Orono, in 2005, where he is currently a Professor of Electrical and Computer Engineering and Cooperating Professor of Computing and Information Sciences. He is also serving as Associate Vice President for Research and Director of the Center for Undergraduate Research (CUGR) at UMaine. Prof. Abedi is the founding Director of WiSe-Net Lab, where he directs research programs in wireless communications and sensor networks for structural monitoring, space explorations, and biomedical applications. He is also co-founder of IEEE WISEE and currently serves as the IEEE Region 1 Northeastern area chair.`
+              },
+              {
+                tag: 'p',
+                text: `#ieee #spaceexploration #spacetechnology #talk #umaine #engineering #youngprofessionals #wie #sensors #wireless #communication #wirelesscommunications #computing #research #university #technology #electrical`
               },
               {
                 tag: 'button',
@@ -37,6 +43,13 @@ Prof. Abedi joined the University of Maine, Orono, in 2005, where he is currentl
                   href: 'https://www.eventbrite.ca/e/sts-wireless-sensing-for-space-structures-tickets-188411362457'
                 },
                 text: 'REGISTER'
+              },
+              {
+                tag: 'button',
+                attr: {
+                  href: 'https://lnkd.in/enKTDvAq'
+                },
+                text: 'LINKEDIN'
               }
           ]
       },
