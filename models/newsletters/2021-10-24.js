@@ -16,60 +16,21 @@ module.exports = {
     articles: [
       // --- New Event --- //
       {
-          title: `STS: Wireless Sensing for Space Structures`,
-          time: `Thursday October 21st, 2:00 PM`,
-          img:`part1 - João Guilherme Nizer Rahmeier.jpg`,
+          title: `Nanoscale Monolithic Phase`,
+          time: `Tuesday October 26st, 4:00 - 6:00 PM`,
+          img:`part2.jpg`,
           body: [
               {
-                tag: 'p',
-                text:`🚀We are launching our Space Technology Series!!!!🚀`
-              },
-              {
                 tag:'p',
-                text: `For Part 1 we have Prof. Ali Abedi talking about wireless communications and sensor networks for space exploration.
-                👽`
-              },
-              {
-                tag: 'p',
-                text:`Prof. Abedi joined the University of Maine, Orono, in 2005, where he is currently a Professor of Electrical and Computer Engineering and Cooperating Professor of Computing and Information Sciences. He is also serving as Associate Vice President for Research and Director of the Center for Undergraduate Research (CUGR) at UMaine. Prof. Abedi is the founding Director of WiSe-Net Lab, where he directs research programs in wireless communications and sensor networks for structural monitoring, space explorations, and biomedical applications. He is also co-founder of IEEE WISEE and currently serves as the IEEE Region 1 Northeastern area chair.`
-              },
-              {
-                tag: 'p',
-                text: `#ieee #spaceexploration #spacetechnology #talk #umaine #engineering #youngprofessionals #wie #sensors #wireless #communication #wirelesscommunications #computing #research #university #technology #electrical`
+                text: `Join us for Part 2 of the Space Technology Series: Nanoscale Monolithic Phase-Change and MEMS-Based Solutions for RF, presented by Dr. Tejinder Singh!`
               },
               {
                 tag: 'button',
                 attr: {
-                  href: 'https://www.eventbrite.ca/e/sts-wireless-sensing-for-space-structures-tickets-188411362457'
+                  href: 'https://www.eventbrite.ca/e/sts-nanoscale-monolithic-phase-change-and-mems-based-solutions-for-rf-tickets-195283256477'
                 },
                 text: 'REGISTER'
               },
-              {
-                tag: 'button',
-                attr: {
-                  href: 'https://lnkd.in/enKTDvAq'
-                },
-                text: 'LINKEDIN'
-              }
-          ]
-      },
-      {
-          title: `Office Hours: Linear Regression`,
-          time: `Wednesday October 20th 2021, 7:30-8:30 PM `,
-          location: `CAIS Discord`,
-          img: `OH-2-lin-alg.png`,
-          body: [
-            {
-                tag: 'p',
-                text: `Presenting the CAIS Office Hour! Have any questions related to last week’s workshop about Linear Regression? Need help or want to expand on what you learned? Join anytime to chat directly with the presenter on Discord!`
-            },
-            {
-                tag: 'button',
-                attr: {
-                    href: 'https://discord.gg/BPqSRnaC'
-                },
-                text: `DISCORD`
-            },
           ]
       },
       {
