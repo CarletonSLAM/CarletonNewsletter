@@ -16,45 +16,28 @@ module.exports = {
     articles: [
       // --- New Event --- //
       {
-          title: `Nanoscale Monolithic Phase`,
-          time: `Tuesday October 26st, 4:00 - 6:00 PM`,
-          img:`part2.jpg`,
+          title: `IEEE Halloween Costume Contest`,
+          img:`POster.png`,
+          body: [
+
+        ]
+      },
+      {
+          title: `Emerging Technologies and Applications for Spaceborn Synthetic Aperture Radar`,
+          time: `Wednesday November 10, 1:00 - 2:30 PM`,
+          img:`part3.jpg`,
           body: [
               {
                 tag:'p',
-                text: `Join us for Part 2 of the Space Technology Series: Nanoscale Monolithic Phase-Change and MEMS-Based Solutions for RF, presented by Dr. Tejinder Singh!`
+                text: `Part 3 of the Space Technology Series: Emerging Technologies and Applications for Synthetic Aperture Radar, presented by MASc. Daniel Gale from Antwerp Space!`
               },
               {
                 tag: 'button',
                 attr: {
-                  href: 'https://www.eventbrite.ca/e/sts-nanoscale-monolithic-phase-change-and-mems-based-solutions-for-rf-tickets-195283256477'
+                  href: 'https://www.eventbrite.ca/e/sts-emerging-technologies-and-applications-for-synthetic-aperture-radar-tickets-195289545287'
                 },
                 text: 'REGISTER'
               },
-          ]
-      },
-      {
-          title: `AI Coffee Hour 3: SpOOkY AI Application`,
-          time: `Thursday October 28th 2021, 6:00 - 7:30 PM `,
-          location: `CAIS Discord`,
-          body: [
-            {
-                tag: 'p',
-                text: `Presenting CAIS’s AI Coffee Hour! Our AI Coffee hour is a social event where everyone is invited to bring a cup of coffee and chat with the CAIS members about anything relating to Artificial Intelligence and Machine Learning. Want to exchange where you get your AI news and research? Feeling good or need help with your personal AI project? This is the perfect place to meet fellow AI enthusiasts. The discussions will be lightly guided by new themes every week, but nothing AI-related is off-limits. No prior experience or knowledge is required.
-
-This week we’ll be discussing scary and unethical applications of AI/ML for Halloween!`
-            },
-            {
-                tag: 'p',
-                text: `This week we’ll be discussing scary and unethical applications of AI/ML for Halloween!`
-            },
-            {
-                tag: 'button',
-                attr: {
-                    href: 'https://discord.gg/BPqSRnaC'
-                },
-                text: `DISCORD`
-            },
           ]
       },
       {
