@@ -71,7 +71,7 @@ module.exports = {
         title: `Feature Selection/Transformation`,
         time: `Wednesday November 24, 7:30-9:30 PM`,
         location: `Online`,
-        img: `cais ws3 feat seltr.png`,
+        img: `caisws3featseltr.png`,
         body: [
           {
               tag: 'p',
