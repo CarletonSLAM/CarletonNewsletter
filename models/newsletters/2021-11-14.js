@@ -16,35 +16,6 @@ module.exports = {
     articles: [
       // --- New Event --- //
       {
-          title: `Emerging Technologies and Applications for Spaceborn Synthetic Aperture Radar`,
-          time: `Wednesday November 10, 1:00 - 2:30 PM`,
-          img:`part3.jpg`,
-          body: [
-              {
-                tag:'p',
-                text: `Part 3 of the Space Technology Series: Emerging Technologies and Applications for Synthetic Aperture Radar, presented by MASc. Daniel Gale from Antwerp Space!`
-              },
-              {
-                tag: 'button',
-                attr: {
-                  href: 'https://www.eventbrite.ca/e/sts-emerging-technologies-and-applications-for-synthetic-aperture-radar-tickets-195289545287'
-                },
-                text: 'REGISTER'
-              },
-          ]
-      },
-      {
-          title: `Linear Classification Office Hours`,
-          time: `Wednesday November 10th, 8:30 PM`,
-          img:`OH 3 lin clas.png`,
-          body: [
-              {
-                tag: 'p',
-                text:`Presenting the CAIS Office Hour! Have any questions related to last week’s workshop about Linear Classification? Need help or want to expand on what you learned? Join anytime to chat directly with the presenter on Discord!`
-              },
-          ]
-      },
-      {
           title: `Generative Neural Networks`,
           time: `Wednesday November 18, 6:00-7:30 PM`,
           location: `Online`,
