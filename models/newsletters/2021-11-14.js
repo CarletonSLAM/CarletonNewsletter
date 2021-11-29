@@ -16,48 +16,26 @@ module.exports = {
     articles: [
       // --- New Event --- //
       {
-          title: `Generative Neural Networks`,
-          time: `Wednesday November 18, 6:00-7:30 PM`,
+          title: "Incoming Guest Speaker: AI Coffee Hour 5",
+          time: `December 9th 2021`,
           location: `Online`,
-          img: `Carleton AI Society.png`,
+          img: `CAIS_Guest_-_Vinyas_Harish.png`,
           body: [
-            {
-                tag: 'p',
-                text: `Presenting CAIS’s AI Coffee Hour! Our AI Coffee hour is a social event where everyone is invited to bring a cup of coffee and chat with the CAIS members about anything relating to Artificial Intelligence and Machine Learning. Want to exchange where you get your AI news and research? Feeling good or need help with your personal AI project? This is the perfect place to meet fellow AI enthusiasts. The discussions will be lightly guided by new themes every week, but nothing AI-related is off-limits. No prior experience or knowledge is required.`
-            },
-            {
-                tag: 'p',
-                text: `This week we’ll be discussing Generative Neural Networks and related AI/ML topics!`
-            },
-            {
-                tag: 'button',
-                attr: {
-                    href: 'https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19meeting_NDY1ODVjZWItMDZkMi00MWU2LWFmMDYtZjZiMTE2MmEzNmQxthread.v2%2F0%3Fcontext%3DTid6ad91895-de06-485e-bc51-fce126cc8530Oidab72a30b-581e-45d2-abc3-37cc554dfefb&type=meetup-join&deeplinkId=60fad6c4-94d0-4bed-9119-4e9e0678e62c&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true'
-                },
-                text: 'MEETING LINK'
-            },
           ]
       },
       {
-        title: `Feature Selection/Transformation`,
-        time: `Wednesday November 24, 7:30-9:30 PM`,
-        location: `Online`,
-        img: `caisws3featseltr.png`,
+        title: `Office Hours: Feature Selction/Transformation`,
+        time: `Wednesday December 1, 2021, 7:30 - 8:30 PM`,
+        location: `Discord`,
+        img: `OH 4 fe seltr.png`,
         body: [
           {
               tag: 'p',
-              text: `The quality of the features used when building a machine learning model directly affects the quality of the model’s predictions. It’s not always about what model you used but what type of data you feed into your data. With bad data, machine learning algorithms will produce results that are inaccurate or incomprehensible. In this workshop, we’ll be exploring feature selection and transformation techniques that can be used to improve model quality and performance.`
+              text: `Presenting the CAIS Office Hour!  Have any questions related to last week’s workshop about Feature Selection/Transformation? Need help or want to expand on what you learned? Join anytime to chat directly with the presenter on Discord!`
           },
           {
               tag: 'p',
-              text: `The following week, we will be offering Office Hours on Discord! The presenter and other CAIS executives will be available to answer questions about the workshop content and other information! Check it out:`
-          },
-          {
-              tag: 'button',
-              attr: {
-                  href: `https://teams.microsoft.com/registration/lRjZagbeXki8UfzhJsyFMA,eqaDjyVuv0K2RTJhoBkv7Q,S2Faye49wEOo53wBS-3GVw,YbpQ_OLbq0esto7IX-DBcQ,fj4Ew1RfLkeLtqPvnQNSTA,k3Pyb2XLG0aey7teR5EuNA?mode=read&tenantId=6ad91895-de06-485e-bc51-fce126cc8530`
-              },
-              text: 'REGISTER'
+              text: `Registration End Date: Thursday December 2, 2021`
           },
         ]
       }
