@@ -17,7 +17,7 @@ module.exports = {
       // --- New Event --- //
       {
         title: `Carleton AI Show: Episode 4!`,
-        img: `tracy.png`,
+        img: `tracy_updated.png`,
         body: [
           {
             tag: 'p',
