@@ -30,7 +30,10 @@ module.exports = {
         time: `6:00 PM - 8:00 PM EST`,
         location: `Online Event`,
         body: [
-
+          {
+              tag: 'p',
+              text: `More info coming soon!`
+          }
         ]
       }
     ]
