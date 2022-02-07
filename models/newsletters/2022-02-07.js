@@ -19,7 +19,7 @@ module.exports = {
         title: `Battle Royale 14`,
         img: `BR14_Thumbnail.png`,
         date: `Friday March 4th to 6th, 2022`,
-        time: `12pm - 12pm`,
+        time: `12pm - 12pm all weekend`,
         location: `Online Event`,
         body: [
           {
@@ -59,7 +59,7 @@ module.exports = {
             attr: {
                 href: 'https://br14.battleroyale.ca/'
             },
-            text: `REGISTER`
+            text: `WEBSITE`
           },
           {
             tag: 'button',
