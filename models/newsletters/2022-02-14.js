@@ -138,6 +138,52 @@ Becoming an executive is a wonderful opportunity to develop leadership and organ
         ]
       },
       {
+        title: `Clarifying the Path to Becoming a Professional Engineer`,
+        date: `Tuesday February 22, 2022`,
+        img: `PEO2022 - João Guilherme Nizer Rahmeier.jpg`,
+        time: `12:00 PM - 1:30 PM EST`,
+        location: `Online Event`,
+        body: [
+          {
+            tag: 'p',
+            text: `"We are hosting our annual talk on ""Clarifying the Path to Becoming a Professional Engineer"", a partnership with Professional Engineers Ontario and co-hosting by IEEE Women In Engineering Ottawa, Young Professionals IEEE Montreal Section, IEEE Carleton Student Branch and IEEE uOttawa Student Branch.`
+          },
+          {
+              tag: 'p',
+              text: `
+Registration: http://bit.ly/YPPEO22
+
+If you are an engineering undergraduate or post-graduate student, or a recent graduate starting out your engineering career, then this seminar might be for you. In it you will learn:
+- What is PEO?
+- What engineering experience is PEO looking for once I graduate?
+- I have international engineering education and experience; how is that evaluated by PEO?
+- How is my engineering experience evaluated by PEO?
+- How do I prepare my Experience Record?
+- What is the PPE?
+- What is the EIT Program and the Student Membership Program?
+
+.`
+          },
+          {
+            tag: 'p',
+            text: `Emphasis of this webinar will be on the P. Eng. licensure process - what PEO is looking for. The webinar will focus on how engineering experience is evaluated and how you can facilitate the process. Learn the dos and don’ts of preparing your licensing application for evaluation.
+            To participate, you will require: internet connection to view the webinar, and/or phone access to dial into the conference for audio.
+            We look forward to speaking with you!`
+          },
+          {
+            tag: 'p',
+            text: `#ieee #peo #professional #engineer #ontario #canada #experience #undergraduate #graduate`
+          },
+          {
+            tag: 'button',
+            attr: {
+                href: 'http://bit.ly/YPPEO22'
+            },
+            text: `REGISTER`
+          }
+        ]
+      },
+      {
         title: `AI Cofee Hour 2: Getting Into, Surviving and Thriving in Graduate School Feat. Dr. Jason Bernard`,
         date: `Wednesday February 16, 2022`,
         time: `6:00 PM - 8:00 PM EST`,
