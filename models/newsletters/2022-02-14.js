@@ -67,16 +67,74 @@ module.exports = {
               href: 'https://discord.gg/Gc2pUmxcqK'
             },
             text: `DISCORD`
+          },
+          {
+            tag: 'button',
+            attr: {
+              href: 'https://smash.gg/tournament/battle-royale-14/details'
+            },
+            text: `REGISTER`
           }
         ]
       },
       {
-        title: `Integrated Sillicon Photonics`,
-        img: `SeminarFlyer_DanielBenedikovic-1.jpg`,
-        date: `Thursday February 10, 2022`,
-        time: `11:00 AM`,
+        title: `IEEE By-election`,
+        img: `Byelection.png`,
+        date: `Friday February 18, 2022`,
+        time: `6PM`,
         location: `Online Event`,
         body: [
+          {
+              tag: 'p',
+              text: `We are searching for dedicated students to fill positions within our executive team that are currently vacant in an upcoming by-election.
+
+Becoming an executive is a wonderful opportunity to develop leadership and organization skills, meet industry professionals from around the world, build lasting friendships, and get the most out of your engineering degree!`
+          },
+          {
+            tag: 'p',
+            text: `Currently, we are looking for students to fill the following positions:`
+          },
+          {
+            tag: 'p',
+            text: `1. Women in Engineering Chair
+2. Women in Engineering Vice-Chair
+3. Secretary
+4. Finance Director
+5. Technical Director/Webmaster
+6. Volunteer Director
+7. Media Director
+8. SLAM Lead`
+          },
+          {
+            tag: 'p',
+            text: `Please see the document linked below for the roles and responsibilities of each of these positions. Filling an executive position is a great opportunity to meet new people and become a part of the IEEE community both within Carleton and around the world. Most positions are flexible in terms of responsibilities as well.`
+          },
+          {
+            tag: 'p',
+            text: `If you are interested in running for a position, please fill out a platform in a similar style to the sample linked below, then send it to chair@ieeecarleton.ca. If you have any questions, please do not hesitate to contact Erdem, at the same address.`
+          },
+          {
+            tag: 'p',
+            text: `The firm deadline for submissions is Friday, February 18th at 12:00 PM (noon). All candidates must submit a complete platform in order to be eligible to run for a position.`
+          },
+          {
+            tag: 'p',
+            text: `The by-election will be held on Friday, February 18th at 6 PM. Candidates will have 5 minutes to present their platforms, followed by 5 minutes to answer questions submitted by the audience.`
+          },
+          {
+            tag: 'button',
+            attr: {
+                href: 'https://docs.google.com/document/d/1t-obb8XziTjv24CH7myV5dEu8mFc-UF0QkmIkcAinW8/edit'
+            },
+            text: `POSITION DESCRIPTIONS`
+          },
+          {
+            tag: 'button',
+            attr: {
+                href: 'https://docs.google.com/document/d/1V7GPpZb_4mkMTg1FZRBJNEMxfdeWyD2t/edit'
+            },
+            text: `SAMPLE ELECTION PLATFORMS`
+          }
         ]
       },
       {
