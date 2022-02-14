@@ -150,19 +150,35 @@ Becoming an executive is a wonderful opportunity to develop leadership and organ
           },
           {
               tag: 'p',
-              text: `
-Registration: http://bit.ly/YPPEO22
-
-If you are an engineering undergraduate or post-graduate student, or a recent graduate starting out your engineering career, then this seminar might be for you. In it you will learn:
-- What is PEO?
-- What engineering experience is PEO looking for once I graduate?
-- I have international engineering education and experience; how is that evaluated by PEO?
-- How is my engineering experience evaluated by PEO?
-- How do I prepare my Experience Record?
-- What is the PPE?
-- What is the EIT Program and the Student Membership Program?
-
-.`
+              text: `If you are an engineering undergraduate or post-graduate student, or a recent graduate starting out your engineering career, then this seminar might be for you. In it you will learn:`
+          },
+          {
+            tag: 'p',
+            text: `- What is PEO?`
+          },
+          {
+            tag: 'p',
+            text: `- What engineering experience is PEO looking for once I graduate?`
+          },
+          {
+            tag: 'p',
+            text: `- I have international engineering education and experience; how is that evaluated by PEO?`
+          },
+          {
+            tag: 'p',
+            text: `- How is my engineering experience evaluated by PEO?`
+          },
+          {
+            tag: 'p',
+            text: `- How do I prepare my Experience Record?`
+          },
+          {
+            tag: 'p',
+            text: `- What is the PPE?`
+          },
+          {
+            tag: 'p',
+            text: `- What is the EIT Program and the Student Membership Program?`
           },
           {
             tag: 'p',
