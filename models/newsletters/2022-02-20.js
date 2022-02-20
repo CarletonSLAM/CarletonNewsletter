@@ -78,66 +78,6 @@ module.exports = {
         ]
       },
       {
-        title: `IEEE By-election`,
-        img: `Byelection.png`,
-        date: `Friday February 18, 2022`,
-        time: `6PM`,
-        location: `Online Event`,
-        body: [
-          {
-              tag: 'p',
-              text: `We are searching for dedicated students to fill positions within our executive team that are currently vacant in an upcoming by-election.
-
-Becoming an executive is a wonderful opportunity to develop leadership and organization skills, meet industry professionals from around the world, build lasting friendships, and get the most out of your engineering degree!`
-          },
-          {
-            tag: 'p',
-            text: `Currently, we are looking for students to fill the following positions:`
-          },
-          {
-            tag: 'p',
-            text: `1. Women in Engineering Chair
-2. Women in Engineering Vice-Chair
-3. Secretary
-4. Finance Director
-5. Technical Director/Webmaster
-6. Volunteer Director
-7. Media Director
-8. SLAM Lead`
-          },
-          {
-            tag: 'p',
-            text: `Please see the document linked below for the roles and responsibilities of each of these positions. Filling an executive position is a great opportunity to meet new people and become a part of the IEEE community both within Carleton and around the world. Most positions are flexible in terms of responsibilities as well.`
-          },
-          {
-            tag: 'p',
-            text: `If you are interested in running for a position, please fill out a platform in a similar style to the sample linked below, then send it to chair@ieeecarleton.ca. If you have any questions, please do not hesitate to contact Erdem, at the same address.`
-          },
-          {
-            tag: 'p',
-            text: `The firm deadline for submissions is Friday, February 18th at 12:00 PM (noon). All candidates must submit a complete platform in order to be eligible to run for a position.`
-          },
-          {
-            tag: 'p',
-            text: `The by-election will be held on Friday, February 18th at 6 PM. Candidates will have 5 minutes to present their platforms, followed by 5 minutes to answer questions submitted by the audience.`
-          },
-          {
-            tag: 'button',
-            attr: {
-                href: 'https://docs.google.com/document/d/1t-obb8XziTjv24CH7myV5dEu8mFc-UF0QkmIkcAinW8/edit'
-            },
-            text: `POSITION DESCRIPTIONS`
-          },
-          {
-            tag: 'button',
-            attr: {
-                href: 'https://docs.google.com/document/d/1V7GPpZb_4mkMTg1FZRBJNEMxfdeWyD2t/edit'
-            },
-            text: `SAMPLE ELECTION PLATFORMS`
-          }
-        ]
-      },
-      {
         title: `Clarifying the Path to Becoming a Professional Engineer`,
         date: `Tuesday February 22, 2022`,
         img: `PEO2022 - João Guilherme Nizer Rahmeier.jpg`,
@@ -200,29 +140,15 @@ Becoming an executive is a wonderful opportunity to develop leadership and organ
         ]
       },
       {
-        title: `AI Cofee Hour 2: Getting Into, Surviving and Thriving in Graduate School Feat. Dr. Jason Bernard`,
-        date: `Wednesday February 16, 2022`,
+        title: `Intro to Convolutional Neural Networks`,
+        date: `Wednesday March 2, 2022`,
+        img: `Intro_to_Convolutional_Neural_Network.png`,
         time: `6:00 PM - 8:00 PM EST`,
         location: `Online Event`,
         body: [
           {
               tag: 'p',
-              text: `Presenting CAIS’s AI Coffee Hour! Our AI Coffee hour is a social event where everyone is invited to bring a cup of coffee and chat with the CAIS members about anything relating to Artificial Intelligence and Machine Learning. Want to exchange where you get your AI news and research? Feeling good or need help with your personal AI project? This is the perfect place to meet fellow AI enthusiasts. The discussions will be lightly guided by new themes every week, but nothing AI-related is off-limits. No prior experience or knowledge is required.`
-          },
-          {
-            tag: 'p',
-            text: `This week will feature Dr. Jason Bernard discussing Getting Into, Surviving and Thriving in Graduate School, learn more about him below!`
-          },
-          {
-            tag: 'p',
-            text: `Dr. Jason Bernard is a postdoctoral researcher at McMaster University studying applications of machine learning in medical education and neuroscience on an NSERC postdoctoral fellowship grant. He obtained his B.Sc. with honours from Bishop’s University in 1995. After over a decade in the industry and several years in the military, he did an M.Sc. from Athabasca University and Ph.D. from the University of Saskatchewan. He was a successful graduate student publishing 17 papers and receiving several prestigious awards including the NSERC CGS/D, Alberta Innovates Technology Futures graduate student award, and the Excellence in Research award. He enjoys sharing his experiences in graduate school online on Discord and Reddit, and, of course, live talks.`
-          },
-          {
-            tag: 'button',
-            attr: {
-                href: 'https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YjJjNWM5YzYtNGY2OS00MmNhLTliNjQtZmU4Y2ZjMmU1NTk5%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%3A%25226ad91895-de06-485e-bc51-fce126cc8530%2522%2C%2522Oid%2522%3A%2522ab72a30b-581e-45d2-abc3-37cc554dfefb%2522%257D%26anon%3Dtrue&type=meetup-join&deeplinkId=45bed26f-20e4-4e4b-abdd-bf5261df8ba8&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true'
-            },
-            text: `REGISTER`
+              text: `The introduction of Convolutional Neural Networks (CNNs) led to some of the largest advancements in Deep Learning, particularly in computer vision tasks such as image classification, object detection, and semantic segmentation. Over the years, many renowned CNN-based architectures have reported state-of-the-art performance in these computer vision tasks, each one improving upon the last. In this workshop, we will introduce the core concepts behind CNNs that make them work so well and review some of the most successful and famous CNN-based architectures.`
           }
         ]
       }
