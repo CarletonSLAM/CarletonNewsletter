@@ -17,11 +17,10 @@ module.exports = {
         // --- New Event --- //
 
           {
-              title: `Clarifying the path to becoming a Professional Engineer`,
-              date: `Friday March 5, 2021`,
-              time: `4:00 PM - 5:00 PM`,
+              title: `DFTC Hackathon`,
+              date: `Friday March 25-27, 2021`,
               location: `Online Event`,
-              img: `clarify.jpg`,
+              img: `DFTCReminder.png`,
               body: [
                 {
                     tag: 'p',

@@ -15,11 +15,10 @@ module.exports = {
     ],
     articles: [
       {
-        title: `Build your first Computer Vision Project`,
-        date: `Wednesday March 9, 2022`,
-        img: `Copy-of-cais-ws3-feat-seltr.png`,
-        time: `6:00 PM - 8:00 PM EST`,
+        title: `DFTC Hackathon`,
+        date: `Friday March 25-27, 2021`,
         location: `Online Event`,
+        img: `DFTCReminder.png`,
         body: [
           {
               tag: 'p',
