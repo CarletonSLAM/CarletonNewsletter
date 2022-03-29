@@ -15,16 +15,19 @@ module.exports = {
     ],
     articles: [
       {
-        title: `2022 AGM`,
-        date: `Friday March 25-27, 2021`,
+        title: `IEEE CARLETON 2022 AGM`,
+        date: `Monday April 4, 2022`,
         location: `Online Event`,
-        img: `DFTCReminder.png`,
+        img: `2022 AGM.jpg`,
         body: [
           {
               tag: 'p',
-              text: `uOttawa is pleased to extend a formal invitation to the Carleton engineering and computer science communities to DeFi The Conventional 2022! Participate in Canada's largest DeFi and Blockchain Hackathon, happening at the University of Ottawa from March 25th to March 27th, 2022.`
+              text: `IEEE Carleton is pleased to invite all those interested in attending this years AGM`
+          },
+          {
+              tag: 'p',
+              text: `Submit a platform for the AGM or just come by to see what we've been up to lately!`
           }
-
         ]
       },
       {
@@ -32,7 +35,6 @@ module.exports = {
         date: `Friday April 1, 2022`,
         location: `Canadian Museum of Nature (240 McLeod St, Ottawa, ON K2P 2R1)`,
         time: `7:00 - 10:00 PM`,
-        img: ``,
         body: [
           {
               tag: 'p',
