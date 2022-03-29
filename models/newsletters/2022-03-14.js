@@ -15,7 +15,7 @@ module.exports = {
     ],
     articles: [
       {
-        title: `DFTC Hackathon`,
+        title: `2022 AGM`,
         date: `Friday March 25-27, 2021`,
         location: `Online Event`,
         img: `DFTCReminder.png`,
@@ -23,47 +23,34 @@ module.exports = {
           {
               tag: 'p',
               text: `uOttawa is pleased to extend a formal invitation to the Carleton engineering and computer science communities to DeFi The Conventional 2022! Participate in Canada's largest DeFi and Blockchain Hackathon, happening at the University of Ottawa from March 25th to March 27th, 2022.`
-          },
+          }
+
+        ]
+      },
+      {
+        title: `13th Annual Wine & Cheese`,
+        date: `Friday April 1, 2022`,
+        location: `Canadian Museum of Nature (240 McLeod St, Ottawa, ON K2P 2R1)`,
+        time: `7:00 - 10:00 PM`,
+        img: ``,
+        body: [
           {
               tag: 'p',
-              text: `Some facts about the event:
-•Large-scale 36h hybrid (both in-person and online) programming competition on the Terra blockchain :terra:
-•The event is completely free of charge for students from Carleton. This includes transportation 🚌
-•The competition has a total prize pool of CA$12,000 💸
-•Students that wish to participate will be fully accommodated in terms of transportation to Ottawa, food, hacking space, and merch 👕
-•The deadline to apply is March 14th (EOD TODAY) and seats are limited, so apply today!`
+              text: `Tickets for the 2022 Wine and Cheese are available! Come out April 1st to the Canadian Museum of Nature for a sweet networking event with music and food! Would love to see lots of people there`
           },
           {
-            tag: 'p',
-            text: `We look forward to seeing you all there!`
+              tag: 'button',
+              attr: {
+                  href: 'https://www.celebratewie.ca/'
+              },
+              text: `OFFICIAL WEBSITE`
           },
           {
-            tag: 'button',
-            attr: {
-                href: 'https://terraformlabs.typeform.com/to/TdPvI6y6'
-            },
-            text: `REGISTER`
-          },
-          {
-            tag: 'button',
-            attr: {
-                href: 'https://www.linkedin.com/showcase/terra-hackathon/'
-            },
-            text: `LINKEDIN`
-          },
-          {
-            tag: 'button',
-            attr: {
-                href: 'http://terrahackathon.com/'
-            },
-            text: `DEV-POST`
-          },
-          {
-            tag: 'button',
-            attr: {
-              href: 'https://www.facebook.com/terrahackathon/?notif_id=1646073387476246&notif_t=page_fan&ref=notif'
-            },
-            text: `FACEBOOK`
+              tag: 'button',
+              attr: {
+                  href: 'https://ieee-uottawa.square.site/'
+              },
+              text: `IEEE UOTTAWA SITE`
           }
         ]
       }
