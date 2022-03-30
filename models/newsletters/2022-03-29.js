@@ -16,17 +16,51 @@ module.exports = {
     articles: [
       {
         title: `IEEE CARLETON 2022 AGM`,
-        date: `Monday April 4, 2022`,
+        date: `Friday April 8, 2022`,
+        time: `6:00 PM`,
         location: `Online Event`,
         img: `2022 AGM.jpg`,
         body: [
           {
               tag: 'p',
-              text: `IEEE Carleton is pleased to invite all those interested in attending this years AGM`
+              text: `IEEE Carleton will be holding its virtual Annual General Meeting (AGM) for 2022 and General Elections at 6:00 PM on Friday, April 8! During the meeting, we'll be reviewing all the great events be held throughout the year, listening to platforms from officer and executive position candidates, and playing some fun games.`
           },
           {
               tag: 'p',
-              text: `Submit a platform for the AGM or just come by to see what we've been up to lately!`
+              text: `Every position is open, and each one gives students unique opportunities to apply their leadership skills while networking with professionals from the world's largest international technology institute, so I encourage you all to apply!`
+          },
+          {
+              tag: 'p',
+              text: `To run for a position, fill out a platform similar to the example below and email it to chair@ieeecarleton.ca before the AGM.`
+          },
+          {
+              tag: 'p',
+              text: `We are excited to share IEEE Carleton's activities with you all, and we can't wait to meet you all!`
+          },
+          {
+              tag: 'p',
+              text: `See you soon!`
+          },
+          {
+              tag: 'button',
+              attr: {
+                  href: 'https://bit.ly/39IsLLX'
+              },
+              text: `MORE DETAILS`
+          },
+          {
+              tag: 'button',
+              attr: {
+                  href: 'https://bit.ly/3ohHUfQ'
+              },
+              text: `EX. POSITION`
+          },
+          {
+              tag: 'button',
+              attr: {
+                  href: 'https://meet.google.com/wfq-voto-zft'
+              },
+              text: `MEETS LINK`
           }
         ]
       },
