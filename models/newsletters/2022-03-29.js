@@ -19,7 +19,7 @@ module.exports = {
         date: `Friday April 8, 2022`,
         time: `6:00 PM`,
         location: `Online Event`,
-        img: `2022 AGM (1).pdf`,
+        img: `2022 AGM.jpg`,
         body: [
           {
               tag: 'p',
