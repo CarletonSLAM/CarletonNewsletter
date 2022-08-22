@@ -17,8 +17,8 @@ module.exports = {
       {
         title: `AMATEUR RADIO - Get Started!`,
         date: `Thursday, August 25 2022`,
-        time: `12:00 PM - 1:00 PM`,
-        location: `Room ME 4124`,
+        time: `12:00 PM - 1:00 PM EDT`,
+        location: `Online`,
         img: `Registration UCradio.eventbrite.ca (2).png`,
         body: [
           {
@@ -40,7 +40,7 @@ module.exports = {
           {
               tag: 'button',
               attr: {
-                  href: 'bit.ly/YPORAC'
+                  href: 'https://bit.ly/3cdw82k'
               },
               text: `REGISTER`
           }
