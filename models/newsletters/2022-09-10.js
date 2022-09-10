@@ -15,11 +15,10 @@ module.exports = {
     ],
     articles: [
       {
-        title: `AMATEUR RADIO - Get Started!`,
-        date: `Thursday, August 25 2022`,
-        time: `12:00 PM - 1:00 PM EDT`,
+        title: `AMATEUR RADIO - Training`,
+        date: `Every Sunday from Sept. 18 - Dec. 11`,
         location: `Online`,
-        img: `Registration UCradio.eventbrite.ca (2).png`,
+        img: `v3.png`,
         body: [
           {
               tag: 'p',
@@ -38,9 +37,13 @@ module.exports = {
               text: `Learn about the Amateur Radio Operator Certificate`
           },
           {
+              tag: 'p',
+              text: `First 10 IEEE members get 30$ off!`
+          },
+          {
               tag: 'button',
               attr: {
-                  href: 'https://bit.ly/3cdw82k'
+                  href: 'https://bit.ly/3To7Za7'
               },
               text: `REGISTER`
           }
