@@ -16,7 +16,8 @@ module.exports = {
     articles: [
       {
         title: `WIE Paint Night`,
-        date: `Every Sunday from Sept. 18 - Dec. 11`,
+        date: `Thursday September 29th`,
+        time: `7 pm`,
         location: `Nicol 3022`,
         img: `wie_paintpng`,
         body: [
