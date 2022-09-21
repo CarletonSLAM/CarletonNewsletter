@@ -15,6 +15,25 @@ module.exports = {
     ],
     articles: [
       {
+        title: `WIE Paint Night`,
+        date: `Every Sunday from Sept. 18 - Dec. 11`,
+        location: `Nicol 3022`,
+        img: `wie_paintpng`,
+        body: [
+          {
+              tag: 'p',
+              text: `Come out and join us for a fun paint night with IEEE Women in Engineering!`
+          },
+          {
+            tag: 'button',
+            attr: {
+              href : 'https://docs.google.com/forms/d/e/1FAIpQLSeCCZguStuEOKL3uHjHV3bYol4N8_LnXZqDPOeeuG7VitG_hw/viewform'
+            },
+            text: `REGISTER`
+          }
+        ]
+      },
+      {
         title: `AMATEUR RADIO - Training`,
         date: `Every Sunday from Sept. 18 - Dec. 11`,
         location: `Online`,
@@ -49,5 +68,18 @@ module.exports = {
           }
         ]
       },
+      {
+        title: `Introduction to Latex workshop`,
+        date: `Monday Sept. 26`,
+        time: `6pm - 8pm`,
+        location: `CB 5109`,
+        img: `latex.png`,
+        body: [
+          {
+              tag: 'p',
+              text: ``
+          },
+        ]
+      }
     ]
 }
