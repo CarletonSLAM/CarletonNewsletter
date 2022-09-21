@@ -34,6 +34,26 @@ module.exports = {
         ]
       },
       {
+        title: `Introduction to Latex workshop`,
+        date: `Monday Sept. 26`,
+        time: `6pm - 8pm`,
+        location: `CB 5109`,
+        img: `latex.png`,
+        body: [
+          {
+              tag: 'p',
+              text: `Forget writing mmath assignments by hand, use Latex!`
+          },
+          {
+            tag: 'button',
+            attr: {
+              href: 'https://docs.google.com/forms/d/e/1FAIpQLSfY-N6jVL9jraU35s0KKT9awxZy4kb9I0iS_Tlh6g-6fJaVCQ/viewform'
+            },
+            text: `REGISTER`
+          }
+        ]
+      },
+      {
         title: `AMATEUR RADIO - Training`,
         date: `Every Sunday from Sept. 18 - Dec. 11`,
         location: `Online`,
@@ -66,19 +86,6 @@ module.exports = {
               },
               text: `REGISTER`
           }
-        ]
-      },
-      {
-        title: `Introduction to Latex workshop`,
-        date: `Monday Sept. 26`,
-        time: `6pm - 8pm`,
-        location: `CB 5109`,
-        img: `latex.png`,
-        body: [
-          {
-              tag: 'p',
-              text: ``
-          },
         ]
       }
     ]
