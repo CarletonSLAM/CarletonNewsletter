@@ -15,22 +15,33 @@ module.exports = {
     ],
     articles: [
       {
-        title: `WIE Paint Night`,
-        date: `Thursday September 29th`,
-        time: `7 pm`,
-        location: `Nicol 3022`,
-        img: `wie_paintpng`,
+        title: `IEEE Merch Competition`,
+        date: `Monday Oct. 30 2022`,
+        time: `11:59 PM`,
+        img: `merch.png`,
         body: [
           {
               tag: 'p',
-              text: `Come out and join us for a fun paint night with IEEE Women in Engineering!`
+              text: `Calling all designers, we've got some merch that needs designing! `
+          },
+          {
+              tag: 'p',
+              text: `Any kind of merch is welcome, whether that be cups, pens, sweaters, caps etc.`
+          },
+          {
+              tag: 'p',
+              text: `The only requirement is that the design must include the IEEE logo and have "Carleton" on it`
+          },
+          {
+              tag: 'p',
+              text: `To submit, use the form below and email competitions@ieeecarleton.ca if there are further questions`
           },
           {
             tag: 'button',
             attr: {
-              href : 'https://docs.google.com/forms/d/e/1FAIpQLSeCCZguStuEOKL3uHjHV3bYol4N8_LnXZqDPOeeuG7VitG_hw/viewform'
+              href : 'https://docs.google.com/forms/d/e/1FAIpQLSdZt-TBvDR_gNLXFiDpXgOHm3rcxM2t_TOxKHWeIwQ5Dt28BQ/viewform'
             },
-            text: `REGISTER`
+            text: `SUBMISSION FORM`
           }
         ]
       },
