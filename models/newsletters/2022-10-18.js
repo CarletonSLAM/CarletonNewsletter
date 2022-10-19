@@ -19,11 +19,11 @@ module.exports = {
         date: `Thursday October 20th`,
         location: `Rooster's Coffeehouse (UC Building)`,
         time: `8:00 - 10:00 PM`,
-        img: `SelfCareNight_WiE_IEEE.pdf`,
+        img: `SelfCareNight_WiE_IEEE.pdf.png`,
         body: [
           {
               tag: 'p',
-              text: `Need a night to relax before jumping into the fall readung week? `
+              text: `Need a night to relax before jumping into the fall reading week? `
           },
           {
               tag: 'p',
@@ -31,15 +31,37 @@ module.exports = {
           },
           {
               tag: 'p',
-              text: `Register using the QR code on this flyer :)`
-          },
-          {
-              tag: 'p',
-              text: `Everyone is Welcome!`
+              text: `Everyone is Welcome! Register using the QR code on this flyer :)`
           },
           {
               tag: 'p',
               text: `Have any questions? Message us on our instagram! @carletonwie`
+          }
+        ]
+      },
+      {
+        title: `Tech Talks`,
+        img: `Resume Talks with.png`,
+        body: [
+          {
+              tag: 'p',
+              text: `Join us for some industry talks with Nokia, Ciena, and L3Harris! `
+          },
+          {
+              tag: 'p',
+              text: `Nokia Resume talk - Nov. 2 6:00 - 7:00 PM and room TBD`
+          },
+          {
+              tag: 'p',
+              text: `Ciena - Time & location TBD`
+          },
+          {
+              tag: 'p',
+              text: `L3 Harris - Time & location TBD`
+          },
+          {
+              tag: 'p',
+              text: `Stay posted for updates on time and locations!`
           }
         ]
       },
