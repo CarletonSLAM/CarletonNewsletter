@@ -19,7 +19,7 @@ module.exports = {
         date: `Thursday October 20th`,
         location: `Rooster's Coffeehouse (UC Building)`,
         time: `8:00 - 10:00 PM`,
-        img: `SelfCareNight_WiE_IEEE.pdf`,
+        img: `SelfCareNight_WiE_IEEE.png`,
         body: [
           {
               tag: 'p',
