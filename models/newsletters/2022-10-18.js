@@ -15,32 +15,7 @@ module.exports = {
     ],
     articles: [
       {
-        title: `Self-Care Night`,
-        date: `Thursday October 20th`,
-        location: `Rooster's Coffeehouse (UC Building)`,
-        time: `8:00 - 10:00 PM`,
-        img: `SelfCareNight_WiE_IEEE.pdf.png`,
-        body: [
-          {
-              tag: 'p',
-              text: `Need a night to relax before jumping into the fall reading week? `
-          },
-          {
-              tag: 'p',
-              text: `Face masks, Jounaling, Boarding games, Cucumber water + snacks`
-          },
-          {
-              tag: 'p',
-              text: `Everyone is Welcome! Register using the QR code on this flyer :)`
-          },
-          {
-              tag: 'p',
-              text: `Have any questions? Message us on our instagram! @carletonwie`
-          }
-        ]
-      },
-      {
-        title: `Tech Talks`,
+        title: `November Tech Talks`,
         img: `Resume Talks with.png`,
         body: [
           {
