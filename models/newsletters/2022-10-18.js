@@ -49,19 +49,19 @@ module.exports = {
           },
           {
               tag: 'p',
-              text: `Nokia Resume talk - Nov. 2 6:00 - 7:00 PM and room TBD`
+              text: `Nokia Resume Workshop - Nov. 2 6:00 - 7:00 PM at ME3269`
           },
           {
               tag: 'p',
-              text: `Ciena - Time & location TBD`
+              text: `Ciena Resume contest/Roast - Nov. 9 6:00 - 7:30 at NI4010 (Top ten resumes get a lab tour of Ciena!)`
           },
           {
               tag: 'p',
-              text: `L3 Harris - Time & location TBD`
+              text: `L3 Harris Industry Talk with David Bourret - Nov. 15 6:00 - 7:30 at NI4010`
           },
           {
               tag: 'p',
-              text: `Stay posted for updates on time and locations!`
+              text: `Network with Ottawa's tech industry leaders for a chance to make connections and improve your resume!`
           }
         ]
       },
