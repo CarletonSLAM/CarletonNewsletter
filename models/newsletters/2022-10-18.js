@@ -15,8 +15,11 @@ module.exports = {
     ],
     articles: [
       {
-        title: `November Tech Talks`,
-        img: `Resume Talks with.png`,
+        title: `November Tech Talks with Nokia`,
+        date: `Wednesday Nov. 2 2022`,
+        time: `6:00 - 7:30 PM`,
+        location: `ME3269`,
+        img: `Resume Workshop.png`,
         body: [
           {
               tag: 'p',
