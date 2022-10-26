@@ -23,23 +23,11 @@ module.exports = {
         body: [
           {
               tag: 'p',
-              text: `Join us for some industry talks with Nokia, Ciena, and L3Harris! `
+              text: `Join us for the first tech event of the school year with Nokia`
           },
           {
-              tag: 'p',
-              text: `Nokia Resume Workshop - Nov. 2 6:00 - 7:00 PM at ME3269`
-          },
-          {
-              tag: 'p',
-              text: `Ciena Resume contest/Roast - Nov. 9 6:00 - 7:30 at NI4010 (Top ten resumes get a lab tour of Ciena!)`
-          },
-          {
-              tag: 'p',
-              text: `L3 Harris Industry Talk with David Bourret - Nov. 15 6:00 - 7:30 at NI4010`
-          },
-          {
-              tag: 'p',
-              text: `Network with Ottawa's tech industry leaders for a chance to make connections and improve your resume!`
+            tag: 'p',
+            text: `Bring your resume and networking skills to get some industry tips on improving your resume!`
           }
         ]
       },
