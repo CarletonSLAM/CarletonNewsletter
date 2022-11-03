@@ -32,41 +32,6 @@ module.exports = {
         ]
       },
       {
-        title: `Prosthetics Competition`,
-        date: `Wednesday Nov. 9 2022`,
-        time: `6:00 - 7:30 PM`,
-        location: `NI4010`,
-        img: `Resume Roast.png`,
-        body: [
-          {
-              tag: 'p',
-              text: `I would like to introduce myself, my name is Basma Hafez. I and some of my colleagues in Canada are starting a non-profit organization called ILMONA. The organization focuses on helping fellow Muslims around the world using technology and STEM education.`
-          },
-          {
-            tag: 'p',
-            text: `Our first goal is to design 3D printers which can aid in making prosthetics for children in Gaza, in a way that would allow for the printers to be made in Gaza.`
-          },
-          {
-            tag: 'p',
-            text: 'We have already established contact with manufacturers in Gaza that have experience in building 3D printers with the available material they have access to. With the help of the manufacturer’s specification, we will be creating a competition to design cheaper 3D printers, and have those designs sent to the manufacturer.'
-          },
-          {
-            tag: 'button',
-            attr: {
-              href: 'https://www.eventbrite.ca/e/prosthetics-compitition-phase-1-tickets-444775143427'
-            },
-            text: `REGISTRATION`
-          },
-          {
-            tag: 'button',
-            attr: {
-              href: ' https://www.instagram.com/ilmona_international/'
-            },
-            text: `INSTAGRAM`
-          }
-        ]
-      },
-      {
         title: `Canadian Space Conference 2023`,
         date: `January 28th and 29th 2023`,
         location: `Montreal`,
