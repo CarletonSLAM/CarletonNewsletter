@@ -15,19 +15,84 @@ module.exports = {
     ],
     articles: [
       {
-        title: `November Tech Talks with Nokia`,
-        date: `Wednesday Nov. 2 2022`,
+        title: `Resume Roast with Ciena`,
+        date: `Wednesday Nov. 9 2022`,
         time: `6:00 - 7:30 PM`,
-        location: `ME3269`,
-        img: `Resume Workshop.png`,
+        location: `NI4010`,
+        img: `Resume Roast.png`,
         body: [
           {
               tag: 'p',
-              text: `Join us for the first tech event of the school year with Nokia`
+              text: `Prepare to get your resume roasted and join us for a next tech-talk event with Ciena!`
           },
           {
             tag: 'p',
-            text: `Bring your resume and networking skills to get some industry tips on improving your resume!`
+            text: `Top 10 Resumes receive a lab tour of Ciena so bring your all!`
+          }
+        ]
+      },
+      {
+        title: `Prosthetics Competition`,
+        date: `Wednesday Nov. 9 2022`,
+        time: `6:00 - 7:30 PM`,
+        location: `NI4010`,
+        img: `Resume Roast.png`,
+        body: [
+          {
+              tag: 'p',
+              text: `I would like to introduce myself, my name is Basma Hafez. I and some of my colleagues in Canada are starting a non-profit organization called ILMONA. The organization focuses on helping fellow Muslims around the world using technology and STEM education.`
+          },
+          {
+            tag: 'p',
+            text: `Our first goal is to design 3D printers which can aid in making prosthetics for children in Gaza, in a way that would allow for the printers to be made in Gaza.`
+          },
+          {
+            tag: 'p',
+            text: 'We have already established contact with manufacturers in Gaza that have experience in building 3D printers with the available material they have access to. With the help of the manufacturer’s specification, we will be creating a competition to design cheaper 3D printers, and have those designs sent to the manufacturer.'
+          },
+          {
+            tag: 'button',
+            attr: {
+              href: 'https://www.eventbrite.ca/e/prosthetics-compitition-phase-1-tickets-444775143427'
+            },
+            text: `REGISTRATION`
+          },
+          {
+            tag: 'button',
+            attr: {
+              href: ' https://www.instagram.com/ilmona_international/'
+            },
+            text: `INSTAGRAM`
+          }
+        ]
+      },
+      {
+        title: `Canadian Space Conference 2023`,
+        date: `January 28th and 29th 2023`,
+        location: `Montreal`,
+        img: `sedseeds-banner-red-black.png`,
+        body: [
+          {
+              tag: 'p',
+              text: `on behalf of SEDS-Canada, Students for the Exploration & Development of Space, a non-profit organisation that promotes and encourages students to pursue opportunities in the space industry. We are excited to announce our annual space conference, known as the Canadian Space Conference, will take place on January 28th and 29th of 2023 in Montreal. The conference is broadcasted as well if anyone would like to join us virtually. `
+          },
+          {
+            tag: 'p',
+            text: `The theme of this year’s conference is Space Through A Looking Glass with sessions and workshops on JWST and Canada’s contributions, Robotics, Space Health, Astrophotography, Space Law and more! The conference gives students the opportunity to network with professionals and space enthusiasts, showcase their research and to learn about the latest technologies in the industry. `
+          },
+          {
+            tag: 'button',
+            attr: {
+              href: 'https://www.eventbrite.ca/e/canadian-space-conference-2023-tickets-403123833237'
+            },
+            text: `REGISTRATION`
+          },
+          {
+            tag: 'button',
+            attr: {
+              href: 'https://csc.seds.ca/'
+            },
+            text: `WEBSITE`
           }
         ]
       },
@@ -57,37 +122,6 @@ module.exports = {
           {
               tag: 'p',
               text: `3D printing...? (future)`
-          }
-        ]
-      },
-      {
-        title: `IEEE Merch Competition`,
-        date: `Monday Oct. 30 2022`,
-        time: `11:59 PM`,
-        img: `merch.png`,
-        body: [
-          {
-              tag: 'p',
-              text: `Calling all designers, we've got some merch that needs designing! `
-          },
-          {
-              tag: 'p',
-              text: `Any kind of merch is welcome, whether that be cups, pens, sweaters, caps etc.`
-          },
-          {
-              tag: 'p',
-              text: `The only requirement is that the design must include the IEEE logo and have "Carleton" on it`
-          },
-          {
-              tag: 'p',
-              text: `To submit, use the form below and email competitions@ieeecarleton.ca if there are further questions`
-          },
-          {
-            tag: 'button',
-            attr: {
-              href : 'https://docs.google.com/forms/d/e/1FAIpQLSdZt-TBvDR_gNLXFiDpXgOHm3rcxM2t_TOxKHWeIwQ5Dt28BQ/viewform'
-            },
-            text: `SUBMISSION FORM`
           }
         ]
       },
