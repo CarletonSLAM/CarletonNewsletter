@@ -15,19 +15,19 @@ module.exports = {
     ],
     articles: [
       {
-        title: `Resume Roast with Ciena`,
+        title: `Ace the Interview`,
         date: `Wednesday Nov. 9 2022`,
         time: `6:00 - 7:30 PM`,
         location: `NI4010`,
-        img: `Resume Roast.png`,
+        img: `AtI.png`,
         body: [
           {
               tag: 'p',
-              text: `Prepare to get your resume roasted and join us for a next tech-talk event with Ciena!`
+              text: `Prepare to Ace your next Interview by joining us for a next tech-talk event with Ciena!`
           },
           {
             tag: 'p',
-            text: `Top 10 Resumes receive a lab tour of Ciena so bring your all!`
+            text: `Top 5 Resumes receive a lab tour of Ciena so bring your all!`
           }
         ]
       },
