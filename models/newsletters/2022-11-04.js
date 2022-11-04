@@ -28,6 +28,13 @@ module.exports = {
           {
             tag: 'p',
             text: `Top 5 Resumes receive a lab tour of Ciena so bring your all!`
+          },
+          {
+            tag: 'button',
+            attr: {
+              href: 'https://docs.google.com/forms/d/e/1FAIpQLScbOcZSkwzJDNZm6EW676FOkl6s1UOj25VG42WpL9BVBbg4tA/viewform?vc=0&c=0&w=1&flr=0'
+            },
+            text: `RESUME SUBMISSION`
           }
         ]
       },
