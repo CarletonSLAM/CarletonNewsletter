@@ -10,32 +10,42 @@ module.exports = {
         },
         {
             tag: 'htmlString',
-            text: `If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2021-10-17.html'>here</a> to view in browser.`
+            text: `If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2022-11-14.html'>here</a> to view in browser.`
         }
     ],
     articles: [
       {
-        title: `Ace the Interview`,
-        date: `Wednesday Nov. 9 2022`,
+        title: `L3Harris Talk`,
+        date: `Wednesday Nov. 15 2022`,
         time: `6:00 - 7:30 PM`,
         location: `NI4010`,
-        img: `AtI.png`,
+        img: `Lets_get_aero-dynamic.png`,
         body: [
           {
               tag: 'p',
-              text: `Prepare to Ace your next Interview by joining us for a next tech-talk event with Ciena!`
+              text: `Come learn about L3Harris and Canada’s Aerospace and Defense sector at IEEE Carleton’s Tech Talk with L3Harris’ David Bourret this Tuesday evening at 6pm in NI4010. `
           },
           {
             tag: 'p',
-            text: `Top 5 Resumes receive a lab tour of Ciena so bring your all!`
+            text: `Pizza will be provided!`
           },
           {
             tag: 'button',
             attr: {
-              href: 'https://docs.google.com/forms/d/e/1FAIpQLScbOcZSkwzJDNZm6EW676FOkl6s1UOj25VG42WpL9BVBbg4tA/viewform?vc=0&c=0&w=1&flr=0'
+              href: 'https://docs.google.com/forms/d/e/1FAIpQLSc_FYVl2jy-D3GmtlarhDS-udUYthJsMplhZH4UIcSM7uHsmA/viewform'
             },
-            text: `RESUME SUBMISSION`
+            text: `RSVP`
           }
+        ]
+      },
+      {
+        title: `Trends in Energy Transition`,
+        date: `Friday Nov. 18 2022`,
+        time: `12:00 PM EST`,
+        location: `NI4010`,
+        img: `TrendsEnergyTransition_Final.jpeg`,
+        body: [
+          
         ]
       },
       {
