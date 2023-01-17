@@ -42,7 +42,7 @@ module.exports = {
           {
             tag: 'button',
             attr: {
-              href: ''
+              href: 'https://www.eventbrite.ca/e/latex-workshop-series-week-1-tickets-506483013327?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb&fbclid=IwAR3_j07l21a-svY8CVy7Mr5z2lE_HfhQ1xRK_87SQFTzvc_YnfbCZvbIu98'
             },
             text: `WEEK 1 REGISTRATION`
           }
