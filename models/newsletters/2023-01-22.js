@@ -16,19 +16,11 @@ module.exports = {
     articles: [
       {
         title: `LaTeX Software Workshops`,
-        img: `w1.png`,
-        time: `7:00 - 9:00 pm`,
+        img: `w3.png`,
+        time: `7:00 - 8:00 pm`,
         date: `Wednesday, Jan. 25'th 2023`,
         location: `Minto CASE 6030`,
         body: [
-          {
-              tag: 'p',
-              text: `Week 1: What is LaTeX?   @Jan. 25'th    7-9 pm`
-          },
-          {
-              tag: 'p',
-              text: `Week 2: More Advanced LaTeX packages   @Feb. 1    7-8 pm`
-          },
           {
               tag: 'p',
               text: `Week 3: LaTeX in different environments   @Feb. 8   7-8 pm`
@@ -44,40 +36,35 @@ module.exports = {
           {
             tag: 'button',
             attr: {
-              href: 'https://www.eventbrite.ca/e/latex-workshop-series-week-1-tickets-506483013327?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb&fbclid=IwAR3_j07l21a-svY8CVy7Mr5z2lE_HfhQ1xRK_87SQFTzvc_YnfbCZvbIu98'
+              href: 'https://www.eventbrite.ca/e/latex-workshop-series-week-3-tickets-515694796017?aff=ebdsoporgprofile&fbclid=IwAR1vaIMj3iGFaAbizDlIAFkHVXwCPTzgD4zK4cq9N2ea3sKslhTsFIlCWx4'
             },
-            text: `WEEK 1 REGISTRATION`
+            text: `WEEK 3 REGISTRATION`
           }
         ]
       },
       {
-        title: `BITsoc Nokia Speaker Event`,
-        img: `krebs.png`,
-        location: `Azrieli Pavilion room 132 (AP132)`,
-        date: `Tuesday, Jan. 24'th 2023`,
+        title: `Attention Mechanism in Deep Learning`,
+        img: `F1AFE5D2-B4A6-4875-98DC-6D4FD848B7D6.jpeg`,
         time: `6:00 - 7:00 pm`,
+        date: `Thursday, Feb. 9 2023`,
+        location: `TB 236`,
         body: [
           {
               tag: 'p',
-              text: `Hey BITizens!`
+              text: `- Time Series Forecasting ⏳`
           },
           {
-            tag: 'p',
-            text: `On Tuesday, January 24th 2023 at 6PM, BITsoc is welcoming Linda Krebs and Jason Rusmisel from Nokia Canada as guest speakers!`
+              tag: 'p',
+              text: `- Deep learning models 📟`
           },
           {
-            tag: 'p',
-            text: `If you are looking for summer employment opportunities, please feel free to prepare a soft copy (PDF format only) of your resume and instructions will be offered during the event about how it can be sent out!
-
-            This event is accessible to all. Make sure to register via link provided.`
+              tag: 'p',
+              text: `- Traffic flow predictions 📈`
           },
           {
-            tag: 'button',
-            attr: {
-              href: 'https://forms.gle/oKiyTeLHFqEwDRii6'
-            },
-            text: `REGISTER`
-          }
+              tag: 'p',
+              text: `Entry is open to All!`
+          },
         ]
       },
       {
@@ -163,7 +150,7 @@ module.exports = {
         title: `SLAM Meetings!`,
         img: `slamAdvert.png`,
         location: `ME4463`,
-        time: `Thursdays 6:00 - 9:00 pm`,
+        time: `Wednesdays 6:00 - 9:00 pm`,
         body: [
           {
               tag: 'p',
