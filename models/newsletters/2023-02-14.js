@@ -15,16 +15,61 @@ module.exports = {
     ],
     articles: [
       {
-        title: `LaTeX Software Workshops`,
-        img: `w3.png`,
-        time: `7:00 - 8:00 pm`,
-        date: `Wednesday, Jan. 25'th 2023`,
-        location: `Minto CASE 6030`,
+        title: `WIE X SLAM - Heart Soldering & 3D Printing Night`,
+        img: `solder.png`,
+        location: `ME4464 (Maker Space)`,
+        date: `Wednesday February 15`,
+        time: `6:00 pm`,
         body: [
           {
               tag: 'p',
-              text: `Week 3: LaTeX in different environments   @Feb. 8   7-8 pm`
+              text: `Join SLAM & WIE in our 3D printing and heart soldering workshop this Wednesday!`
           },
+          {
+              tag: 'p',
+              text: `Be sure to sign up quickly as space is limited!`
+          },
+          {
+            tag: 'button',
+            attr : {
+              href: `https://docs.google.com/forms/d/e/1FAIpQLScn3R9hf2Ltz3UuC0DfDmIgHcZkYj7tyBfD-z7gb5_ToxVA0Q/closedform`
+            },
+            text: `REGISTER`
+          }
+        ]
+      },
+      {
+        title: `WIE Panel - Career Transition`,
+        img: `panel_wie.png`,
+        location: `Virtual`,
+        date: `Thursday February 16`,
+        time: `7:00 pm`,
+        body: [
+          {
+              tag: 'p',
+              text: `With a lot of about to graduate and start your first job, or maybe getting ready to do your
+              first co-op, its natural to have a lot of questions. Don't worry! WIE got you covered!`
+          },
+          {
+              tag: 'p',
+              text: `Join women from all sorts of career paths to talk about their experience transitioning from undergrad to career!`
+          },
+          {
+            tag: 'button',
+            attr : {
+              href: `https://forms.gle/SxrpopwPDjWzVP4m9`
+            },
+            text: `REGISTER`
+          }
+        ]
+      },
+      {
+        title: `LaTeX Software Workshops`,
+        img: `week4.png`,
+        time: `7:00 - 8:00 pm`,
+        date: `Wednesday, Feb. 15'th 2023`,
+        location: `Minto CASE 6030`,
+        body: [
           {
               tag: 'p',
               text: `Week 4: Fully Reproducible Documents, Literate Programming, and Experiment LaTeX   @Feb. 16   7-8pm`
@@ -36,35 +81,10 @@ module.exports = {
           {
             tag: 'button',
             attr: {
-              href: 'https://www.eventbrite.ca/e/latex-workshop-series-week-3-tickets-515694796017?aff=ebdsoporgprofile&fbclid=IwAR1vaIMj3iGFaAbizDlIAFkHVXwCPTzgD4zK4cq9N2ea3sKslhTsFIlCWx4'
+              href: 'https://www.eventbrite.ca/e/latex-workshop-series-week-4-tickets-515695197217?aff=ebdsoporgprofile&fbclid=IwAR22jA2x4zX4oU8qVjv-GawCce4jupq3UUrExGJZglL81S4x_MRE9vOXnWo'
             },
-            text: `WEEK 3 REGISTRATION`
+            text: `WEEK 4 REGISTRATION`
           }
-        ]
-      },
-      {
-        title: `Attention Mechanism in Deep Learning`,
-        img: `F1AFE5D2-B4A6-4875-98DC-6D4FD848B7D6.jpeg`,
-        time: `6:00 - 7:00 pm`,
-        date: `Thursday, Feb. 9 2023`,
-        location: `TB 236`,
-        body: [
-          {
-              tag: 'p',
-              text: `- Time Series Forecasting ⏳`
-          },
-          {
-              tag: 'p',
-              text: `- Deep learning models 📟`
-          },
-          {
-              tag: 'p',
-              text: `- Traffic flow predictions 📈`
-          },
-          {
-              tag: 'p',
-              text: `Entry is open to All!`
-          },
         ]
       },
       {
@@ -147,30 +167,25 @@ module.exports = {
         ]
       },
       {
-        title: `SLAM Meetings!`,
-        img: `slamAdvert.png`,
-        location: `ME4463`,
-        time: `Wednesdays 6:00 - 9:00 pm`,
+        title: `IEEE Merch!`,
         body: [
           {
               tag: 'p',
-              text: `You have an Idea and a Dream - We have:`
+              text: `Submit the form below to help IEEE decide on their next merch! We're currently looking at Crewnecks and Bucket Hats!`
           },
           {
-              tag: 'p',
-              text: `Free arduinos`
+            tag: 'button',
+            attr : {
+              href: `https://docs.google.com/forms/d/e/1FAIpQLSdm2z1UmxYV2pJZVyH61ppaddl6IE9VYxOyUr_B_fQPNK_MaQ/viewform`
+            },
+            text : `CREWNECKS`
           },
           {
-            tag: 'p',
-            text: `CAD Workshops`
-          },
-          {
-            tag: 'p',
-            text: `1 on 1 Assistance`
-          },
-          {
-            tag: 'p',
-            text: `3D Printing`
+            tag: 'button',
+            attr : {
+              href: `https://docs.google.com/forms/u/1/d/e/1FAIpQLSe_Int_yaZ2wejj7FvM8_c27BRlaQNwQycCOGB2oMkBdtP_kQ/viewform?usp=send_form`
+            },
+            text : `BUCKET HATS`
           }
         ]
       },
