@@ -20,7 +20,7 @@ module.exports = {
         body: [
           {
               tag: 'p',
-              text: `Submit the form below to help IEEE decide on their next merch! We're currently looking at Crewnecks and Bucket Hats!`
+              text: `Submit the form below to help IEEE decide on their next merch! We're currently looking at Crewnecks, Mugs, and, Bucket Hats!`
           },
           {
             tag: 'button',
