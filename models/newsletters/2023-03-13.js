@@ -19,7 +19,7 @@ module.exports = {
         img: `wine.png`,
         date: `Friday March 31, 2023`,
         time: `7:00 PM - 10:00 PM EDT`,
-        location: `Lago 1001 Queen Elizabeth Driveway, Ottawa K1S 5K7`,
+        location: `Lago 1001 Queen Elizabeth Driveway`,
         body: [
           {
               tag: 'p',
