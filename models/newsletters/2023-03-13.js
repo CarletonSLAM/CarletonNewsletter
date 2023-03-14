@@ -16,7 +16,7 @@ module.exports = {
     articles: [
       {
         title: `14'th Annual WiE Wine & Cheese (March 31)`,
-        img: `bruh.png`,
+        img: `wine.png`,
         date: `Friday March 31, 2023`,
         time: `7:00 PM - 10:00 PM EDT`,
         location: `Lago 1001 Queen Elizabeth Driveway, Ottawa K1S 5K7`,
@@ -72,6 +72,20 @@ module.exports = {
               href : `https://docs.google.com/document/d/1je1tLaQi_KDuUjpjZO3oXb4T_D5LMV7ZTPAMHmp9Obg/edit`
             },
             text : `AVAILABLE POSITIONS`
+          }
+        ]
+      },
+      {
+        title: `New IEEE Mugs!`,
+        img: `mugs.png`,
+        body: [
+          {
+              tag: 'p',
+              text: `Check out our design for our new I-Triple Mugs! `
+          },
+          {
+              tag: 'p',
+              text: `We are planning on ordering a large batch. If you are interested, message services@ieeecarleton.ca for more information.`
           }
         ]
       },
