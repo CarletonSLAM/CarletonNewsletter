@@ -47,7 +47,6 @@ module.exports = {
       },
       {
         title: `IEEE Elections - All Positions Available!`,
-        img: `election.png`,
         date: `Monday March 20, 2023`,
         time: `6:00 PM - 7:00 PM`,
         body: [
