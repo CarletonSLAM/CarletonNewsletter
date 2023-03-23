@@ -47,13 +47,14 @@ module.exports = {
       },
       {
         title: `IEEE AGM`,
-        date: `Monday March 20, 2023`,
+        img: `ieee-carleton-blue.png`,
+        date: `Monday March 27, 2023`,
         time: `6:00 PM - 7:00 PM`,
         location: `Mackenzie Building ME4494 `,
         body: [
           {
               tag: 'p',
-              text: `Our end of the year AGM is next week!`
+              text: `Our end of the year AGM is next week! Come hear us talk about our successful year and plans for next year!`
           },
           {
               tag: 'p',
