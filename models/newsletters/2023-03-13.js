@@ -46,31 +46,18 @@ module.exports = {
         ]
       },
       {
-        title: `IEEE Elections - All Positions Available!`,
+        title: `IEEE AGM`,
         date: `Monday March 20, 2023`,
         time: `6:00 PM - 7:00 PM`,
+        location: `Mackenzie Building ME4494 `,
         body: [
           {
               tag: 'p',
-              text: `IEEE Carleton is having their annual elections and we're looking for Execs! All positions are available and can be found in the link below.`
+              text: `Our end of the year AGM is next week!`
           },
           {
               tag: 'p',
-              text: `Whether you are new to IEEE or a returning Exec, please submit your election platform to vicechair@ieeecarleton.ca before the election using the template linked below.`
-          },
-          {
-            tag: 'button',
-            attr : {
-              href: `https://docs.google.com/document/d/1JC0XkyyLrE0KtxxZ0a9FjKAg_Y88PEWX/edit`
-            },
-            text : `ELECTION PLATFORM TEMPLATE`
-          },
-          {
-            tag : 'button',
-            attr : {
-              href : `https://docs.google.com/document/d/1je1tLaQi_KDuUjpjZO3oXb4T_D5LMV7ZTPAMHmp9Obg/edit`
-            },
-            text : `AVAILABLE POSITIONS`
+              text: `Everyone is invited, feel free to stop by!`
           }
         ]
       },
@@ -84,9 +71,34 @@ module.exports = {
           },
           {
               tag: 'p',
-              text: `We are planning on ordering a large batch. If you are interested, message services@ieeecarleton.ca for more information.`
+              text: `We just ordered a large batch and each mug is $7.50! If you are interested, please message services@ieeecarleton.ca for more information.`
           }
         ]
       },
+      {
+        title: `WIE Sweater Sale Update`,
+        img: `wie_sweaters.png`,
+        body: [
+          {
+            tag: 'p',
+            text: `Thank you for filling our interest form!
+Our next step is to finalize the order and get them within 2 Weeks. `
+          },
+          {
+            tag: 'p',
+            text: `for those that filled the interest form we need you to please E-transfer the cost ($40) to:
+Finance.director@ieeecarleton.ca OR pay by tap at the ieee office (ME3359) `
+          },
+          {
+            tag: 'p',
+            text: `We hope everyone pays by tomorrow (24 March).
+The sooner we order, the sooner we get them :)`
+          },
+          {
+            tag: 'p',
+            text: `Please respond to this email if you have payed`
+          }
+        ]
+      }
     ]
 }
