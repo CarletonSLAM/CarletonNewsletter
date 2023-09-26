@@ -10,7 +10,7 @@ module.exports = {
         },
         {
             tag: 'htmlString',
-            text: `If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2021-01-25.html'>here</a> to view in browser.`
+            text: `If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2023-09-18.html'>here</a> to view in browser.`
         }
     ],
     articles: [

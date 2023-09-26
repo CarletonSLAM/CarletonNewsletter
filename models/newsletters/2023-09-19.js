@@ -15,8 +15,8 @@ module.exports = {
     ],
     articles: [
         {
-            title: `IEEE Fantastic Friends!`,
-            img: `mugs.png`,
+            title: `IEEE Associates!`,
+            img: `branch_logo_blue.png`,
             body: [
               {
                   tag: 'p',
@@ -24,7 +24,7 @@ module.exports = {
               },
               {
                   tag: 'p',
-                  text: `Becoming a fantastic friend allows you to buy food, drinks and the oh so important redbull for our IEEE battlepass!*`
+                  text: `Becoming an associate allows you to buy food, drinks and the oh so important redbull for our IEEE battlepass!*`
               },
               {
                 tag: 'htmlString',
@@ -38,7 +38,6 @@ module.exports = {
         },
         { 
         title: `IEEE Redbull Battlepass!`,
-        img: `mugs.png`,
         body: [
           {
               tag: 'p',
@@ -51,6 +50,56 @@ module.exports = {
           {
               tag: 'p',
               text: `*Points will only be rewarded for ONE redbull bought per week, additional redbulls purchased have no weight`
+          }
+        ]
+        },
+        { 
+        title: `Fall environment projects`,
+        img: `climatechange.png`,
+        body: [
+          {
+              tag: 'p',
+              text: `Fall Environment Projects - Funding of up to 10k`
+          },
+          {
+              tag: 'p',
+              text: `Service-Learning Projects to Support the IEEE Initiative to Address Climate Change`
+          },
+          {
+            tag: 'htmlString',
+            text: `For more information, click <a href='https://epics.ieee.org/fall-environmental-call-for-projects/?fbclid=IwAR1wW80tiGrb0dhdzGUnk1PCq3H_IMG4AL0_KzIWmLmyJgtfpVpAkNgkWxc'>here</a>`
+          }
+        ]
+        },
+        { 
+        title: `IEEE is looking for an exec!`,
+        img: `ieeeelections.png`,
+        body: [
+          {
+              tag: 'p',
+              text: `IEEE is looking to hire a VP external!`
+          },
+          {
+              tag: 'p',
+              text: ``
+          }
+        ]
+        },
+        { 
+        title: `IEEE WIE Elections!`,
+        img: `wieelections.png`,
+        body: [
+          {
+              tag: 'p',
+              text: `WIE elections are happening on tuesday october 3rd!`
+          },
+          {
+              tag: 'p',
+              text: `Positions available are VP Academic, VP Finance and VP Social.`
+          },
+          {
+            tag: 'htmlString',
+            text: `To view more information or fill out an election form click <a href='https://linktr.ee/ieee.carleton'>here</a>`
           }
         ]
         }
