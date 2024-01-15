@@ -91,7 +91,7 @@ module.exports = {
         body: [
           {
               tag: 'p',
-              text: `WIE elections are happening on tuesday october 3rd!`
+              text: `WIE elections are happening on Tuesday October 3rd!`
           },
           {
               tag: 'p',
