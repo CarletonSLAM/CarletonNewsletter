@@ -16,7 +16,7 @@ module.exports = {
     articles: [
         {
             title: `WIE Wine and Cheese`,
-            img: `winencheese2024.jpeg`,
+            img: `winencheese2024.png`,
             body: [
               {
                   tag: 'p',
@@ -30,7 +30,7 @@ module.exports = {
         },
         { 
         title: `Redbull Patches`,
-        img: `redbull.jpeg`,
+        img: `redbull.png`,
         body: [
           {
               tag: 'p',
