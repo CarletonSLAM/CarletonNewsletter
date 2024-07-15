@@ -55,7 +55,7 @@ module.exports = {
             ]
         },
         { 
-        title: `SLAM Proposal Submissions`,
+        title: `TESTING TESTING THIS IS TEST',
         img: `slamnew.png`,
         body: [
           {
