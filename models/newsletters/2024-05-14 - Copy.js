@@ -2,7 +2,7 @@ module.exports = {
     toast: [
         {
             tag: 'h2',
-            text: 'Keeping up with IEEE Carleton.'
+            text: 'Keeping up with HELLO HELLO HELLO HELLO.'
         },
         {
             tag: 'p',
