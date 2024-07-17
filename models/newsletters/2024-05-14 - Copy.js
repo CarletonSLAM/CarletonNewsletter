@@ -2,47 +2,39 @@ module.exports = {
     toast: [
         {
             tag: 'h2',
-            text: 'Keeping up with HELLO HELLO HELLO HELLO.'
+            text: 'Keeping up with IEEE Carleton.'
         },
         {
             tag: 'p',
-            text: 'Feel free to forward this newsletter to anyone you think might be interested.'
+            text: "Part of the world's largest technical professional organization, here at Carleton University."
         },
         {
             tag: 'htmlString',
-            text: `If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2023-03-13.html'>here</a> to view in browser.`
+            text: `If you are having trouble viewing this as an email, click <a href=''>here</a> to view in browser!`
         }
     ],
     articles: [
         {
-            title: `IEEE Elections`,
-            img: `elections.png`,
+            title: `Welcome!`,
+            img: '',
             body: [
               {
                   tag: 'p',
-                  text: `Good evening folks. Please visit the following link to view the updated executive position roles and descriptions, as well as the IEEE 2024 - 2025 platform template. To submit a platform, please email chair@ieeecarleton.ca
-
-                  Note* All positions are open to be elected, however please be advised that Officer roles requires being in the branch for at least one year.
-                  
-                  Each candidate will breifly spend 3-5 minutes describing their platform, which will be followed by a 3-5 minute question period by the audience. 
-                  
-                  Voting period beings immeditaely following the election by current IEEE executive team and decisions will be made public the following Wednesday April 3rd at our AGM.
-                  
-                  For additional questions or concerns involving the process or platforms, please direct your questions to chair@ieeecarleton.ca`
+                  text: 'Hello! If you are recieving this newsletter, you are a member of the IEEE Carleton Newsletter. '
               },
               {
                 tag: 'p',
-                text: `Elections are Wednesday March 27th at 5:30 PM in ME4332`
+                text: ``
             },
               {
                 tag: 'htmlString',
-                text: `Positions and Template! <a href='https://drive.google.com/drive/folders/12TauIgYbYd09FoX2dYmVE0DmNXDfF4W6?usp=drive_link'>here</a>`
+                text: `Here is another link <a href=''>here</a>`
               }
             ]
         },
         {
-            title: `Battle Royale XV`,
-            img: `BRXV.png`,
+            title: `Event! Event! Event!`,
+            img: ``,
             body: [
               {
                   tag: 'p',
@@ -58,7 +50,7 @@ module.exports = {
               },
               {
                 tag: 'htmlString',
-                text: `Click <a href='https://l.facebook.com/l.php?u=https%3A%2F%2Flinktr.ee%2Fieeebattleroyale%3Ffbclid%3DIwAR2lW11Ve3czdoePmGKYRK8ILbKz8Uc14inpxnqu7bjh5txEbVA3Nbxx9Dc&h=AT0xm6tPc9cN5HN7HblPZ9AqpPXovTefhJrPqyOg2nJGQea6PoY5qrmZ-tko8D75smStBjPacyaKpZhLG5PAUNpca-3wRZ9JN5bopSnggEKTDlxf0i7JyYVjbHBCRudEtd-x6Q'>here</a>`
+                text: `Click <a href=''>here</a>`
               }
             ]
         },
