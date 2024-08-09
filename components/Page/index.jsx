@@ -40,7 +40,7 @@ const styles = {
     fontFamily: 'Helvetica',
     margin: 'auto',
     width: '100%',
-    maxWidth:'700px',
+    maxWidth:'900px',
     paddingTop:'5vh 0 5vh 0',
     backgroundColor:theme.body,
     borderRadius: '10px'

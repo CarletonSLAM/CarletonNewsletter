@@ -33,7 +33,7 @@ const styles = {
   welcome: {
     color: theme.primary,
     textAlign: 'center',
-    fontSize: '22px'
+    fontSize: '20px'
   },
   linkContainer: {
     color: theme.primary,

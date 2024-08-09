@@ -2,11 +2,11 @@ module.exports = {
     toast: [
         {
             tag: 'h2',
-            text: 'Keeping Up With IEEE!'
+            text: 'AUGUST ##, 2024'
         },
         {
             tag: 'p',
-            text: 'Feel free to forward this newsletter to anyone you think might be interested.'
+            text: 'Welcome Back To School!'
         },
         {
             tag: 'htmlString',
@@ -15,34 +15,36 @@ module.exports = {
     ],
     articles: [
         {
-            title: `IEEE Elections`,
-            img: `elections.png`,
+            title: `What is IEEE?`,
+            img: `ieee-carleton.png`,
             body: [
               {
                   tag: 'p',
-                  text: `Good evening folks. Please visit the following link to view the updated executive position roles and descriptions, as well as the IEEE 2024 - 2025 platform template. To submit a platform, please email chair@ieeecarleton.ca
-
-                  Note* All positions are open to be elected, however please be advised that Officer roles requires being in the branch for at least one year.
-                  
-                  Each candidate will breifly spend 3-5 minutes describing their platform, which will be followed by a 3-5 minute question period by the audience. 
-                  
-                  Voting period beings immeditaely following the election by current IEEE executive team and decisions will be made public the following Wednesday April 3rd at our AGM.
-                  
-                  For additional questions or concerns involving the process or platforms, please direct your questions to chair@ieeecarleton.ca`
+                  text: `Welcome back to school everyone! 
+                  `
               },
               {
                 tag: 'p',
-                text: `Elections are Wednesday March 27th at 5:30 PM in ME4332`
+                text: `We are located in the Mackenzie Building Room 3359.`
             },
               {
                 tag: 'htmlString',
-                text: `Positions and Template! <a href='https://drive.google.com/drive/folders/12TauIgYbYd09FoX2dYmVE0DmNXDfF4W6?usp=drive_link'>here</a>`
+                text: `Our newly updated website! <a href='https://www.ieeecarleton.ca/'>HERE</a>`
               }
             ]
         },
         {
-            title: `Battle Royale XV`,
-            img: `BRXV.png`,
+            title: 'How Do I Get Involed?',
+            body: [
+              {
+                tag: 'h2',
+                text: 'There are loads of ways to get involved within the IEEE Student Branch Community!',
+              }
+            ]
+        },
+        {
+            title: `Stay Late and Make: SLAM`,
+            img: `ieee-carleton.png`,
             body: [
               {
                   tag: 'p',
@@ -63,8 +65,8 @@ module.exports = {
             ]
         },
         { 
-        title: `SLAM Proposal Submissions`,
-        img: `slamnew.png`,
+        title: `WIE Wine and Cheese`,
+        img: `ieee-carleton.png`,
         body: [
           {
               tag: 'p',
@@ -79,6 +81,42 @@ module.exports = {
             text: `Click <a href='https://linktr.ee/ieeeslam?utm_source=qr_code&fbclid=IwAR2H9v2dVEhxLo7U72IhRU5YKEpiSSYqRTBVCU6mwKeTO2j_wL4fkyauFg4'>here</a>`
           }
         ]
+        },
+        { 
+          title: `cuHacking`,
+          img: `ieee-carleton.png`,
+          body: [
+            {
+                tag: 'p',
+                text: `Send in your proposal submissions for SLAM!`
+            },
+            {
+              tag: 'htmlString',
+              text: `We are now also accepting commissions for our 3D-Printer!`
+            },
+            {
+              tag: 'htmlString',
+              text: `Click <a href='https://linktr.ee/ieeeslam?utm_source=qr_code&fbclid=IwAR2H9v2dVEhxLo7U72IhRU5YKEpiSSYqRTBVCU6mwKeTO2j_wL4fkyauFg4'>here</a>`
+            }
+          ]
+        },
+        { 
+          title: `Networking and Other Events`,
+          img: `ieee-carleton.png`,
+          body: [
+            {
+                tag: 'p',
+                text: `Send in your proposal submissions for SLAM!`
+            },
+            {
+              tag: 'htmlString',
+              text: `We are now also accepting commissions for our 3D-Printer!`
+            },
+            {
+              tag: 'htmlString',
+              text: `Click <a href='https://linktr.ee/ieeeslam?utm_source=qr_code&fbclid=IwAR2H9v2dVEhxLo7U72IhRU5YKEpiSSYqRTBVCU6mwKeTO2j_wL4fkyauFg4'>here</a>`
+            }
+          ]
         }
     ]
 }
