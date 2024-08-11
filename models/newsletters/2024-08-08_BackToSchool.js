@@ -20,13 +20,26 @@ module.exports = {
             body: [
               {
                   tag: 'p',
-                  text: `Welcome back to school everyone! 
-                  `
+                  text: `If you are viewing this newletter you are a current newletter 
+                  recipient of the IEEE Carleton Student Branch. 
+                  You probably already know who we are, 
+                  but if you signed up for this for no reason- 
+                  let us give you an intro on who were are!`
               },
               {
                 tag: 'p',
-                text: `We are located in the Mackenzie Building Room 3359.`
-            },
+                text: `The Institute of Electrical and Electronics Engineers (IEEE) is 
+                the largest technical professional organization in the world. Since 1975, the IEEE
+                has been a diverse group of students at Carleton interested in engineering, computer science and other
+                technical fields! We are a smaller community within the IEEE Ottawa Branch and host numerous social events
+                throughout the year at Carleton and across the Greater Ottawa Region. No- you do not have to be in engineering to join!
+                So, if you know people who are interested in being a part of a tight-knit group we are always ready to welcome in new members.
+                Feel free to share this newsletter with your friends as well!`
+              },
+              {
+                tag: 'p',
+                text: `If you ever want to visit us, we are located in the Mackenzie Building Room 3359.`
+              },
               {
                 tag: 'htmlString',
                 text: `Our newly updated website! <a href='https://www.ieeecarleton.ca/'>HERE</a>`
@@ -38,7 +51,8 @@ module.exports = {
             body: [
               {
                 tag: 'h2',
-                text: 'There are loads of ways to get involved within the IEEE Student Branch Community!',
+                text: 'There are loads of ways to get involved within the IEEE Student Branch Community during the year!',
+
               }
             ]
         },
@@ -48,19 +62,11 @@ module.exports = {
             body: [
               {
                   tag: 'p',
-                  text: `From intense gaming to unbeatable bragging rights, Battle Royale has it all. If you think you have what it takes to rise to the top or simply want to have a good time. Battle Royale is for you!
-
-                  From Friday March 22nd - Sunday March 24th IEEE is proud to offer CS:2, League of Legends, and Rocket League with the addition of a Game Jam for those who love making games with up to $1000 in prizes! 
-                  
-                  The event is fully online on their discord channel and all proceeds will go towards the Ottawa Food Bank to support the local community.
-                  
-                  Click the link below to register and for a more detailed breakdown of the scheduling and prizing.
-                  
-                  See you on the Battlegrounds`
+                  text: ``
               },
               {
                 tag: 'htmlString',
-                text: `Click <a href='https://l.facebook.com/l.php?u=https%3A%2F%2Flinktr.ee%2Fieeebattleroyale%3Ffbclid%3DIwAR2lW11Ve3czdoePmGKYRK8ILbKz8Uc14inpxnqu7bjh5txEbVA3Nbxx9Dc&h=AT0xm6tPc9cN5HN7HblPZ9AqpPXovTefhJrPqyOg2nJGQea6PoY5qrmZ-tko8D75smStBjPacyaKpZhLG5PAUNpca-3wRZ9JN5bopSnggEKTDlxf0i7JyYVjbHBCRudEtd-x6Q'>here</a>`
+                text: `Click <a href=''>here</a>`
               }
             ]
         },
@@ -70,15 +76,15 @@ module.exports = {
         body: [
           {
               tag: 'p',
-              text: `Send in your proposal submissions for SLAM!`
+              text: `One of our biggest networking events.`
           },
           {
             tag: 'htmlString',
-            text: `We are now also accepting commissions for our 3D-Printer!`
+            text: ``
           },
           {
             tag: 'htmlString',
-            text: `Click <a href='https://linktr.ee/ieeeslam?utm_source=qr_code&fbclid=IwAR2H9v2dVEhxLo7U72IhRU5YKEpiSSYqRTBVCU6mwKeTO2j_wL4fkyauFg4'>here</a>`
+            text: `Visit the WIE Carleton Student Branch <a href=''>website! </a>`
           }
         ]
         },
@@ -88,33 +94,33 @@ module.exports = {
           body: [
             {
                 tag: 'p',
-                text: `Send in your proposal submissions for SLAM!`
+                text: ``
             },
             {
               tag: 'htmlString',
-              text: `We are now also accepting commissions for our 3D-Printer!`
+              text: ``
             },
             {
               tag: 'htmlString',
-              text: `Click <a href='https://linktr.ee/ieeeslam?utm_source=qr_code&fbclid=IwAR2H9v2dVEhxLo7U72IhRU5YKEpiSSYqRTBVCU6mwKeTO2j_wL4fkyauFg4'>here</a>`
+              text: `Click <a href=''>here</a>`
             }
           ]
         },
         { 
           title: `Networking and Other Events`,
-          img: `ieee-carleton.png`,
+          img: `Networking Photo.jpg`,
           body: [
             {
                 tag: 'p',
-                text: `Send in your proposal submissions for SLAM!`
+                text: ``
             },
             {
               tag: 'htmlString',
-              text: `We are now also accepting commissions for our 3D-Printer!`
+              text: ``
             },
             {
               tag: 'htmlString',
-              text: `Click <a href='https://linktr.ee/ieeeslam?utm_source=qr_code&fbclid=IwAR2H9v2dVEhxLo7U72IhRU5YKEpiSSYqRTBVCU6mwKeTO2j_wL4fkyauFg4'>here</a>`
+              text: `Click <a href=''>here</a>`
             }
           ]
         }
