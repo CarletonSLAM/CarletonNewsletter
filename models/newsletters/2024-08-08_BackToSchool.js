@@ -2,7 +2,7 @@ module.exports = {
     toast: [
         {
             tag: 'h2',
-            text: 'AUGUST ##, 2024'
+            text: 'AUGUST 28, 2024'
         },
         {
             tag: 'p',
@@ -52,7 +52,22 @@ module.exports = {
               {
                 tag: 'h2',
                 text: 'There are loads of ways to get involved within the IEEE Student Branch Community during the year!',
-
+              },
+              {
+                tag: 'p',
+                text: 'In general there are three main ways you could get involved at IEEE.',
+              },
+              {
+                tag: 'p',
+                text: 'Number 1: Become an office volunteer. - At the beginning of the year we will send out a sign-up sheet for availibility! As an office volunteer you get to sit at the desk and have a full hour to chill inside our newly organized office!',
+              },
+              {
+                tag: 'p',
+                text: 'Number 2: Become an event volunteer. - Be sure to stay up to date on our socials to be able to help out with events. All types of events are listed below.',
+              },
+              {
+                tag: 'p',
+                text: 'Number 3: Become an event attendee. - You get to come to our events and enjoy all the perks! We have so many events so there will definetly be one that suits you! Again, listed below.',
               }
             ]
         },
@@ -66,7 +81,7 @@ module.exports = {
               },
               {
                   tag: 'p',
-                  text: 'Bring your ideas to live with SLAM! SLAM is a project that allows students use IEEE Carleton materials and facilities to create their dream projects. This includes 3D Printing, Wires, PCB Design and many other tools that can bring your idea to life!'
+                  text: 'Bring your ideas to live with SLAM! SLAM is a project that allows students use IEEE Carleton materials and facilities to create their dream projects. This includes 3D Printing, Wires, PCB Design and many other tools that can bring your idea to life! (Not an event: Usually happens weekly!)'
               },
               {
                 tag: 'htmlString',
@@ -104,7 +119,8 @@ module.exports = {
             {
                 tag: 'p',
                 text: `cuHacking is the official hacking event hosted by Carleton University. It is for hobbyists, aspiring developers, 
-                or anyone who is interested in programming. It is a chance to learn, develop your skills and win prizes!`
+                or anyone who is interested in programming. It is a chance to learn, develop your skills and win prizes! 
+                Fun Fact: It is the biggest hackathon in Canada!`
             },
             {
               tag: 'htmlString',
@@ -129,8 +145,18 @@ module.exports = {
             {
               tag: 'htmlString',
               text: `Learn more about <a href='https://www.ieeespac.ca/'>SPAC</a>`
-            }
+            },
           ]
-        }
+        },
+        {
+          title: 'Now What?',
+          body: [
+            {
+              tag: 'p',
+              text: 'Keep in touch with us throughout the year by following us on all our social media platforms! Check out the website to learn more about IEEE Carleton in general. Finally, this newsletter comes out on a bi-weekly basis which should give you all the information you should need!',
+            },
+          ]
+      }
+        
     ]
 }
