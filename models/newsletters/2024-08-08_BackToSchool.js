@@ -20,20 +20,20 @@ module.exports = {
             body: [
               {
                   tag: 'p',
-                  text: `If you are viewing this newletter you are a current newletter 
+                  text: `If you are viewing this newsletter, you are a current newletters 
                   recipient of the IEEE Carleton Student Branch. 
                   You probably already know who we are, 
                   but if you signed up for this for no reason- 
-                  let us give you an intro on who were are!`
+                  let us give you an intro on to who we are!`
               },
               {
                 tag: 'p',
                 text: `The Institute of Electrical and Electronics Engineers (IEEE) is 
-                the largest technical professional organization in the world. Since 1975, the IEEE
-                has been a diverse group of students at Carleton interested in engineering, computer science and other
+                the largest technical professional organization in the world. Since 1975, the IEEE Carleton Student Branch
+                has been a diverse group of students interested in engineering, computer science and other
                 technical fields! We are a smaller community within the IEEE Ottawa Branch and host numerous social events
                 throughout the year at Carleton and across the Greater Ottawa Region. No- you do not have to be in engineering to join!
-                So, if you know people who are interested in being a part of a tight-knit group we are always ready to welcome in new members.
+                So, if you know people who are interested in being a part of a tight-knit group, we are always ready to welcome new members.
                 Feel free to share this newsletter with your friends as well!`
               },
               {
@@ -59,7 +59,7 @@ module.exports = {
               },
               {
                 tag: 'p',
-                text: 'Number 1: Become an office volunteer. - At the beginning of the year we will send out a sign-up sheet for availibility! As an office volunteer you get to sit at the desk and have a full hour to chill inside our newly organized office!',
+                text: 'Number 1: Become an office volunteer. - At the beginning of the year we will send out a sign-up sheet for availibility! As an office volunteer you get to sit at the desk and have a full hour to chill inside our office!',
               },
               {
                 tag: 'p',
@@ -67,7 +67,7 @@ module.exports = {
               },
               {
                 tag: 'p',
-                text: 'Number 3: Become an event attendee. - You get to come to our events and enjoy all the perks! We have so many events so there will definetly be one that suits you! Again, listed below.',
+                text: 'Number 3: Become an event attendee. - You get to come to our events and enjoy all the perks! We have so many events so there will alway be one that suits you! Again, listed below.',
               }
             ]
         },
@@ -81,11 +81,11 @@ module.exports = {
               },
               {
                   tag: 'p',
-                  text: 'Bring your ideas to live with SLAM! SLAM is a project that allows students use IEEE Carleton materials and facilities to create their dream projects. This includes 3D Printing, Wires, PCB Design and many other tools that can bring your idea to life! (Not an event: Usually happens weekly!)'
+                  text: 'Bring your ideas to life with SLAM! SLAM is a project that allows students use IEEE Carleton materials and facilities to create their dream projects. This includes 3D Printing, materials, PCB Design and many other tools that can bring your idea to life! (Not an event: Usually happens weekly and all-year round!)'
               },
               {
                 tag: 'htmlString',
-                text: `Submit your project <a href=>Now!</a>`
+                text: `Submit your project <a href = 'https://forms.gle/NPwKQdVzCd9iE9HbA' >Now!</a>`
               }
             ]
         },
@@ -139,7 +139,7 @@ module.exports = {
             {
               tag: 'p',
               text: `The IEEE Student Professional Awareness Conference (SPAC) is a formal dinner and networking event that 
-              connects our student branch with partners throughout the entrity of the engineering community. With around 100 companies to connect with 
+              connects our student branch with partners throughout the engineering community. With around 100 companies to connect with 
               there are loads of oppurtunities for students to enter the industry`
           },
             {
