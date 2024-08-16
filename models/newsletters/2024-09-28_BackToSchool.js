@@ -20,20 +20,20 @@ module.exports = {
             body: [
               {
                   tag: 'p',
-                  text: `If you are viewing this newsletter, you are a current newletters 
+                  text: `If you are viewing this newletter you are a current newletter 
                   recipient of the IEEE Carleton Student Branch. 
                   You probably already know who we are, 
                   but if you signed up for this for no reason- 
-                  let us give you an intro on to who we are!`
+                  let us give you an intro on who were are!`
               },
               {
                 tag: 'p',
                 text: `The Institute of Electrical and Electronics Engineers (IEEE) is 
-                the largest technical professional organization in the world. Since 1975, the IEEE Carleton Student Branch
-                has been a diverse group of students interested in engineering, computer science and other
+                the largest technical professional organization in the world. Since 1975, the IEEE
+                has been a diverse group of students at Carleton interested in engineering, computer science and other
                 technical fields! We are a smaller community within the IEEE Ottawa Branch and host numerous social events
                 throughout the year at Carleton and across the Greater Ottawa Region. No- you do not have to be in engineering to join!
-                So, if you know people who are interested in being a part of a tight-knit group, we are always ready to welcome new members.
+                So, if you know people who are interested in being a part of a tight-knit group we are always ready to welcome in new members.
                 Feel free to share this newsletter with your friends as well!`
               },
               {
@@ -52,22 +52,7 @@ module.exports = {
               {
                 tag: 'h2',
                 text: 'There are loads of ways to get involved within the IEEE Student Branch Community during the year!',
-              },
-              {
-                tag: 'p',
-                text: 'In general there are three main ways you could get involved at IEEE.',
-              },
-              {
-                tag: 'p',
-                text: 'Number 1: Become an office volunteer. - At the beginning of the year we will send out a sign-up sheet for availibility! As an office volunteer you get to sit at the desk and have a full hour to chill inside our office!',
-              },
-              {
-                tag: 'p',
-                text: 'Number 2: Become an event volunteer. - Be sure to stay up to date on our socials to be able to help out with events. All types of events are listed below.',
-              },
-              {
-                tag: 'p',
-                text: 'Number 3: Become an event attendee. - You get to come to our events and enjoy all the perks! We have so many events so there will alway be one that suits you! Again, listed below.',
+
               }
             ]
         },
@@ -81,11 +66,11 @@ module.exports = {
               },
               {
                   tag: 'p',
-                  text: 'Bring your ideas to life with SLAM! SLAM is a project that allows students use IEEE Carleton materials and facilities to create their dream projects. This includes 3D Printing, materials, PCB Design and many other tools that can bring your idea to life! (Not an event: Usually happens weekly and all-year round!)'
+                  text: 'Bring your ideas to live with SLAM! SLAM is a project that allows students use IEEE Carleton materials and facilities to create their dream projects. This includes 3D Printing, Wires, PCB Design and many other tools that can bring your idea to life!'
               },
               {
                 tag: 'htmlString',
-                text: `Submit your project <a href = 'https://forms.gle/NPwKQdVzCd9iE9HbA' >Now!</a>`
+                text: `Submit your project <a href= https://forms.gle/ovyUZ26kMz9ZSc818>Now!</a>`
               }
             ]
         },
@@ -119,8 +104,7 @@ module.exports = {
             {
                 tag: 'p',
                 text: `cuHacking is the official hacking event hosted by Carleton University. It is for hobbyists, aspiring developers, 
-                or anyone who is interested in programming. It is a chance to learn, develop your skills and win prizes! 
-                Fun Fact: It is the biggest hackathon in Canada!`
+                or anyone who is interested in programming. It is a chance to learn, develop your skills and win prizes!`
             },
             {
               tag: 'htmlString',
@@ -139,24 +123,14 @@ module.exports = {
             {
               tag: 'p',
               text: `The IEEE Student Professional Awareness Conference (SPAC) is a formal dinner and networking event that 
-              connects our student branch with partners throughout the engineering community. With around 100 companies to connect with 
+              connects our student branch with partners throughout the entrity of the engineering community. With around 100 companies to connect with 
               there are loads of oppurtunities for students to enter the industry`
           },
             {
               tag: 'htmlString',
               text: `Learn more about <a href='https://www.ieeespac.ca/'>SPAC</a>`
-            },
+            }
           ]
-        },
-        {
-          title: 'Now What?',
-          body: [
-            {
-              tag: 'p',
-              text: 'Keep in touch with us throughout the year by following us on all our social media platforms! Check out the website to learn more about IEEE Carleton in general. Finally, this newsletter comes out on a bi-weekly basis which should give you all the information you should need!',
-            },
-          ]
-      }
-        
+        }
     ]
 }
