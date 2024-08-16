@@ -2,7 +2,7 @@ module.exports = {
     toast: [
         {
             tag: 'h2',
-            text: 'AUGUST 28, 2024'
+            text: 'SEPETEMBER 9, 2024'
         },
         {
             tag: 'p',
