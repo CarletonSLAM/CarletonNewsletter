@@ -88,6 +88,10 @@ module.exports = {
             In general the WIE IEEE Student Branch hopes to encourage inclusion within engineering and all other technical fields.`
           },
           {
+            tag: 'p',
+            text: `Some other WIE Carleton specific events include Cocoa and Cram, Self Care Night, Professor Panel, and more!`
+          },
+          {
             tag: 'htmlString',
             text: ``
           },
@@ -126,6 +130,32 @@ module.exports = {
               connects our student branch with partners throughout the entrity of the engineering community. With around 100 companies to connect with 
               there are loads of oppurtunities for students to enter the industry`
           },
+            {
+              tag: 'htmlString',
+              text: `Learn more about <a href='https://www.ieeespac.ca/'>SPAC</a>`
+            }
+          ]
+        },
+        { 
+          title: `Other Events`,
+          img: `SPAC 2020_22.jpg`,
+          body: [
+            {
+                tag: 'p',
+                text: `Photo: SPAC 2020`
+            },
+            {
+              tag: 'p',
+              text: `IEEE Carleton hosts so many events, we simply can't put them all here. Here are a few other social events that you should look out for.`
+          },
+          {
+            tag: 'p',
+            text: 'Social Events: Polar plunge, Battle Royal, Societal Wars, Movie Night'
+        },
+        {
+          tag: 'p',
+          text: 'Networking/Academic: Resume roast, LinkedIn Headshots, LaTex workshops, Conferences'
+      },
             {
               tag: 'htmlString',
               text: `Learn more about <a href='https://www.ieeespac.ca/'>SPAC</a>`
