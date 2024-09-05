@@ -138,15 +138,15 @@ module.exports = {
         },
         { 
           title: `Other Events`,
-          img: `SPAC 2020_22.jpg`,
+          img: `branch_logo_blue.png`,
           body: [
             {
                 tag: 'p',
-                text: `Photo: SPAC 2020`
+                text: `Photo: IEEE Logo`
             },
             {
               tag: 'p',
-              text: `IEEE Carleton hosts so many events, we simply can't put them all here. Here are a few other social events that you should look out for.`
+              text: `IEEE Carleton hosts so many events, we simply can't put them all here. Here are a few social events that you should look out for.`
           },
           {
             tag: 'p',
@@ -155,11 +155,7 @@ module.exports = {
         {
           tag: 'p',
           text: 'Networking/Academic: Resume roast, LinkedIn Headshots, LaTex workshops, Conferences'
-      },
-            {
-              tag: 'htmlString',
-              text: `Learn more about <a href='https://www.ieeespac.ca/'>SPAC</a>`
-            }
+      }
           ]
         }
     ]
