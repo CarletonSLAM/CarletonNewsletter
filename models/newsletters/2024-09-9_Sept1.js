@@ -9,8 +9,8 @@ module.exports = {
             text: 'Welcome Back To School!'
         },
         {
-            tag: 'htmlString',
-            text: `If you are having trouble viewing this as an email, click <a href='http://staylateandmake.ca/CarletonNewsletter/output/2023-03-13.html'>here</a> to view in browser.`
+            tag: 'p',
+            text: `If you are having trouble viewing this as an email, please contact publications@ieeecarleton.ca.`
         }
     ],
     articles: [
@@ -32,7 +32,7 @@ module.exports = {
                 the largest technical professional organization in the world. Since 1975, the IEEE
                 has been a diverse group of students at Carleton interested in engineering, computer science and other
                 technical fields! We are a smaller community within the IEEE Ottawa Branch and host numerous social events
-                throughout the year at Carleton and across the Greater Ottawa Region. No- you do not have to be in engineering to join!
+                throughout the year at Carleton and across the Greater Ottawa Region. No- you do not have to be in electrical engineering or anything engineering to join!
                 So, if you know people who are interested in being a part of a tight-knit group we are always ready to welcome in new members.
                 Feel free to share this newsletter with your friends as well!`
               },
@@ -66,7 +66,7 @@ module.exports = {
               },
               {
                   tag: 'p',
-                  text: 'Bring your ideas to live with SLAM! SLAM is a project that allows students use IEEE Carleton materials and facilities to create their dream projects. This includes 3D Printing, Wires, PCB Design and many other tools that can bring your idea to life!'
+                  text: 'Do you have a dream? A vision? SLAM is a project that allows students use IEEE Carleton materials and facilities to create their dream projects. This includes 3D Printing, Wires, PCB Design and many other tools that can bring your idea to life! This activity runs throughout the year, so feel free to submit a project whenever!'
               },
               {
                 tag: 'htmlString',
@@ -84,16 +84,12 @@ module.exports = {
           },
           {
             tag: 'p',
-            text: `Wine and Cheese is an event hosted by the Women In Engineering (WIE) IEEE Student Branch. It is one of our biggest networking events. 
-            In general the WIE IEEE Student Branch hopes to encourage inclusion within engineering and all other technical fields.`
+            text: `Wine and Cheese is an event hosted by the IEEE Women In Engineering (WIE) Student Branch. It is one of our biggest networking events. 
+            In general the IEEE WIE Student Branch hopes to encourage the inclusion of women+ within engineering and all other technical fields.`
           },
           {
             tag: 'p',
-            text: `Some other WIE Carleton specific events include Cocoa and Cram, Self Care Night, Professor Panel, and more!`
-          },
-          {
-            tag: 'htmlString',
-            text: ``
+            text: `Some other IEEE WIE Carleton specific events include Cocoa and Cram, Self Care Night, Professor Panel, and more!`
           },
           {
             tag: 'htmlString',
