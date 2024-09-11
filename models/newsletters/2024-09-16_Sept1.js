@@ -47,7 +47,31 @@ module.exports = {
             ]
         },
         {
-            title: 'How Do I Get Involed?',
+          title: 'UPCOMING EVENTS',
+          body: [
+            {
+              tag: 'h2',
+              text: 'Here are some events that are happening in the next few weeks.',
+
+            }
+          ]
+      },
+      {
+        title: `Intern Panel`,
+        img: `GroupShot1.jpg`,
+        body: [
+          {
+              tag: 'p',
+              text: 'Intern Panel 2023',
+          },
+          {
+              tag: 'p',
+              text: 'The intern panel is'
+          },
+        ]
+    },
+        {
+            title: 'FUTURE EVENTS TO LOOK OUT FOR',
             body: [
               {
                 tag: 'h2',
