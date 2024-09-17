@@ -2,7 +2,7 @@ module.exports = {
     toast: [
         {
             tag: 'h2',
-            text: 'SEPETEMBER 16, 2024'
+            text: 'SEPETEMBER 17, 2024'
         },
         {
             tag: 'p',
@@ -57,7 +57,7 @@ module.exports = {
       },
       { 
         title: `Intern Panel`,
-        img: ``,
+        img: `Intern TechTalk Promo Social Media (2)-images-0.jpg`,
         body: [
           {
               tag: 'h2',
@@ -79,12 +79,51 @@ module.exports = {
         body: [
           {
               tag: 'h2',
-              text: `DATE: SEPTEMBER 22, 2024`
+              text: `DUE DATE: SEPTEMBER 22, 2024`
           },
           {
             tag: 'p',
             text: `We are hiring!!! IEEE is currently hiring two positions that will run all year round. 
-            Do you want to add an awesome postion to your resume?`
+            Do you want to add an awesome postion to your resume? Here are the three positions we are hiring: `
+        },
+        {
+          tag: 'h2',
+          text: `Academic Director: Be in charge of organizing Technical Workshops and Seminars. Communicate with other clubs about our events.`
+      },
+      {
+        tag: 'h2',
+        text: `Technical Director: Help update and maintain our website. Ensures server is working. Maintain the domains and hostings`
+    },
+    {
+      tag: 'h2',
+      text: `WIE Graphics Designer: Represent IEEE events on campus! Design posts for the WIE social media pages`
+  },
+  {
+    tag: 'p',
+    text: `To apply, please visit our linktree and make a copy of our Elections Platform Template. 
+    Then send your platform to secretary@ieeecarleton.ca. If you have any questions feel free to reach out!`
+},
+{
+  tag: 'htmlString',
+  text: `Apply<a href= https://linktr.ee/ieee.carleton> Now!</a>`
+}
+        ]
+      },
+      { 
+        title: `Sweaters!`,
+        img: `sweatshirt ordering.png`,
+        body: [
+          {
+              tag: 'h2',
+              text: `Buy now!`
+          },
+          {
+            tag: 'p',
+            text: `Fill out our form to be able to buy a swaggy IEEE sweater! A photo of the sweater is featured within the form!`
+        },
+        {
+          tag: 'htmlString',
+          text: `Put in your order<a href= https://forms.gle/4BrVwNcWb3UvAQey8>Now!</a>`
         },
         ]
       },
