@@ -2,7 +2,7 @@ module.exports = {
     toast: [
         {
             tag: 'h2',
-            text: 'SEPETEMBER 9, 2024'
+            text: 'SEPETEMBER 16, 2024'
         },
         {
             tag: 'p',
@@ -47,11 +47,53 @@ module.exports = {
             ]
         },
         {
-            title: 'How Do I Get Involed?',
+          title: 'UPCOMING EVENTS!',
+          body: [
+            {
+              tag: 'h2',
+              text: 'Here are some events that are happening in the next few weeks!',
+            }
+          ]
+      },
+      { 
+        title: `Intern Panel`,
+        img: ``,
+        body: [
+          {
+              tag: 'h2',
+              text: `DATE: SEPTEMBER 24, 2024`
+          },
+          {
+            tag: 'p',
+            text: `Interested in learning all the ins and outs of finding your first co-op? 
+            Want to hear from successful students in various industries? 
+            Want to come out and ask one question at IEEE’s STAMPED EVENT? Well look no further, 
+            the IEEE SCESOC intern panel boasts a variety of panelists that want to share their 
+            co-op experiences and answer all your burning questions!`
+        },
+        ]
+      },
+      { 
+        title: `Election???`,
+        img: ``,
+        body: [
+          {
+              tag: 'h2',
+              text: `DATE: SEPTEMBER 22, 2024`
+          },
+          {
+            tag: 'p',
+            text: `We are hiring!!! IEEE is currently hiring two positions that will run all year round. 
+            Do you want to add an awesome postion to your resume?`
+        },
+        ]
+      },
+        {
+            title: 'Future Events!',
             body: [
               {
                 tag: 'h2',
-                text: 'There are loads of ways to get involved within the IEEE Student Branch Community during the year!',
+                text: 'There are loads of ways to get involved within the IEEE Student Branch Community during the year! Here are some events that are happening throughout the year.',
 
               }
             ]
@@ -93,7 +135,7 @@ module.exports = {
           },
           {
             tag: 'htmlString',
-            text: `Visit the WIE Carleton Student Branch <a href='https://www.celebratewie.ca/'>website! </a>`
+            text: `Visit the IEEE WIE Carleton Student Branch <a href='https://www.celebratewie.ca/'>website! </a>`
           }
         ]
         },

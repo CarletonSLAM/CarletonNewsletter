@@ -18,7 +18,7 @@ const styles = {
     height: '40px',
     lineHeight: '40px',
     borderRadius: '5px',
-    fontSize: '20px',
+    fontSize: '5px',
     fontWeight: 'bold',
     backgroundColor: theme.primary,
     color: '#fff',

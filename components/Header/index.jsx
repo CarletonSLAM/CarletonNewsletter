@@ -41,7 +41,7 @@ const styles = {
     fontSize: ' 0.9rem'
   },
   buttons: {
-    fontSize: '20px',
+    fontSize: '15px',
     fontWeight: 'bold',
     margin: '10px 20px 10px 20px',
     padding: '0 15px',
