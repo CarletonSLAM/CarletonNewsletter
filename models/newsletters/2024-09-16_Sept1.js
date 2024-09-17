@@ -56,26 +56,8 @@ module.exports = {
           ]
       },
       { 
-        title: `Intern Panel`,
-        img: `Intern TechTalk Promo Social Media (2)-images-0.jpg`,
-        body: [
-          {
-              tag: 'h2',
-              text: `DATE: SEPTEMBER 24, 2024`
-          },
-          {
-            tag: 'p',
-            text: `Interested in learning all the ins and outs of finding your first co-op? 
-            Want to hear from successful students in various industries? 
-            Want to come out and ask one question at IEEE’s STAMPED EVENT? Well look no further, 
-            the IEEE SCESOC intern panel boasts a variety of panelists that want to share their 
-            co-op experiences and answer all your burning questions!`
-        },
-        ]
-      },
-      { 
         title: `Election???`,
-        img: ``,
+        img: `Hiring.png`,
         body: [
           {
               tag: 'h2',
@@ -110,6 +92,28 @@ module.exports = {
         ]
       },
       { 
+        title: `Intern Panel`,
+        img:`Intern TechTalk Promo Social Media (2)-images-0.jpg`,
+        body: [
+          {
+              tag: 'h2',
+              text: `DATE: SEPTEMBER 24, 2024` 
+          },
+          {
+            tag: 'p',
+            text: `Interested in learning all the ins and outs of finding your first co-op? 
+            Want to hear from successful students in various industries? 
+            Want to come out and ask one question at IEEE’s STAMPED EVENT? Well look no further, 
+            the IEEE SCESOC intern panel boasts a variety of panelists that want to share their 
+            co-op experiences and answer all your burning questions!`
+        },
+        {
+          tag: 'htmlString',
+          text: `Sign up <a href='https://scesoc.ck.page/9d2d945267?fbclid=IwY2xjawEZ2QpleHRuA2FlbQIxMAABHbX_eYsfCYnkBoX4AfP_WY6tVjKzHquVI7tkDGz7o4rBalx1ROLF5Elw_w_aem_8WFW3YDqFOi2cyorikbgJA'> HERE</a>`
+        }
+        ]
+      },
+      { 
         title: `Sweaters!`,
         img: `sweatshirt ordering.png`,
         body: [
@@ -123,7 +127,7 @@ module.exports = {
         },
         {
           tag: 'htmlString',
-          text: `Put in your order<a href= https://forms.gle/4BrVwNcWb3UvAQey8>Now!</a>`
+          text: `Put in your order<a href= https://forms.gle/4BrVwNcWb3UvAQey8> Now!</a>`
         },
         ]
       },
