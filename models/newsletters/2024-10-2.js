@@ -67,10 +67,6 @@ module.exports = {
           tag: "h2",
           text: `Anthony Hoang`,
         },
-        {
-          tag: "p",
-          text: `Description`,
-        },
       ],
     },
     {
@@ -81,37 +77,25 @@ module.exports = {
           tag: "h2",
           text: `Ethan Alvares`,
         },
-        {
-          tag: "p",
-          text: `Description`,
-        },
       ],
     },
     {
       title: `Webmaster`,
-      img: ``,
+      img: `Justin.jpeg`,
       body: [
         {
           tag: "h2",
           text: `Justin Kim`,
         },
-        {
-          tag: "p",
-          text: `Description`,
-        },
       ],
     },
     {
       title: `WIE Graphics Designer`,
-      img: ``,
+      img: `Armeena.png`,
       body: [
         {
           tag: "h2",
           text: `Armeena Abbasi`,
-        },
-        {
-          tag: "p",
-          text: `Description`,
         },
       ],
     },
@@ -122,10 +106,6 @@ module.exports = {
         {
           tag: "h2",
           text: `Emrie Frei`,
-        },
-        {
-          tag: "p",
-          text: `Description`,
         },
       ],
     },
