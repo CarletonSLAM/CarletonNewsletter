@@ -33,7 +33,10 @@ module.exports = {
         },
         {
           tag: "p",
-          text: `Description`,
+          text: `SPAC is a national networking event that connects engineering students 
+          and computer science stuents to industry professionals. It is a semi-formal event where students can engage on 1-on-1
+          conversations with mentors and leaders in their desired fields. This year, the platinum partner is Blackberry. Other
+          companies who have sponsered the event are Ericsson, Ciena Canada, and Nokia. You do not want to miss this oppurtunity!`,
         },
         {
           tag: "htmlString",
