@@ -61,7 +61,7 @@ module.exports = {
     },
     {
       title: `Academic Director`,
-      img: ``,
+      img: `Anthony.png`,
       body: [
         {
           tag: "h2",
@@ -117,7 +117,7 @@ module.exports = {
     },
     {
       title: `IEEE Ottawa Robotics Competition Director`,
-      img: ``,
+      img: `Emrie.jpg`,
       body: [
         {
           tag: "h2",
