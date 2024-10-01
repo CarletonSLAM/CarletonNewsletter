@@ -2,11 +2,11 @@ module.exports = {
   toast: [
     {
       tag: "h2",
-      text: "MONTH ##, 2024",
+      text: "October 1st, 2024",
     },
     {
       tag: "p",
-      text: "TITLE",
+      text: "IEEE Day!",
     },
     {
       tag: "p",
@@ -24,12 +24,12 @@ module.exports = {
       ],
     },
     {
-      title: `EVENT TEMPLATE`,
+      title: `Student Professional Awareness Conference (SPAC)`,
       img: ``,
       body: [
         {
           tag: "h2",
-          text: `DATE`,
+          text: `November 1st | Brookstreet Hotel`,
         },
         {
           tag: "p",
@@ -37,7 +37,7 @@ module.exports = {
         },
         {
           tag: "htmlString",
-          text: `Link<a href= https://linktr.ee/ieee.carleton> Link</a>`,
+          text: `Learn More<a href=https://www.ieeespac.ca/>Here</a>`,
         },
       ],
     },
@@ -51,20 +51,81 @@ module.exports = {
       ],
     },
     {
-      title: `EVENT TEMPLATE`,
+      title: "Fall Hiring Election Results",
+      body: [
+        {
+          tag: "h2",
+          text: "Thank you for all the applicants who applied for our open positions! Here are the results:",
+        },
+      ],
+    },
+    {
+      title: `Academic Director`,
       img: ``,
       body: [
         {
           tag: "h2",
-          text: `DATE`,
+          text: `Anthony Hoang`,
         },
         {
           tag: "p",
           text: `Description`,
         },
+      ],
+    },
+    {
+      title: `Technical Director`,
+      img: ``,
+      body: [
         {
-          tag: "htmlString",
-          text: `Link<a href= https://linktr.ee/ieee.carleton> Link</a>`,
+          tag: "h2",
+          text: `Ethan Alvares`,
+        },
+        {
+          tag: "p",
+          text: `Description`,
+        },
+      ],
+    },
+    {
+      title: `Webmaster`,
+      img: ``,
+      body: [
+        {
+          tag: "h2",
+          text: `Justin Kim`,
+        },
+        {
+          tag: "p",
+          text: `Description`,
+        },
+      ],
+    },
+    {
+      title: `WIE Graphics Designer`,
+      img: ``,
+      body: [
+        {
+          tag: "h2",
+          text: `Armeena Abbasi`,
+        },
+        {
+          tag: "p",
+          text: `Description`,
+        },
+      ],
+    },
+    {
+      title: `IEEE Ottawa Robotics Competition Director`,
+      img: ``,
+      body: [
+        {
+          tag: "h2",
+          text: `Emrie Frei`,
+        },
+        {
+          tag: "p",
+          text: `Description`,
         },
       ],
     },
