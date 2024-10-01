@@ -25,7 +25,7 @@ module.exports = {
     },
     {
       title: `Student Professional Awareness Conference (SPAC)`,
-      img: ``,
+      img: `SPAC2020_22.jpg`,
       body: [
         {
           tag: "h2",
@@ -40,7 +40,7 @@ module.exports = {
         },
         {
           tag: "htmlString",
-          text: `Learn More<a href=https://www.ieeespac.ca/>Here</a>`,
+          text: `Learn More<a href=https://www.ieeespac.ca/> Here</a>`,
         },
       ],
     },
