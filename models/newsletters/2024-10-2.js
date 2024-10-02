@@ -15,6 +15,22 @@ module.exports = {
   ],
   articles: [
     {
+      title: `IEEE Watch Party: Iron Man!`,
+      img: `ieeeday2024.jpeg`,
+      body: [
+        {
+          tag: "h2",
+          text: `15th Annual IEEE Day!`,
+        },
+        {
+          tag: "p",
+          text: `Thank you to everyone who showed up to our movie night and supported us on our special day! 
+          IEEE Day happens annually on the first Tuesday of October. It just so happens that is today! We had
+          loads of fun watching Iron Man, and eating yummy popcorn. We love i-triple-events!`,
+        },
+      ],
+    },
+    {
       title: "UPCOMING EVENTS!",
       body: [
         {
@@ -24,17 +40,18 @@ module.exports = {
       ],
     },
     {
-      title: `Student Professional Awareness Conference (SPAC)`,
-      img: `SPAC2020_22.jpg`,
+      title: `IEEE Fall Semester General Meeting`,
+      img: `branch_logo_blue.png`,
       body: [
         {
           tag: "h2",
-          text: `IEEE Day`,
+          text: `October 7th, 2024 | 6:00 PM | ME 3269`,
         },
         {
           tag: "p",
-          text: `Thank you to everyone who showed up to our movie night and supported us on our special day! 
-          IEEE Day happens annually on the first Tuesday of October. It just so happens that is today!`,
+          text: `Come join us for our IEEE Fall Semester General Meeting (FSGM). Executive members will be presenting 
+          what they have accomplished thus far, and what they have planned for the rest of the year! You get to know
+          all the secrets of what makes us amazing, and can provide us feedback so we become even better!`,
         },
       ],
     },
@@ -124,6 +141,15 @@ module.exports = {
         {
           tag: "h2",
           text: `Emrie Frei`,
+        },
+      ],
+    },
+    {
+      title: "Congrats!",
+      body: [
+        {
+          tag: "h2",
+          text: "We are so excited for the full team to get started with their tasks and see what they can accomplish!",
         },
       ],
     },
