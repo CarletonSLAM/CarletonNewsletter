@@ -6,7 +6,7 @@ module.exports = {
     },
     {
       tag: "p",
-      text: "IEEE Day!",
+      text: "Celebrating IEEE Day!",
     },
     {
       tag: "p",
@@ -20,6 +20,21 @@ module.exports = {
         {
           tag: "h2",
           text: "Here are some events that are happening in the next few weeks!",
+        },
+      ],
+    },
+    {
+      title: `Student Professional Awareness Conference (SPAC)`,
+      img: `SPAC2020_22.jpg`,
+      body: [
+        {
+          tag: "h2",
+          text: `IEEE Day`,
+        },
+        {
+          tag: "p",
+          text: `Thank you to everyone who showed up to our movie night and supported us on our special day! 
+          IEEE Day happens annually on the first Tuesday of October. It just so happens that is today!`,
         },
       ],
     },
@@ -74,7 +89,7 @@ module.exports = {
     },
     {
       title: `Technical Director`,
-      img: ``,
+      img: `Ethan.jpeg`,
       body: [
         {
           tag: "h2",
