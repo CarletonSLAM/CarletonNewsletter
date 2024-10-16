@@ -99,7 +99,7 @@ module.exports = {
     },
     {
       title: `Fall Semester General Meeting`,
-      img: `IEEE_FSGM_2024.jpeg`,
+      img: `IEEE_FSGM_2024.jpg`,
       body: [
         {
           tag: "h2",
