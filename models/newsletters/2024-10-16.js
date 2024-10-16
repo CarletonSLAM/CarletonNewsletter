@@ -83,7 +83,7 @@ module.exports = {
     },
     {
       title: `Women In Engineering Speaker Series`,
-      img: ``,
+      img: `Shoeleh_Shams.jpeg`,
       body: [
         {
           tag: "h2",
