@@ -29,7 +29,7 @@ module.exports = {
     },
     {
       title: `Student Professinal Awareness Conference`,
-      img: ``,
+      img: `IEEE_SPAC_2024_BANNER.jpg`,
       body: [
         {
           tag: "h2",
@@ -99,7 +99,7 @@ module.exports = {
     },
     {
       title: `Fall Semester General Meeting`,
-      img: `IEEE_FSGM_2024`,
+      img: `IEEE_FSGM_2024.jpeg`,
       body: [
         {
           tag: "h2",
