@@ -82,8 +82,24 @@ module.exports = {
       ],
     },
     {
-      title: `Fall Semester General Meeting`,
+      title: `Women In Engineering Speaker Series`,
       img: ``,
+      body: [
+        {
+          tag: "h2",
+          text: `October 11th, 2024`,
+        },
+        {
+          tag: "p",
+          text: `Last week was the first part of the WIE Speaker Series, kicking it off with Professor, Shoeleh Shams! Professor Shams is an Associate Professor, 
+          Teaching Stream in Environmental Engineering and is the Associate Chair of Undergraduate Studies – Student Engagement at Carleton University. 
+          She holds a PhD in Civil and Environmental Engineering as well as her PEng. Be on the look out for more presentations like this from WIE coming soon.`,
+        },
+      ],
+    },
+    {
+      title: `Fall Semester General Meeting`,
+      img: `IEEE_FSGM_2024`,
       body: [
         {
           tag: "h2",
