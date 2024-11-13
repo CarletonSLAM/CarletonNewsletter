@@ -65,7 +65,6 @@ module.exports = {
     },
     {
       title: `WIE: Self Care Night!`,
-      img: ``,
       body: [
         {
           tag: "h2",
@@ -102,9 +101,10 @@ module.exports = {
     },
     {
       title: "SPAC: RECAP",
+      img: `avani_jo_spac_2024`,
       body: [
         {
-          tag: "h2",
+          tag: "p",
           text: "On Friday November 8, 2024 the Student Professional Awareness Conference occured. Roughly 250 young professionals connected with industry leaders through presentations and workshops. IEEE Carleton was fortunate to attend to share this experience was their members.",
         },
       ],
