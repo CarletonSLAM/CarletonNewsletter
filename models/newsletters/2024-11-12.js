@@ -25,7 +25,7 @@ module.exports = {
     },
     {
       title: `Women In Engineering Hoodies!`,
-      img: ``,
+      img: `WIE_HOODIE_2024.png`,
       body: [
         {
           tag: "h2",
@@ -44,6 +44,28 @@ module.exports = {
     {
       title: `WIE: Self Care Night!`,
       img: ``,
+      body: [
+        {
+          tag: "h2",
+          text: `Date: November 22, 2024`,
+        },
+        {
+          tag: "h2",
+          text: `Time: 7pm - 10pm`,
+        },
+        {
+          tag: "h2",
+          text: `Location: Roosters Coffeehouse`,
+        },
+        {
+          tag: "p",
+          text: `Join us for a night for oneself, to forgo the stresses of academics, a cheerful night of de-stressing.`,
+        },
+      ],
+    },
+    {
+      title: `IEEE: Ornament Decorating`,
+      img: `ORNAMENT_DECORATION.png`,
       body: [
         {
           tag: "h2",
