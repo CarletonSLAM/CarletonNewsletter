@@ -101,11 +101,15 @@ module.exports = {
     },
     {
       title: "SPAC: RECAP",
-      img: `avani_jo_spac_2024`,
+      img: `avani_jo_spac_2024.jpg`,
       body: [
         {
           tag: "p",
-          text: "On Friday November 8, 2024 the Student Professional Awareness Conference occured. Roughly 250 young professionals connected with industry leaders through presentations and workshops. IEEE Carleton was fortunate to attend to share this experience was their members.",
+          text: "On Friday November 8, 2024 the Student Professional Awareness Conference occured. Roughly 250 young professionals connected with industry leaders through presentations and workshops. IEEE Carleton was fortunate to attend to share this experience with their members.",
+        },
+        {
+          tag: "htmlString",
+          text: `More photos <a href= https://www.facebook.com/share/p/1ATot9izGw/> HERE! (All credits to HG Media)</a>`,
         },
       ],
     },
@@ -113,9 +117,8 @@ module.exports = {
       title: "Intern Panel",
       img: `intern_panel_2024.jpg`,
       body: [
-        
         {
-          tag: "h2",
+          tag: "p",
           text: "The SCESoc X IEEE Intern Panel was an oppurtunity of learning for our members! Stay tuned for more networking and educational events.",
         },
       ],
