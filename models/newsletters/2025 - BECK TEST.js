@@ -2,11 +2,11 @@ module.exports = {
   toast: [
     {
       tag: "h2",
-      text: "NOVEMBER 27, 2024",
+      text: "JULY 28, 2025",
     },
     {
       tag: "p",
-      text: "Hoping everyone is having a great end to their semester!",
+      text: "i am testing!",
     },
     {
       tag: "p",
@@ -24,8 +24,8 @@ module.exports = {
       ],
     },
     {
-      title: `WIE X CUE Workshop`,
-      img: `cue_wie_gender_workshop.jpg`,
+      title: `I am testing stuff`,
+      img: `becklovesspiderman.jpg`,
       body: [
         {
           tag: "h2",
