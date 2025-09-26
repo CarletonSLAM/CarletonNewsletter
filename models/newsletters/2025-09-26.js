@@ -90,6 +90,7 @@ module.exports = {
     },
     {
       title: `SLAM`,
+      img: 'SLAM_poster.png',
       body: [
         {
           tag: "p",
@@ -109,6 +110,7 @@ module.exports = {
     },
     {
       title: `Important Dates`,
+      img: `ieee-day-logo-color-rgb.jpg`,
       body: [
         {
           tag: "p",
