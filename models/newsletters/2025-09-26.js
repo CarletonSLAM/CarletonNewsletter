@@ -25,7 +25,7 @@ module.exports = {
     },
     {
       title: `SPAC 2025`,
-      img: `SPAC 2020_23.jpg`,
+      img: `SPAC2020_23.jpg`,
       body: [
         {
           tag: "h2",
@@ -63,6 +63,8 @@ module.exports = {
     },
     {
       title: `LinkedIn Workshop`,
+      img: `LinkedIn_workshop_1.png`,
+      img: `LinkedIn_workshop_2.png`,
       body: [
         {
           tag: "h2",
