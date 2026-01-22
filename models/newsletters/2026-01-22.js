@@ -62,10 +62,6 @@ Our team is focused on connecting passionate and motivated individuals with the 
           tag: "p",
           text: `Want to learn more about how to land an internship? Keep going to networking events but don't know how to turn connections into jobs? Attend the internship panel to get actionable tips from people who have.`,
         },
-        {
-          tag: "htmlString",
-          text: `<a href= "https://www.eventbrite.ca/e/wie-wine-cheese-2026-tickets-1875170919699?aff=oddtdtcreator">Get tickets here!</a>`,
-        },
       ],
     },
     {
