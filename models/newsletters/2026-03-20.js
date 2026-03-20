@@ -35,7 +35,7 @@ module.exports = {
     {
       title: `Run for the IEEE & WIE 2026-2027 executive team! `,
       img: `IEEE Carleton Executive 2026.png`,
-      img: `IEEE Carleton Executive 2026 - WIE.png`,
+      //img: `IEEE Carleton Executive 2026 - WIE.png`,
       body: [
         {
           tag: "h2",
