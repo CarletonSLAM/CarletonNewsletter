@@ -67,7 +67,7 @@ module.exports = {
     },
     {
       title: `WIE Cocoa & Cram`,
-      img: 'hotchocolateicon.png',
+      img: 'Cocoa and cram icon winter 2026.png',
       body: [
         {
           tag: "h2",
