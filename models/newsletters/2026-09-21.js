@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       title: `Meet the 2026/2027 Executive Team!`,
-      img: 'becklovesspiderman.jpg',
+      img: 'IEEE Executive team.png',
       body: [
         {
           tag: "p",
@@ -30,7 +30,7 @@ module.exports = {
     },
     {
       title: `The IEEE Office is now Open!`,
-      img: 'Office Hours.png',
+      img: 'Fall 2026 Office Hour Sign Ups.jpg',
       body: [
         {
           tag: "h2",
@@ -49,7 +49,7 @@ module.exports = {
     },
     {
       title: `SLAM`,
-      img: `SLAM Post & Poster 2026-27 - 1.png`,
+      img: `SLAM Post & Poster 2026-27.jpg`,
       body: [
         {
           tag: "h2",
